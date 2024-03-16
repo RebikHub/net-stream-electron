@@ -110,31 +110,31 @@ export const createPlaylists = async () => {
 
   // пока проверка доступа по url не нужна
 
-  // const checkedRu = await checkUrls(urlsRu);
-  // console.log("write checkedRu");
-  // writeFileSync(
-  //   "./src/content/tv/checkedRu.json",
-  //   JSON.stringify(checkedRu, null, 2)
-  // );
+  const checkedRu = await checkUrls(urlsRu);
+  console.log("write checkedRu");
+  writeFileSync(
+    "./src/content/tv/checkedRu.json",
+    JSON.stringify(checkedRu, null, 2)
+  );
 
-  // const checkedEn = await checkUrls(urlsEn);
-  // console.log("write checkedEn");
-  // writeFileSync(
-  //   "./src/content/tv/checkedEn.json",
-  //   JSON.stringify(checkedEn, null, 2)
-  // );
+  const checkedEn = await checkUrls(urlsEn);
+  console.log("write checkedEn");
+  writeFileSync(
+    "./src/content/tv/checkedEn.json",
+    JSON.stringify(checkedEn, null, 2)
+  );
 
-  // const checkedNsfw = await checkUrls(urlsNsfw);
-  // console.log("write checkedNsfw");
-  // writeFileSync(
-  //   "./src/content/tv/checkedNsfw.json",
-  //   JSON.stringify(checkedNsfw, null, 2)
-  // );
+  const checkedNsfw = await checkUrls(urlsNsfw);
+  console.log("write checkedNsfw");
+  writeFileSync(
+    "./src/content/tv/checkedNsfw.json",
+    JSON.stringify(checkedNsfw, null, 2)
+  );
 
-  // const checkedNoname = await checkUrls(urlsNoname);
-  // console.log("write checkedNoname");
-  // writeFileSync(
-  //   "./src/content/tv/checkedNoname.json",
-  //   JSON.stringify(checkedNoname, null, 2)
-  // );
+  const checkedNoname = await checkUrls(urlsNoname);
+  console.log("write checkedNoname");
+  writeFileSync(
+    "./src/content/tv/checkedNoname.json",
+    JSON.stringify(checkedNoname, null, 2)
+  );
 };

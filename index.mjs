@@ -37,6 +37,16 @@ function createWindow() {
   mainWindow.webContents.openDevTools();
 
   mainWindow.on("closed", () => (mainWindow = null));
+
+  // Скрыть верхнее меню, когда окно находится в полноэкранном режиме
+  mainWindow.on("enter-full-screen", () => {
+    mainWindow.setMenuBarVisibility(false);
+  });
+
+  // Показать верхнее меню, когда окно выходит из полноэкранного режима
+  mainWindow.on("leave-full-screen", () => {
+    mainWindow.setMenuBarVisibility(true);
+  });
 }
 
 app.on("ready", createWindow);

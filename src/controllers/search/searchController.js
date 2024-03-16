@@ -3,6 +3,8 @@ import parseTorrent from "parse-torrent";
 
 import axios from "axios";
 import * as cheerio from "cheerio";
+import { FILTER_ARRAY, TORRENT_URLS } from "../../config.js";
+import { getBaseUrl } from "../../utils/getBaseUrl.js";
 
 export const getSearchMovie = async (req, res) => {
   const movie = req.params.movie;
@@ -32,24 +34,16 @@ export const postSearchMagnet = async (req, res) => {
   }
 };
 
-export const RUTOR_URL = "https://rutor.org";
-// https://6-ffyg.123tt.ru/search/0/1/000/0
-// https://3-new-rutor.123rutor.su
-
-// https://9-fkqg.123tt.ru/
-
-const BASE_URL = "https://6-ffyg.123tt.ru";
-export const BASE_SEARCH_URL = "https://6-ffyg.123tt.ru/search/0/1/000/0";
-export const MAGNET_KEY = "magnet:?xt";
-export const SPLIT_MAGNET_STRING = "urn:btih:";
-
-export const IMDB_SEARCH_URL = "https://api.themoviedb.org/3";
-
 export const movieSearch = async (req, res) => {
-  const movie = req.params.movie;
+  const { movie, filter } = req.params;
+  const BASE_URL = await getBaseUrl(TORRENT_URLS);
 
   try {
-    const searchResult = await axios.get(`${BASE_SEARCH_URL}/${movie}`);
+    const searchResult = await axios.get(
+      `${BASE_URL}/search/0/${
+        FILTER_ARRAY.includes(+filter) ? filter : 1
+      }/000/0/${movie}`
+    );
     const $ = cheerio.load(searchResult.data);
 
     const data = $("#index tr").toArray();
@@ -57,22 +51,32 @@ export const movieSearch = async (req, res) => {
     const torrents = [
       ...data
         .map((item) => {
-          const [date, links, , gb] = $(item).find("td").toArray();
+          const [date, links, , gb, seeds] = $(item).find("td").toArray();
           const [, title] = $(links).find("a").toArray();
 
           const trackerLink = $(title).attr("href");
           const name = $(title).text();
           const dateText = $(date).text();
           const gbText = $(gb).text();
+          const [green, red] = $(seeds).find("span").toArray();
+          const ratio = {
+            seed: $(green).text(),
+            leech: $(red).text(),
+          };
 
           return {
             urlTorrent: trackerLink,
             nameTorrent: name,
             dateTorrent: dateText,
             gbTorrent: gbText,
+            ratio,
+            seeds: `${ratio.seed}/${ratio.leech}`,
           };
         })
-        .filter((item) => item.urlTorrent),
+        .filter(
+          (item) =>
+            item.urlTorrent && (item.ratio.seed > 0 || item.ratio.leech > 0)
+        ),
     ];
 
     res.status(200).send(torrents);
@@ -84,7 +88,7 @@ export const movieSearch = async (req, res) => {
 
 export const magnetSearch = async (req, res) => {
   const data = req.body;
-  console.log(data);
+  const BASE_URL = await getBaseUrl(TORRENT_URLS);
   try {
     const searchResult = await axios.get(`${BASE_URL}${data.data}`);
     const $ = cheerio.load(searchResult.data);

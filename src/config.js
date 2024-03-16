@@ -1,33 +1,20 @@
 export const PORT = process.env.PORT || 8000;
-export const WEBTORRENT_DOWNLOAD_PATH = './downloads';
-export const TV_CHANNELS_URL = 'https://iptv-org.github.io/api/channels.json';
-export const TV_STREAMS_URL = 'https://iptv-org.github.io/api/streams.json';
-// Другие конфигурационные параметры...
+export const WEBTORRENT_DOWNLOAD_PATH = "./downloads";
+export const TV_CHANNELS_URL = "https://iptv-org.github.io/api/channels.json";
+export const TV_STREAMS_URL = "https://iptv-org.github.io/api/streams.json";
+export const RUTOR_URL = "https://rutor.org";
 
+export const MAGNET_KEY = "magnet:?xt";
+export const SPLIT_MAGNET_STRING = "urn:btih:";
 
-// export interface ChannelsType {
-//   id: string
-//   name: string
-//   alt_names: string[]
-//   network: string
-//   owners: string[]
-//   country: string
-//   subdivision: string
-//   city: string
-//   broadcast_area: string[]
-//   languages: string[]
-//   categories: string[]
-//   is_nsfw: boolean
-//   launched: string
-//   closed: string
-//   replaced_by: string
-//   website: string
-//   logo: string
-// }
+export const FILTER_ARRAY = [1, 5, 7, 10, 4, 16];
 
-// export interface StreamsType {
-//   channel: string
-//   url: string
-//   http_referrer: string
-//   user_agent: string
-// }
+export const IMDB_SEARCH_URL = "https://api.themoviedb.org/3";
+
+export const TORRENT_URLS = [
+  "https://6-ffyg.123tt.ru",
+  "https://3-new-rutor.123rutor.su",
+  "https://9-ixwrqnqb.123tt.ru",
+  "https://9-fkqg.123tt.ru",
+  "https://6-lrea.123tt.ru",
+];

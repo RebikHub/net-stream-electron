@@ -59,21 +59,21 @@ export const getPlaylistUpdate = async (req, res) => {
 };
 
 export const getPlaylistRu = async (req, res) => {
-  await getChannelList("./src/content/tv/ru.json", res);
-  // await getChannelList("./src/content/tv/checkedRu.json", res);
+  // await getChannelList("./src/content/tv/ru.json", res);
+  await getChannelList("./src/content/tv/checkedRu.json", res);
 };
 
 export const getPlaylistEn = async (req, res) => {
-  await getChannelList("./src/content/tv/en.json", res);
-  // await getChannelList("./src/content/tv/checkedEn.json", res);
+  // await getChannelList("./src/content/tv/en.json", res);
+  await getChannelList("./src/content/tv/checkedEn.json", res);
 };
 
 export const getPlaylistNsfw = async (req, res) => {
-  await getChannelList("./src/content/tv/nsfw.json", res);
-  // await getChannelList("./src/content/tv/checkedNsfw.json", res);
+  // await getChannelList("./src/content/tv/nsfw.json", res);
+  await getChannelList("./src/content/tv/checkedNsfw.json", res);
 };
 
 export const getPlaylisNoname = async (req, res) => {
-  await getChannelList("./src/content/tv/noname.json", res);
-  // await getChannelList("./src/content/tv/checkedNoname.json", res);
+  // await getChannelList("./src/content/tv/noname.json", res);
+  await getChannelList("./src/content/tv/checkedNoname.json", res);
 };

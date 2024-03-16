@@ -14,7 +14,7 @@ router.get("/en/:movie", getSearchMovie);
 
 router.post("/en/magnet", postSearchMagnet);
 
-router.get("/ru/:movie", movieSearch);
+router.get("/ru/:filter/:movie", movieSearch);
 
 router.post("/ru/magnet", magnetSearch);
 

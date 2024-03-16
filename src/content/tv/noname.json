@@ -21,108 +21,10 @@
     "website": ""
   },
   {
-    "id": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s83/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s83/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s22/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s22/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s7/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s7/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s53/index.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://ott-cdn.ucom.am/s48/index.m3u8",
     "name": "http://ott-cdn.ucom.am/s48/index.m3u8",
     "logo": "",
     "url": "http://ott-cdn.ucom.am/s48/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s74/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s74/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s74/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s94/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s94/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s94/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s12/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s12/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s12/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s13/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s13/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s66/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s66/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://ott-cdn.ucom.am/s46/index.m3u8",
-    "name": "http://ott-cdn.ucom.am/s46/index.m3u8",
-    "logo": "",
-    "url": "http://ott-cdn.ucom.am/s46/index.m3u8",
     "website": ""
   },
   {
@@ -161,6 +63,146 @@
     "website": ""
   },
   {
+    "id": "http://170.254.18.106/BRAVO/index.m3u8",
+    "name": "http://170.254.18.106/BRAVO/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/BRAVO/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/AXN/index.m3u8",
+    "name": "http://170.254.18.106/AXN/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/AXN/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/AMC/index.m3u8",
+    "name": "http://170.254.18.106/AMC/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/AMC/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/COMEDY_CENTRAL/index.m3u8",
+    "name": "http://170.254.18.106/COMEDY_CENTRAL/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/COMEDY_CENTRAL/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/LIFETIME/index.m3u8",
+    "name": "http://170.254.18.106/LIFETIME/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/LIFETIME/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/HBO_MUNDI/index.m3u8",
+    "name": "http://170.254.18.106/HBO_MUNDI/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/HBO_MUNDI/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/HBO_FAMILY/index.m3u8",
+    "name": "http://170.254.18.106/HBO_FAMILY/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/HBO_FAMILY/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/HBO_PLUS/index.m3u8",
+    "name": "http://170.254.18.106/HBO_PLUS/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/HBO_PLUS/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/HBO2/index.m3u8",
+    "name": "http://170.254.18.106/HBO2/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/HBO2/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/HISTORY/index.m3u8",
+    "name": "http://170.254.18.106/HISTORY/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/HISTORY/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/STAR/index.m3u8",
+    "name": "http://170.254.18.106/STAR/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/STAR/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/FX/index.m3u8",
+    "name": "http://170.254.18.106/FX/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/FX/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/TNT/index.m3u8",
+    "name": "http://170.254.18.106/TNT/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/TNT/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/HBO_SIG/index.m3u8",
+    "name": "http://170.254.18.106/HBO_SIG/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/HBO_SIG/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/MTV/index.m3u8",
+    "name": "http://170.254.18.106/MTV/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/MTV/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/VH1/index.m3u8",
+    "name": "http://170.254.18.106/VH1/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/VH1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/PARAMOUNT/index.m3u8",
+    "name": "http://170.254.18.106/PARAMOUNT/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/PARAMOUNT/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/HBO_XTREME/index.m3u8",
+    "name": "http://170.254.18.106/HBO_XTREME/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/HBO_XTREME/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/CINEMAX/index.m3u8",
+    "name": "http://170.254.18.106/CINEMAX/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/CINEMAX/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://170.254.18.106/BET/index.m3u8",
+    "name": "http://170.254.18.106/BET/index.m3u8",
+    "logo": "",
+    "url": "http://170.254.18.106/BET/index.m3u8",
+    "website": ""
+  },
+  {
     "id": "https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8",
     "name": "https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8",
     "logo": "",
@@ -179,13 +221,6 @@
     "name": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8",
     "logo": "",
     "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
-    "name": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
-    "logo": "",
-    "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
     "website": ""
   },
   {
@@ -214,6 +249,20 @@
     "name": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
     "logo": "",
     "url": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8",
+    "name": "https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8",
+    "logo": "",
+    "url": "https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8",
+    "name": "https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8",
+    "logo": "",
+    "url": "https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8",
     "website": ""
   },
   {
@@ -3388,6 +3437,216 @@
     "website": ""
   },
   {
+    "id": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "name": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "logo": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "name": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "logo": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+    "name": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+    "logo": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+    "name": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+    "logo": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
+    "name": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
+    "logo": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+    "name": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+    "logo": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+    "name": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+    "logo": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+    "name": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+    "logo": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://121.19.134.246:808/hls/62/index.m3u8",
+    "name": "http://121.19.134.246:808/hls/62/index.m3u8",
+    "logo": "",
+    "url": "http://121.19.134.246:808/hls/62/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://121.19.134.246:808/hls/20/index.m3u8",
+    "name": "http://121.19.134.246:808/hls/20/index.m3u8",
+    "logo": "",
+    "url": "http://121.19.134.246:808/hls/20/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://121.19.134.246:808/hls/21/index.m3u8",
+    "name": "http://121.19.134.246:808/hls/21/index.m3u8",
+    "logo": "",
+    "url": "http://121.19.134.246:808/hls/21/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://121.19.134.246:808/hls/22/index.m3u8",
+    "name": "http://121.19.134.246:808/hls/22/index.m3u8",
+    "logo": "",
+    "url": "http://121.19.134.246:808/hls/22/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://121.19.134.246:808/hls/23/index.m3u8",
+    "name": "http://121.19.134.246:808/hls/23/index.m3u8",
+    "logo": "",
+    "url": "http://121.19.134.246:808/hls/23/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://121.19.134.246:808/hls/24/index.m3u8",
+    "name": "http://121.19.134.246:808/hls/24/index.m3u8",
+    "logo": "",
+    "url": "http://121.19.134.246:808/hls/24/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://121.19.134.246:808/hls/25/index.m3u8",
+    "name": "http://121.19.134.246:808/hls/25/index.m3u8",
+    "logo": "",
+    "url": "http://121.19.134.246:808/hls/25/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://pluslive1.sjzntv.cn/dushi/playlist.m3u8",
+    "name": "http://pluslive1.sjzntv.cn/dushi/playlist.m3u8",
+    "logo": "",
+    "url": "http://pluslive1.sjzntv.cn/dushi/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8",
+    "name": "http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8",
+    "logo": "",
+    "url": "http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://pluslive1.sjzntv.cn/yule/playlist.m3u8",
+    "name": "http://pluslive1.sjzntv.cn/yule/playlist.m3u8",
+    "logo": "",
+    "url": "http://pluslive1.sjzntv.cn/yule/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8",
+    "name": "https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8",
+    "logo": "",
+    "url": "https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8",
+    "name": "https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8",
+    "logo": "",
+    "url": "https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8",
+    "name": "https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8",
+    "logo": "",
+    "url": "https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8",
+    "name": "http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8",
+    "logo": "",
+    "url": "http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8",
+    "name": "http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8",
+    "logo": "",
+    "url": "http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8",
+    "name": "https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8",
+    "logo": "",
+    "url": "https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8",
+    "name": "https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8",
+    "logo": "",
+    "url": "https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8",
+    "name": "https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8",
+    "logo": "",
+    "url": "https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8",
+    "name": "http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8",
+    "logo": "",
+    "url": "http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8",
+    "name": "http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8",
+    "logo": "",
+    "url": "http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8",
+    "name": "http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8",
+    "logo": "",
+    "url": "http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8",
+    "name": "http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8",
+    "logo": "",
+    "url": "http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8",
+    "website": ""
+  },
+  {
     "id": "https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8",
     "name": "https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8",
     "logo": "",
@@ -3448,6 +3707,13 @@
     "name": "https://streannlivecariflix.cachefly.net/cariflix12/cariflix12/playlist.m3u8",
     "logo": "",
     "url": "https://streannlivecariflix.cachefly.net/cariflix12/cariflix12/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8",
+    "name": "https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8",
+    "logo": "",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8",
     "website": ""
   },
   {
@@ -3591,13 +3857,6 @@
     "website": ""
   },
   {
-    "id": "https://castv10.plugstreaming.com:19360/el75/el75.m3u8",
-    "name": "https://castv10.plugstreaming.com:19360/el75/el75.m3u8",
-    "logo": "",
-    "url": "https://castv10.plugstreaming.com:19360/el75/el75.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8",
     "name": "https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8",
     "logo": "",
@@ -3668,10 +3927,24 @@
     "website": ""
   },
   {
+    "id": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8",
+    "name": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8",
+    "website": ""
+  },
+  {
     "id": "https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8",
     "name": "https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8",
     "logo": "",
     "url": "https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://rakutenaa-botravail-echappeesbelles-rakuten-ccn98.amagi.tv/playlist/rakutenAA-botravail-echappeesbelles-rakuten/playlist.m3u8",
+    "name": "https://rakutenaa-botravail-echappeesbelles-rakuten-ccn98.amagi.tv/playlist/rakutenAA-botravail-echappeesbelles-rakuten/playlist.m3u8",
+    "logo": "",
+    "url": "https://rakutenaa-botravail-echappeesbelles-rakuten-ccn98.amagi.tv/playlist/rakutenAA-botravail-echappeesbelles-rakuten/playlist.m3u8",
     "website": ""
   },
   {
@@ -3689,10 +3962,80 @@
     "website": ""
   },
   {
+    "id": "https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8",
+    "name": "https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8",
+    "logo": "",
+    "url": "https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8",
+    "name": "https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8",
+    "name": "https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8",
+    "name": "https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8",
+    "name": "https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8",
+    "name": "https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8",
+    "name": "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8",
+    "logo": "",
+    "url": "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8",
+    "website": ""
+  },
+  {
     "id": "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8",
     "name": "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8",
     "logo": "",
     "url": "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8",
+    "name": "https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8",
+    "logo": "",
+    "url": "https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8",
+    "name": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8",
+    "logo": "",
+    "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8",
+    "name": "https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8",
     "website": ""
   },
   {
@@ -3707,13 +4050,6 @@
     "name": "https://rakuten-seriescrime-7-fr.lg.wurl.tv/playlist.m3u8",
     "logo": "",
     "url": "https://rakuten-seriescrime-7-fr.lg.wurl.tv/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8",
-    "name": "https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8",
-    "logo": "",
-    "url": "https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8",
     "website": ""
   },
   {
@@ -3801,10 +4137,45 @@
     "website": ""
   },
   {
+    "id": "https://revry-revry-3-eu.rakuten.wurl.tv/dist/wurl-rakuten/5/hls/master/playlist.m3u8",
+    "name": "https://revry-revry-3-eu.rakuten.wurl.tv/dist/wurl-rakuten/5/hls/master/playlist.m3u8",
+    "logo": "",
+    "url": "https://revry-revry-3-eu.rakuten.wurl.tv/dist/wurl-rakuten/5/hls/master/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8",
+    "name": "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8",
+    "logo": "",
+    "url": "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8",
+    "name": "https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8",
+    "logo": "",
+    "url": "https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8",
+    "website": ""
+  },
+  {
     "id": "https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8",
     "name": "https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8",
     "logo": "",
     "url": "https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8",
+    "name": "https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8",
+    "logo": "",
+    "url": "https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://fastmedia-yu-gi-oh-4-fr.rakuten.wurl.tv/playlist.m3u8",
+    "name": "https://fastmedia-yu-gi-oh-4-fr.rakuten.wurl.tv/playlist.m3u8",
+    "logo": "",
+    "url": "https://fastmedia-yu-gi-oh-4-fr.rakuten.wurl.tv/playlist.m3u8",
     "website": ""
   },
   {
@@ -3920,13 +4291,6 @@
     "website": ""
   },
   {
-    "id": "http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8",
-    "name": "http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8",
-    "logo": "",
-    "url": "http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8",
     "name": "http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8",
     "logo": "",
@@ -3997,13 +4361,6 @@
     "website": ""
   },
   {
-    "id": "https://fxtvhls.wns.live/hls/stream.m3u8",
-    "name": "https://fxtvhls.wns.live/hls/stream.m3u8",
-    "logo": "",
-    "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8",
     "name": "https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8",
     "logo": "",
@@ -4011,150 +4368,10 @@
     "website": ""
   },
   {
-    "id": "https://icchls.wns.live/hls/stream.m3u8",
-    "name": "https://icchls.wns.live/hls/stream.m3u8",
-    "logo": "",
-    "url": "https://icchls.wns.live/hls/stream.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://live.aionet.ir/hls/pooya/pooya.m3u8",
-    "name": "https://live.aionet.ir/hls/pooya/pooya.m3u8",
-    "logo": "",
-    "url": "https://live.aionet.ir/hls/pooya/pooya.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
-    "name": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
-    "logo": "",
-    "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
-    "name": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
-    "logo": "",
-    "url": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8",
-    "name": "https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8",
-    "logo": "",
-    "url": "https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://hls.pmchd.live/hls/stream.m3u8",
-    "name": "https://hls.pmchd.live/hls/stream.m3u8",
-    "logo": "",
-    "url": "https://hls.pmchd.live/hls/stream.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8",
-    "name": "http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8",
-    "logo": "",
-    "url": "http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8",
-    "name": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8",
-    "logo": "",
-    "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://hls.navahang.live/hls/stream.m3u8",
-    "name": "https://hls.navahang.live/hls/stream.m3u8",
-    "logo": "",
-    "url": "https://hls.navahang.live/hls/stream.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
-    "name": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
-    "logo": "",
-    "url": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8",
-    "name": "https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8",
-    "logo": "",
-    "url": "https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://iptv.tapesh.tv/tapeshiran/playlist.m3u8",
-    "name": "https://iptv.tapesh.tv/tapeshiran/playlist.m3u8",
-    "logo": "",
-    "url": "https://iptv.tapesh.tv/tapeshiran/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://hls.maahtv.live/hls/stream.m3u8",
-    "name": "https://hls.maahtv.live/hls/stream.m3u8",
-    "logo": "",
-    "url": "https://hls.maahtv.live/hls/stream.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://38b3095.online-server.cloud/hls/live.m3u8",
-    "name": "https://38b3095.online-server.cloud/hls/live.m3u8",
-    "logo": "",
-    "url": "https://38b3095.online-server.cloud/hls/live.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://toonixhls.wns.live/hls/stream.m3u8",
-    "name": "https://toonixhls.wns.live/hls/stream.m3u8",
-    "logo": "",
-    "url": "https://toonixhls.wns.live/hls/stream.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://hls.hodhod.live/hls/stream.m3u8",
-    "name": "https://hls.hodhod.live/hls/stream.m3u8",
-    "logo": "",
-    "url": "https://hls.hodhod.live/hls/stream.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://hls.247box.live/hls/stream.m3u8",
     "name": "https://hls.247box.live/hls/stream.m3u8",
     "logo": "",
     "url": "https://hls.247box.live/hls/stream.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://live2.parnian.tv/hls/live/play.m3u8",
-    "name": "https://live2.parnian.tv/hls/live/play.m3u8",
-    "logo": "",
-    "url": "https://live2.parnian.tv/hls/live/play.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks.m3u8",
-    "name": "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks.m3u8",
-    "logo": "",
-    "url": "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://parshls.wns.live/hls/stream.m3u8",
-    "name": "https://parshls.wns.live/hls/stream.m3u8",
-    "logo": "",
-    "url": "https://parshls.wns.live/hls/stream.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://gcinemahls.wns.live/hls/stream.m3u8",
-    "name": "https://gcinemahls.wns.live/hls/stream.m3u8",
-    "logo": "",
-    "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
     "website": ""
   },
   {
@@ -4169,13 +4386,6 @@
     "name": "https://ssh101.bozztv.com/ssh101/dtelevision/playlist.m3u8",
     "logo": "",
     "url": "https://ssh101.bozztv.com/ssh101/dtelevision/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8",
-    "name": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8",
-    "logo": "",
-    "url": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8",
     "website": ""
   },
   {
@@ -4200,38 +4410,10 @@
     "website": ""
   },
   {
-    "id": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8",
-    "name": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8",
-    "logo": "",
-    "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8",
-    "name": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8",
-    "logo": "",
-    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8",
-    "name": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8",
-    "logo": "",
-    "url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://stream1.aswifi.it/poptelevision/live/index.m3u8",
     "name": "https://stream1.aswifi.it/poptelevision/live/index.m3u8",
     "logo": "",
     "url": "https://stream1.aswifi.it/poptelevision/live/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8",
-    "name": "https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8",
-    "logo": "",
-    "url": "https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8",
     "website": ""
   },
   {
@@ -4270,13 +4452,6 @@
     "website": ""
   },
   {
-    "id": "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8",
-    "name": "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8",
-    "logo": "",
-    "url": "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8",
     "name": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8",
     "logo": "",
@@ -4302,13 +4477,6 @@
     "name": "https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8",
     "logo": "",
     "url": "https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8",
-    "name": "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8",
-    "logo": "",
-    "url": "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8",
     "website": ""
   },
   {
@@ -4431,13 +4599,6 @@
     "website": ""
   },
   {
-    "id": "https://api.new.livestream.com/accounts/8525652/events/3799665/live.m3u8",
-    "name": "https://api.new.livestream.com/accounts/8525652/events/3799665/live.m3u8",
-    "logo": "",
-    "url": "https://api.new.livestream.com/accounts/8525652/events/3799665/live.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8",
     "name": "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8",
     "logo": "",
@@ -4456,20 +4617,6 @@
     "name": "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8",
     "logo": "",
     "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8",
-    "name": "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8",
-    "logo": "",
-    "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://92.245.103.126:1935/live/live.stream/playlist.m3u8",
-    "name": "http://92.245.103.126:1935/live/live.stream/playlist.m3u8",
-    "logo": "",
-    "url": "http://92.245.103.126:1935/live/live.stream/playlist.m3u8",
     "website": ""
   },
   {
@@ -4501,13 +4648,6 @@
     "website": ""
   },
   {
-    "id": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
-    "name": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
-    "logo": "",
-    "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
     "name": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
     "logo": "",
@@ -4526,13 +4666,6 @@
     "name": "https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8",
     "logo": "",
     "url": "https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
-    "name": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
-    "logo": "",
-    "url": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
     "website": ""
   },
   {
@@ -4767,20 +4900,6 @@
     "website": ""
   },
   {
-    "id": "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8",
-    "name": "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8",
-    "logo": "",
-    "url": "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://bloomberg-bloomberg-1-pt.samsung.wurl.tv/manifest/playlist.m3u8",
-    "name": "https://bloomberg-bloomberg-1-pt.samsung.wurl.tv/manifest/playlist.m3u8",
-    "logo": "",
-    "url": "https://bloomberg-bloomberg-1-pt.samsung.wurl.tv/manifest/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8",
     "name": "https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8",
     "logo": "",
@@ -4792,13 +4911,6 @@
     "name": "https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8",
     "logo": "",
     "url": "https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
-    "name": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
-    "logo": "",
-    "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
     "website": ""
   },
   {
@@ -4837,24 +4949,10 @@
     "website": ""
   },
   {
-    "id": "http://live-3.otcnet.ru/mcmtop/index.m3u8",
-    "name": "http://live-3.otcnet.ru/mcmtop/index.m3u8",
-    "logo": "",
-    "url": "http://live-3.otcnet.ru/mcmtop/index.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8",
     "name": "http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8",
     "logo": "",
     "url": "http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
-    "name": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
-    "logo": "",
-    "url": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
     "website": ""
   },
   {
@@ -4872,27 +4970,6 @@
     "website": ""
   },
   {
-    "id": "http://bst.bratsk.ru/hls/bst2/index.m3u8",
-    "name": "http://bst.bratsk.ru/hls/bst2/index.m3u8",
-    "logo": "",
-    "url": "http://bst.bratsk.ru/hls/bst2/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://live-1.otcnet.ru/dimgrad/index.m3u8",
-    "name": "http://live-1.otcnet.ru/dimgrad/index.m3u8",
-    "logo": "",
-    "url": "http://live-1.otcnet.ru/dimgrad/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
-    "name": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
-    "logo": "",
-    "url": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8",
     "name": "http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8",
     "logo": "",
@@ -4907,66 +4984,10 @@
     "website": ""
   },
   {
-    "id": "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
-    "name": "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
-    "logo": "",
-    "url": "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8",
-    "name": "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8",
-    "logo": "",
-    "url": "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8",
-    "name": "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8",
-    "logo": "",
-    "url": "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://sevas.1tvcrimea.ru/legendarniy24.m3u8",
-    "name": "https://sevas.1tvcrimea.ru/legendarniy24.m3u8",
-    "logo": "",
-    "url": "https://sevas.1tvcrimea.ru/legendarniy24.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://live-1.otcnet.ru/nashatema1/index.m3u8",
-    "name": "http://live-1.otcnet.ru/nashatema1/index.m3u8",
-    "logo": "",
-    "url": "http://live-1.otcnet.ru/nashatema1/index.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
     "name": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
     "logo": "",
     "url": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://live-1.otcnet.ru/pskov/playlist.m3u8",
-    "name": "https://live-1.otcnet.ru/pskov/playlist.m3u8",
-    "logo": "",
-    "url": "https://live-1.otcnet.ru/pskov/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://46.151.151.245:10001/play/a004/index.m3u8",
-    "name": "http://46.151.151.245:10001/play/a004/index.m3u8",
-    "logo": "",
-    "url": "http://46.151.151.245:10001/play/a004/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://176.74.80.162:8099/TVXXI/index.m3u8",
-    "name": "http://176.74.80.162:8099/TVXXI/index.m3u8",
-    "logo": "",
-    "url": "http://176.74.80.162:8099/TVXXI/index.m3u8",
     "website": ""
   },
   {
@@ -4984,20 +5005,6 @@
     "website": ""
   },
   {
-    "id": "http://live-1.otcnet.ru/pravdatv/index.m3u8",
-    "name": "http://live-1.otcnet.ru/pravdatv/index.m3u8",
-    "logo": "",
-    "url": "http://live-1.otcnet.ru/pravdatv/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://stream.tck.tv/hd.m3u8",
-    "name": "https://stream.tck.tv/hd.m3u8",
-    "logo": "",
-    "url": "https://stream.tck.tv/hd.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8",
     "name": "https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8",
     "logo": "",
@@ -5009,20 +5016,6 @@
     "name": "https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8",
     "logo": "",
     "url": "https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8",
-    "name": "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8",
-    "logo": "",
-    "url": "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8",
-    "name": "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8",
-    "logo": "",
-    "url": "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8",
     "website": ""
   },
   {
@@ -5096,13 +5089,6 @@
     "website": ""
   },
   {
-    "id": "http://cdn.ntv.ru/unknown_russia/playlist.m3u8",
-    "name": "http://cdn.ntv.ru/unknown_russia/playlist.m3u8",
-    "logo": "",
-    "url": "http://cdn.ntv.ru/unknown_russia/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://cdn.ntv.ru/ntv1/playlist.m3u8",
     "name": "http://cdn.ntv.ru/ntv1/playlist.m3u8",
     "logo": "",
@@ -5135,13 +5121,6 @@
     "name": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8",
     "logo": "",
     "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-08.smil/playlist.m3u8",
-    "name": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-08.smil/playlist.m3u8",
-    "logo": "",
-    "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-08.smil/playlist.m3u8",
     "website": ""
   },
   {
@@ -5215,13 +5194,6 @@
     "website": ""
   },
   {
-    "id": "https://streaming.televizor-24-tochka.ru/live/25.m3u8",
-    "name": "https://streaming.televizor-24-tochka.ru/live/25.m3u8",
-    "logo": "",
-    "url": "https://streaming.televizor-24-tochka.ru/live/25.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://streaming.televizor-24-tochka.ru/live/24.m3u8",
     "name": "https://streaming.televizor-24-tochka.ru/live/24.m3u8",
     "logo": "",
@@ -5247,13 +5219,6 @@
     "name": "http://streaming.tv-teleport.ru/Vremya/index.m3u8",
     "logo": "",
     "url": "http://streaming.tv-teleport.ru/Vremya/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://streaming.tv-teleport.ru/O/index.m3u8",
-    "name": "http://streaming.tv-teleport.ru/O/index.m3u8",
-    "logo": "",
-    "url": "http://streaming.tv-teleport.ru/O/index.m3u8",
     "website": ""
   },
   {
@@ -5334,13 +5299,6 @@
     "website": ""
   },
   {
-    "id": "https://ythls.armelin.one/channel/UCfwCPzdT1i87xWYh1P3suTw.m3u8",
-    "name": "https://ythls.armelin.one/channel/UCfwCPzdT1i87xWYh1P3suTw.m3u8",
-    "logo": "",
-    "url": "https://ythls.armelin.one/channel/UCfwCPzdT1i87xWYh1P3suTw.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://origin3.afxp.telemedia.co.za/PremiumFree/gospellife/playlist.m3u8",
     "name": "https://origin3.afxp.telemedia.co.za/PremiumFree/gospellife/playlist.m3u8",
     "logo": "",
@@ -5355,73 +5313,10 @@
     "website": ""
   },
   {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8",
     "name": "http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8",
     "logo": "",
     "url": "http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8",
     "website": ""
   },
   {
@@ -5432,24 +5327,10 @@
     "website": ""
   },
   {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8",
     "name": "http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8",
     "logo": "",
     "url": "http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8",
     "website": ""
   },
   {
@@ -5467,59 +5348,10 @@
     "website": ""
   },
   {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8",
     "name": "http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8",
     "logo": "",
     "url": "http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8",
     "website": ""
   },
   {
@@ -5530,38 +5362,10 @@
     "website": ""
   },
   {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8",
     "name": "http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8",
     "logo": "",
     "url": "http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8",
     "website": ""
   },
   {
@@ -5583,13 +5387,6 @@
     "name": "http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8",
     "logo": "",
     "url": "http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8",
     "website": ""
   },
   {
@@ -5621,27 +5418,6 @@
     "website": ""
   },
   {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-119/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-119/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-119/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8",
     "name": "http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8",
     "logo": "",
@@ -5649,66 +5425,10 @@
     "website": ""
   },
   {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-128/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-128/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-128/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-129/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-129/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-129/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-130/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-130/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-130/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8",
     "name": "http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8",
     "logo": "",
     "url": "http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-145/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-145/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-145/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8",
     "website": ""
   },
   {
@@ -5723,41 +5443,6 @@
     "name": "http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8",
     "logo": "",
     "url": "http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8",
     "website": ""
   },
   {
@@ -5796,80 +5481,10 @@
     "website": ""
   },
   {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-132/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-132/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-132/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://stream.flynetwifi.com:1935/live/mobile-140/playlist.m3u8",
     "name": "http://stream.flynetwifi.com:1935/live/mobile-140/playlist.m3u8",
     "logo": "",
     "url": "http://stream.flynetwifi.com:1935/live/mobile-140/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-147/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-147/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-147/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8",
     "website": ""
   },
   {
@@ -5880,87 +5495,10 @@
     "website": ""
   },
   {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-037/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-037/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-037/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8",
     "name": "http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8",
     "logo": "",
     "url": "http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-049/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-049/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-049/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-050/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-050/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-050/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-071/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-071/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-071/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-110/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-110/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-110/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-111/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-111/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-111/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-114/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-114/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-114/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-116/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-116/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-116/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-117/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-117/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-117/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-124/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-124/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-124/playlist.m3u8",
     "website": ""
   },
   {
@@ -5971,45 +5509,10 @@
     "website": ""
   },
   {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-135/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-135/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-135/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-144/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-144/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-144/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://stream.flynetwifi.com:1935/live/mobile-045/playlist.m3u8",
     "name": "http://stream.flynetwifi.com:1935/live/mobile-045/playlist.m3u8",
     "logo": "",
     "url": "http://stream.flynetwifi.com:1935/live/mobile-045/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://stream.flynetwifi.com:1935/live/mobile-150/playlist.m3u8",
-    "name": "http://stream.flynetwifi.com:1935/live/mobile-150/playlist.m3u8",
-    "logo": "",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-150/playlist.m3u8",
     "website": ""
   },
   {
@@ -6454,13 +5957,6 @@
     "website": ""
   },
   {
-    "id": "https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8",
-    "name": "https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8",
-    "logo": "",
-    "url": "https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8",
     "name": "https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8",
     "logo": "",
@@ -6524,17 +6020,17 @@
     "website": ""
   },
   {
+    "id": "https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8",
+    "name": "https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8",
+    "logo": "",
+    "url": "https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8",
+    "website": ""
+  },
+  {
     "id": "https://motors.playout.vju.tv/motors/main.m3u8",
     "name": "https://motors.playout.vju.tv/motors/main.m3u8",
     "logo": "",
     "url": "https://motors.playout.vju.tv/motors/main.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://ssai.castify.ai/media/cbe59a36-2334-4f34-bca0-6c7c2ae5989c/mainManifest.m3u8",
-    "name": "https://ssai.castify.ai/media/cbe59a36-2334-4f34-bca0-6c7c2ae5989c/mainManifest.m3u8",
-    "logo": "",
-    "url": "https://ssai.castify.ai/media/cbe59a36-2334-4f34-bca0-6c7c2ae5989c/mainManifest.m3u8",
     "website": ""
   },
   {
@@ -6566,20 +6062,6 @@
     "website": ""
   },
   {
-    "id": "https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8",
-    "name": "https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8",
-    "logo": "",
-    "url": "https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/live.m3u8",
-    "name": "https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/live.m3u8",
-    "logo": "",
-    "url": "https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/live.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://2f28484b7a024fdf836f0f4a78ffb214.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-181-REVRYBRAZIL-BRIGHTCOVE/mt/brightcove/181/hls/master/playlist.m3u8",
     "name": "https://2f28484b7a024fdf836f0f4a78ffb214.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-181-REVRYBRAZIL-BRIGHTCOVE/mt/brightcove/181/hls/master/playlist.m3u8",
     "logo": "",
@@ -6598,20 +6080,6 @@
     "name": "https://bcb8278f10bc4ab698cba66524d46b6f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-142-REVRY-BRIGHTCOVE/mt/brightcove/142/hls/master/playlist.m3u8",
     "logo": "",
     "url": "https://bcb8278f10bc4ab698cba66524d46b6f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-142-REVRY-BRIGHTCOVE/mt/brightcove/142/hls/master/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8",
-    "name": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8",
-    "logo": "",
-    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
-    "name": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
-    "logo": "",
-    "url": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
     "website": ""
   },
   {
@@ -6654,13 +6122,6 @@
     "name": "https://app.viloud.tv/hls/channel/0d984388834adac967a4ec4e69bc8271.m3u8",
     "logo": "",
     "url": "https://app.viloud.tv/hls/channel/0d984388834adac967a4ec4e69bc8271.m3u8",
-    "website": ""
-  },
-  {
-    "id": "https://player-api.new.livestream.com/accounts/27442514/events/8331542/live.m3u8",
-    "name": "https://player-api.new.livestream.com/accounts/27442514/events/8331542/live.m3u8",
-    "logo": "",
-    "url": "https://player-api.new.livestream.com/accounts/27442514/events/8331542/live.m3u8",
     "website": ""
   },
   {
@@ -7095,6 +6556,181 @@
     "name": "https://classicreruns-pull.secure.footprint.net/crr1/stream.m3u8",
     "logo": "",
     "url": "https://classicreruns-pull.secure.footprint.net/crr1/stream.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8",
+    "name": "https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "url": "https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg00442-zmg-amg00442c2-klowdtv-us-2123.playouts.now.amagi.tv/playlist/amg00442-zazoommediagroup-zmgwild-klowdtvus/playlist.m3u8",
+    "name": "https://amg00442-zmg-amg00442c2-klowdtv-us-2123.playouts.now.amagi.tv/playlist/amg00442-zazoommediagroup-zmgwild-klowdtvus/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg00442-zmg-amg00442c2-klowdtv-us-2123.playouts.now.amagi.tv/playlist/amg00442-zazoommediagroup-zmgwild-klowdtvus/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
+    "name": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "url": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg01681-beondtv-amg01681c1-klowdtv-us-1826.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-klowdtvus/playlist.m3u8",
+    "name": "https://amg01681-beondtv-amg01681c1-klowdtv-us-1826.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-klowdtvus/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg01681-beondtv-amg01681c1-klowdtv-us-1826.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-klowdtvus/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8",
+    "name": "https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/diyatv_720p/playlist.m3u8",
+    "name": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/diyatv_720p/playlist.m3u8",
+    "logo": "",
+    "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/diyatv_720p/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg02723-oneplanetmedia-amg02723c1-klowdtv-us-2003.playouts.now.amagi.tv/playlist/amg02723-oneplanetmedia-1pmtv-klowdtvus/playlist.m3u8",
+    "name": "https://amg02723-oneplanetmedia-amg02723c1-klowdtv-us-2003.playouts.now.amagi.tv/playlist/amg02723-oneplanetmedia-1pmtv-klowdtvus/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg02723-oneplanetmedia-amg02723c1-klowdtv-us-2003.playouts.now.amagi.tv/playlist/amg02723-oneplanetmedia-1pmtv-klowdtvus/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg02236-fintechtvpbc-fintech-klowdtv-swv85.amagi.tv/playlist/amg02236-fintechtvpbc-fintech-klowdtv/playlist.m3u8",
+    "name": "https://amg02236-fintechtvpbc-fintech-klowdtv-swv85.amagi.tv/playlist/amg02236-fintechtvpbc-fintech-klowdtv/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg02236-fintechtvpbc-fintech-klowdtv-swv85.amagi.tv/playlist/amg02236-fintechtvpbc-fintech-klowdtv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8",
+    "name": "https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "url": "https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg01540-apexmedia-amg01540c2-klowdtv-us-1989.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-klowdtvus/playlist.m3u8",
+    "name": "https://amg01540-apexmedia-amg01540c2-klowdtv-us-1989.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-klowdtvus/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg01540-apexmedia-amg01540c2-klowdtv-us-1989.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-klowdtvus/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8",
+    "name": "https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/legendfilms_720p/playlist.m3u8",
+    "name": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/legendfilms_720p/playlist.m3u8",
+    "logo": "",
+    "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/legendfilms_720p/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8",
+    "name": "https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://naviofrequency-sightline-klowdtv.amagi.tv/playlist.m3u8",
+    "name": "https://naviofrequency-sightline-klowdtv.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "url": "https://naviofrequency-sightline-klowdtv.amagi.tv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://naviofrequency-quietude4k-klowdtv.amagi.tv/playlist.m3u8",
+    "name": "https://naviofrequency-quietude4k-klowdtv.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "url": "https://naviofrequency-quietude4k-klowdtv.amagi.tv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8",
+    "name": "https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg16109-shgliving-amg16109c1-klowdtv-us-2235.playouts.now.amagi.tv/playlist/amg16109-shglivingnetwork-smarthealthygreenliving-klowdtvus/playlist.m3u8",
+    "name": "https://amg16109-shgliving-amg16109c1-klowdtv-us-2235.playouts.now.amagi.tv/playlist/amg16109-shglivingnetwork-smarthealthygreenliving-klowdtvus/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg16109-shgliving-amg16109c1-klowdtv-us-2235.playouts.now.amagi.tv/playlist/amg16109-shglivingnetwork-smarthealthygreenliving-klowdtvus/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://amg01655-thewashingtonpo-washingtonpost-klowdtv-fxhac.amagi.tv/playlist/amg01655-thewashingtonpo-washingtonpost-klowdtv/playlist.m3u8",
+    "name": "https://amg01655-thewashingtonpo-washingtonpost-klowdtv-fxhac.amagi.tv/playlist/amg01655-thewashingtonpo-washingtonpost-klowdtv/playlist.m3u8",
+    "logo": "",
+    "url": "https://amg01655-thewashingtonpo-washingtonpost-klowdtv-fxhac.amagi.tv/playlist/amg01655-thewashingtonpo-washingtonpost-klowdtv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/whackedoutsports_720p/playlist.m3u8",
+    "name": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/whackedoutsports_720p/playlist.m3u8",
+    "logo": "",
+    "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/whackedoutsports_720p/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://98.186.28.168/live-3/live/live.m3u8",
+    "name": "http://98.186.28.168/live-3/live/live.m3u8",
+    "logo": "",
+    "url": "http://98.186.28.168/live-3/live/live.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://174.70.215.123/live-2/live/live.m3u8",
+    "name": "http://174.70.215.123/live-2/live/live.m3u8",
+    "logo": "",
+    "url": "http://174.70.215.123/live-2/live/live.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://reflect-jacksonville.cablecast.tv/live/stream-2/live.m3u8",
+    "name": "https://reflect-jacksonville.cablecast.tv/live/stream-2/live.m3u8",
+    "logo": "",
+    "url": "https://reflect-jacksonville.cablecast.tv/live/stream-2/live.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://streams.helnix.com/autoHLS/62a406ce43acb676/62a406ce43acb676.m3u8",
+    "name": "https://streams.helnix.com/autoHLS/62a406ce43acb676/62a406ce43acb676.m3u8",
+    "logo": "",
+    "url": "https://streams.helnix.com/autoHLS/62a406ce43acb676/62a406ce43acb676.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "name": "https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
+    "url": "https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "name": "https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "logo": "",
+    "url": "https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
     "website": ""
   },
   {
@@ -7875,38 +7511,45 @@
     "website": ""
   },
   {
-    "id": "http://fpt.vthanhtivi.pw/animax/index.m3u8",
-    "name": "http://fpt.vthanhtivi.pw/animax/index.m3u8",
+    "id": "http://viettel.nekocdn.xyz/Animax/index.m3u8",
+    "name": "http://viettel.nekocdn.xyz/Animax/index.m3u8",
     "logo": "",
-    "url": "http://fpt.vthanhtivi.pw/animax/index.m3u8",
+    "url": "http://viettel.nekocdn.xyz/Animax/index.m3u8",
     "website": ""
   },
   {
-    "id": "http://fpt.vthanhtivi.pw/cinemax/index.m3u8",
-    "name": "http://fpt.vthanhtivi.pw/cinemax/index.m3u8",
+    "id": "http://viettel.nekocdn.xyz/AXN/index.m3u8",
+    "name": "http://viettel.nekocdn.xyz/AXN/index.m3u8",
     "logo": "",
-    "url": "http://fpt.vthanhtivi.pw/cinemax/index.m3u8",
+    "url": "http://viettel.nekocdn.xyz/AXN/index.m3u8",
     "website": ""
   },
   {
-    "id": "http://fpt.vthanhtivi.pw/hbo/index.m3u8",
-    "name": "http://fpt.vthanhtivi.pw/hbo/index.m3u8",
+    "id": "http://viettel.nekocdn.xyz/Cinemax/index.m3u8",
+    "name": "http://viettel.nekocdn.xyz/Cinemax/index.m3u8",
     "logo": "",
-    "url": "http://fpt.vthanhtivi.pw/hbo/index.m3u8",
+    "url": "http://viettel.nekocdn.xyz/Cinemax/index.m3u8",
     "website": ""
   },
   {
-    "id": "http://fpt.vthanhtivi.pw/history/index.m3u8",
-    "name": "http://fpt.vthanhtivi.pw/history/index.m3u8",
+    "id": "http://viettel.nekocdn.xyz/HBO/index.m3u8",
+    "name": "http://viettel.nekocdn.xyz/HBO/index.m3u8",
     "logo": "",
-    "url": "http://fpt.vthanhtivi.pw/history/index.m3u8",
+    "url": "http://viettel.nekocdn.xyz/HBO/index.m3u8",
     "website": ""
   },
   {
-    "id": "http://vthanhtivi.pw/cinemaworld/index.m3u8",
-    "name": "http://vthanhtivi.pw/cinemaworld/index.m3u8",
+    "id": "http://viettel.nekocdn.xyz/History/index.m3u8",
+    "name": "http://viettel.nekocdn.xyz/History/index.m3u8",
     "logo": "",
-    "url": "http://vthanhtivi.pw/cinemaworld/index.m3u8",
+    "url": "http://viettel.nekocdn.xyz/History/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8",
+    "name": "http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8",
+    "logo": "",
+    "url": "http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8",
     "website": ""
   }
 ]

@@ -30,13 +30,26 @@ export async function checkUrl(url) {
             console.log("link not response long time");
             resolve(false);
           }
-        }, 1000 * 10);
+        }, 1000 * 3);
       })
       .on("error", (err) => {
         resolve(false);
         console.log("error-link");
       });
   });
+}
+
+export async function checkWorkedUrl(list, url) {
+  const filteredPromises = list.map(async (item) => {
+    const result = await checkUrl(item);
+    return { item, result };
+  });
+
+  const filteredResults = await Promise.all(filteredPromises);
+
+  const workedUrl = filteredResults.find(({ result }) => result);
+  url = workedUrl.item;
+  // return workedUrl.item;
 }
 
 export async function checkUrls(list) {
