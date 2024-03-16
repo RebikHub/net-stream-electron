@@ -1,0 +1,2858 @@
+[
+  {
+    "id": "2x2.ru",
+    "name": "2x2",
+    "logo": "https://i.imgur.com/fhQFLEl.png",
+    "url": "https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8",
+    "website": "https://2x2tv.ru/"
+  },
+  {
+    "id": "3ABNRussia.ru",
+    "name": "3ABN Russia",
+    "logo": "https://i.imgur.com/4fhBbam.png",
+    "url": "https://hls.tv.3angels.ru/stream.m3u8",
+    "website": "https://www.3angels.ru/"
+  },
+  {
+    "id": "7tv.ru",
+    "name": "7tv",
+    "logo": "https://i.imgur.com/Wuy9Vtn.png",
+    "url": "http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8",
+    "website": "http://www.7-tv.tv/"
+  },
+  {
+    "id": "9Volna.ru",
+    "name": "9 Volna",
+    "logo": "https://i.imgur.com/zmnSoBA.png",
+    "url": "http://cdn-01.bonus-tv.ru/9volna/playlist.m3u8",
+    "website": "https://9volna.com/"
+  },
+  {
+    "id": "86.ru",
+    "name": "86",
+    "logo": "https://i.imgur.com/0dRS4Cb.png",
+    "url": "https://sitv.ru/hls/s86.m3u8",
+    "website": "https://sitv.ru/efir/86/"
+  },
+  {
+    "id": "360News.ru",
+    "name": "360° News",
+    "logo": "https://i.imgur.com/YXDeX8q.png",
+    "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
+    "website": "https://360tv.ru/"
+  },
+  {
+    "id": "360News.ru",
+    "name": "360° News",
+    "logo": "https://i.imgur.com/YXDeX8q.png",
+    "url": "https://strm.yandex.ru/kal/360news/360news0.m3u8",
+    "website": "https://360tv.ru/"
+  },
+  {
+    "id": "360.ru",
+    "name": "360°",
+    "logo": "https://i.imgur.com/VTJqdoX.png",
+    "url": "https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
+    "website": "https://360tv.ru/"
+  },
+  {
+    "id": "360.ru",
+    "name": "360°",
+    "logo": "https://i.imgur.com/VTJqdoX.png",
+    "url": "https://video1.in-news.ru/360/index.m3u8",
+    "website": "https://360tv.ru/"
+  },
+  {
+    "id": "360.ru",
+    "name": "360°",
+    "logo": "https://i.imgur.com/VTJqdoX.png",
+    "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8",
+    "website": "https://360tv.ru/"
+  },
+  {
+    "id": "360.ru",
+    "name": "360°",
+    "logo": "https://i.imgur.com/VTJqdoX.png",
+    "url": "https://strm.yandex.ru/kal/360tv/360tv0.m3u8",
+    "website": "https://360tv.ru/"
+  },
+  {
+    "id": "A1.ru",
+    "name": "A1",
+    "logo": "https://i.imgur.com/2pAHdAi.png",
+    "url": "http://streaming.tv-teleport.ru/A1/index.m3u8",
+    "website": "http://amediatv.ru/a1/"
+  },
+  {
+    "id": "A2.ru",
+    "name": "A2",
+    "logo": "https://i.imgur.com/NqHla2V.png",
+    "url": "http://streaming.tv-teleport.ru/A2/index.m3u8",
+    "website": "http://amediatv.ru/a2/"
+  },
+  {
+    "id": "AbazaTV.ru",
+    "name": "Abaza TV",
+    "logo": "https://i.imgur.com/7Jo7UAf.png",
+    "url": "http://clients.apsny.camera/tv_abaza_tv/index.m3u8",
+    "website": "https://abaza.tv/"
+  },
+  {
+    "id": "AISTTV.ru",
+    "name": "AIST TV",
+    "logo": "https://i.imgur.com/bcw0s4V.png",
+    "url": "http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8",
+    "website": "https://aisttv.ru/"
+  },
+  {
+    "id": "Almaznyykray.ru",
+    "name": "Almaznyy kray",
+    "logo": "https://i.imgur.com/zErXTdF.png",
+    "url": "https://stream.almaz-media.tv:8080/hls/576.m3u8",
+    "website": "https://www.almaz-media.tv/"
+  },
+  {
+    "id": "AmediaPremium.ru",
+    "name": "Amedia Premium",
+    "logo": "https://i.imgur.com/UUjehw9.png",
+    "url": "http://ott-cdn.ucom.am/s64/index.m3u8",
+    "website": "http://amediatv.ru/amedia-premium/"
+  },
+  {
+    "id": "AmediaPremium.ru",
+    "name": "Amedia Premium",
+    "logo": "https://i.imgur.com/UUjehw9.png",
+    "url": "http://stream01.vnet.am/AmediaPremium/mono.m3u8",
+    "website": "http://amediatv.ru/amedia-premium/"
+  },
+  {
+    "id": "AmediaPremium.ru",
+    "name": "Amedia Premium",
+    "logo": "https://i.imgur.com/UUjehw9.png",
+    "url": "https://woobl.ru/hls987/Amedia_Premium_hd.m3u8",
+    "website": "http://amediatv.ru/amedia-premium/"
+  },
+  {
+    "id": "Ani.ru",
+    "name": "Ani",
+    "logo": "https://i.imgur.com/i2AP0hp.png",
+    "url": "http://streaming.tv-teleport.ru/Ani/index.m3u8",
+    "website": "https://ani.tlum.ru/"
+  },
+  {
+    "id": "Aris24.ru",
+    "name": "Aris 24",
+    "logo": "https://i.imgur.com/CTFVEAb.png",
+    "url": "http://serv25.vintera.tv:8081/test/aris/playlist.m3u8",
+    "website": "http://aris-tv.ru/aris-24"
+  },
+  {
+    "id": "Arkhyz24.ru",
+    "name": "Arkhyz 24",
+    "logo": "https://i.imgur.com/blAtdkJ.png",
+    "url": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8",
+    "website": "https://arkhyz24.ru/"
+  },
+  {
+    "id": "Arsenal.ru",
+    "name": "Arsenal",
+    "logo": "https://i.imgur.com/DBpVeb0.png",
+    "url": "http://ott-cdn.ucom.am/s68/index.m3u8",
+    "website": "https://arsenal-tv.tv/"
+  },
+  {
+    "id": "Astrahan24.ru",
+    "name": "Astrahan 24",
+    "logo": "https://i.imgur.com/9WcnjQN.png",
+    "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
+    "website": "https://cdn.astrakhan-24.ru/"
+  },
+  {
+    "id": "Astrahan24.ru",
+    "name": "Astrahan 24",
+    "logo": "https://i.imgur.com/9WcnjQN.png",
+    "url": "https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8",
+    "website": "https://cdn.astrakhan-24.ru/"
+  },
+  {
+    "id": "AstrahanRuSport.ru",
+    "name": "Astrahan.Ru Sport",
+    "logo": "https://i.imgur.com/BKaEtqL.png",
+    "url": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8",
+    "website": "https://sport.astrakhan.ru/"
+  },
+  {
+    "id": "AstrahanRuTV.ru",
+    "name": "Astrahan.Ru TV",
+    "logo": "https://i.imgur.com/w4ys6zm.png",
+    "url": "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8",
+    "website": "https://live.astrakhan.ru/"
+  },
+  {
+    "id": "BabyTime.ru",
+    "name": "Baby Time",
+    "logo": "https://i.imgur.com/lW3WIBD.png",
+    "url": "https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8",
+    "website": "https://bridgetv.ru/brands/baby_time/"
+  },
+  {
+    "id": "BackusTVDark.ru",
+    "name": "BackusTV Dark",
+    "logo": "https://i.imgur.com/ySYKZ0Z.png",
+    "url": "http://stream.backustv.ru/content/39864/index.m3u8",
+    "website": "https://backustv.ru/dark"
+  },
+  {
+    "id": "BackusTVDark.ru",
+    "name": "BackusTV Dark",
+    "logo": "https://i.imgur.com/ySYKZ0Z.png",
+    "url": "http://stream.backustv.ru/live/btv2/index.m3u8",
+    "website": "https://backustv.ru/dark"
+  },
+  {
+    "id": "BackusTVMusic.ru",
+    "name": "BackusTV Music",
+    "logo": "https://i.imgur.com/Woo8L6Z.png",
+    "url": "http://stream.backustv.ru/live/btv3/index.m3u8",
+    "website": "https://backustv.ru/music"
+  },
+  {
+    "id": "BackusTVOriginal.ru",
+    "name": "BackusTV Original",
+    "logo": "https://i.imgur.com/4pCmSsU.png",
+    "url": "http://stream.backustv.ru/live/btv/index.m3u8",
+    "website": "https://backustv.ru/"
+  },
+  {
+    "id": "Bashkortostan24.ru",
+    "name": "Bashkortostan 24",
+    "logo": "https://i.imgur.com/s34Wtz6.png",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8",
+    "website": "https://gtrk.tv/b24"
+  },
+  {
+    "id": "Belgorod24.ru",
+    "name": "Belgorod 24",
+    "logo": "https://i.imgur.com/EEirvyx.png",
+    "url": "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8",
+    "website": "https://www.belnovosti.ru/telekanal-belgorod-24/"
+  },
+  {
+    "id": "BelRos.ru",
+    "name": "BelRos",
+    "logo": "https://i.imgur.com/tUF33HD.png",
+    "url": "https://live2.mediacdn.ru/sr1/tro/playlist.m3u8",
+    "website": "https://belros.tv/"
+  },
+  {
+    "id": "BigAsia.ru",
+    "name": "Big Asia",
+    "logo": "https://i.imgur.com/vruuPKF.png",
+    "url": "http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8",
+    "website": "https://bigasia.ru/"
+  },
+  {
+    "id": "BigAsia.ru",
+    "name": "Big Asia",
+    "logo": "https://i.imgur.com/vruuPKF.png",
+    "url": "https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8",
+    "website": "https://bigasia.ru/"
+  },
+  {
+    "id": "Bober.ru",
+    "name": "Bober",
+    "logo": "https://i.imgur.com/clWWhB8.png",
+    "url": "http://streaming.tv-teleport.ru/Bober/index.m3u8",
+    "website": "https://bober.ru/"
+  },
+  {
+    "id": "BoksTV.ru",
+    "name": "Boks TV",
+    "logo": "https://i.imgur.com/R1UjyfX.png",
+    "url": "http://stream01.vnet.am/BoksTv/mono.m3u8",
+    "website": "http://boxingtv.ru/"
+  },
+  {
+    "id": "BoksTV.ru",
+    "name": "Boks TV",
+    "logo": "https://i.imgur.com/R1UjyfX.png",
+    "url": "https://woobl.ru/hls987/Boks_tv.m3u8",
+    "website": "http://boxingtv.ru/"
+  },
+  {
+    "id": "BRIDGE.ru",
+    "name": "BRIDGE",
+    "logo": "https://i.imgur.com/qYObfrG.png",
+    "url": "http://ott-cdn.ucom.am/s34/index.m3u8",
+    "website": "https://bridgetv.ru/show-player/"
+  },
+  {
+    "id": "BRIDGE.ru",
+    "name": "BRIDGE",
+    "logo": "https://i.imgur.com/qYObfrG.png",
+    "url": "http://streaming.tv-teleport.ru/Bridge_TV/index.m3u8",
+    "website": "https://bridgetv.ru/show-player/"
+  },
+  {
+    "id": "BRIDGE.ru",
+    "name": "BRIDGE",
+    "logo": "https://i.imgur.com/qYObfrG.png",
+    "url": "https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8",
+    "website": "https://bridgetv.ru/show-player/"
+  },
+  {
+    "id": "BRIDGEClassic.ru",
+    "name": "BRIDGE Classic",
+    "logo": "https://i.imgur.com/JJTQq81.png",
+    "url": "https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8",
+    "website": "https://bridgetv.ru/brands/bridgetv_classic/"
+  },
+  {
+    "id": "BRIDGEDeluxe.ru",
+    "name": "BRIDGE Deluxe",
+    "logo": "https://i.imgur.com/EazL8w7.png",
+    "url": "https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8",
+    "website": "https://bridgetv.ru/brands/bridgehd/"
+  },
+  {
+    "id": "BRIDGEHits.ru",
+    "name": "BRIDGE Hits",
+    "logo": "https://i.imgur.com/sIW9oR4.png",
+    "url": "https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8",
+    "website": "https://bridgetv.ru/brands/bridgetv_dance/"
+  },
+  {
+    "id": "BRIDGERock.ru",
+    "name": "BRIDGE Rock",
+    "logo": "https://i.imgur.com/MHuwct2.png",
+    "url": "https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8",
+    "website": null
+  },
+  {
+    "id": "BRIDGERussianHit.ru",
+    "name": "BRIDGE Russian Hit",
+    "logo": "https://i.imgur.com/f9xdIlN.png",
+    "url": "https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8",
+    "website": "https://bridgetv.ru/brands/rusongtv/"
+  },
+  {
+    "id": "BRIDGESchlager.ru",
+    "name": "BRIDGE Schlager",
+    "logo": "https://i.imgur.com/a9DXkMN.png",
+    "url": "https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8",
+    "website": "https://bridgetv.ru/brands/bridgetv_sh/"
+  },
+  {
+    "id": "BST.ru",
+    "name": "BST",
+    "logo": "https://i.imgur.com/IDotHmQ.png",
+    "url": "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8",
+    "website": "https://bash.news/bst/"
+  },
+  {
+    "id": "Carousel.ru",
+    "name": "Carousel",
+    "logo": "https://i.imgur.com/4wmnx1W.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8",
+    "website": "https://www.karusel-tv.ru/"
+  },
+  {
+    "id": "Carousel.ru",
+    "name": "Carousel",
+    "logo": "https://i.imgur.com/4wmnx1W.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/11.m3u8",
+    "website": "https://www.karusel-tv.ru/"
+  },
+  {
+    "id": "Carousel.ru",
+    "name": "Carousel",
+    "logo": "https://i.imgur.com/4wmnx1W.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
+    "website": "https://www.karusel-tv.ru/"
+  },
+  {
+    "id": "CarouselInternational.ru",
+    "name": "Carousel International",
+    "logo": "https://i.imgur.com/DnlngRZ.png",
+    "url": "http://stream02.vnet.am/Karusel/mono.m3u8",
+    "website": "https://www.karusel-tv.ru/"
+  },
+  {
+    "id": "Channel5.ru",
+    "name": "Channel 5",
+    "logo": "https://i.imgur.com/KPXMa3U.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8",
+    "website": "https://www.5-tv.ru/"
+  },
+  {
+    "id": "Channel5.ru",
+    "name": "Channel 5",
+    "logo": "https://i.imgur.com/KPXMa3U.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/8.m3u8",
+    "website": "https://www.5-tv.ru/"
+  },
+  {
+    "id": "Channel5.ru",
+    "name": "Channel 5",
+    "logo": "https://i.imgur.com/KPXMa3U.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8",
+    "website": "https://www.5-tv.ru/"
+  },
+  {
+    "id": "Channel12.ru",
+    "name": "Channel 12",
+    "logo": "https://i.imgur.com/OA9hm6e.png",
+    "url": "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8",
+    "website": "https://12-kanal.ru/"
+  },
+  {
+    "id": "Channel12.ru",
+    "name": "Channel 12",
+    "logo": "https://i.imgur.com/OA9hm6e.png",
+    "url": "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
+    "website": "https://12-kanal.ru/"
+  },
+  {
+    "id": "Channel16.ru",
+    "name": "Channel-16",
+    "logo": "https://i.imgur.com/7tNDKHe.png",
+    "url": "http://serv25.vintera.tv:8081/test/k16/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "Channel43.ru",
+    "name": "Channel 43",
+    "logo": "https://i.imgur.com/hiN166x.png",
+    "url": "http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8",
+    "website": "http://sochinskayatrk.ru/ru/menu-part-43kanal"
+  },
+  {
+    "id": "ChannelOne.ru",
+    "name": "Channel One",
+    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "url": "http://ott-cdn.ucom.am/s14/index.m3u8",
+    "website": "https://www.1tv.ru/"
+  },
+  {
+    "id": "ChannelOne.ru",
+    "name": "Channel One",
+    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8",
+    "website": "https://www.1tv.ru/"
+  },
+  {
+    "id": "ChannelOne.ru",
+    "name": "Channel One",
+    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/4.m3u8",
+    "website": "https://www.1tv.ru/"
+  },
+  {
+    "id": "Che.ru",
+    "name": "Che!",
+    "logo": "https://i.imgur.com/ZOcDGpB.png",
+    "url": "https://edge02.odtv.az/o5/chetv/playlist.m3u8",
+    "website": "https://chetv.ru/"
+  },
+  {
+    "id": "Che.ru",
+    "name": "Che!",
+    "logo": "https://i.imgur.com/ZOcDGpB.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8",
+    "website": "https://chetv.ru/"
+  },
+  {
+    "id": "Che.ru",
+    "name": "Che!",
+    "logo": "https://i.imgur.com/ZOcDGpB.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8",
+    "website": "https://chetv.ru/"
+  },
+  {
+    "id": "Cinema.ru",
+    "name": "Cinema",
+    "logo": "https://i.imgur.com/b5e9qUA.png",
+    "url": "http://176.74.80.162:8099/Cinema/index.m3u8",
+    "website": "https://cinetv.ru/"
+  },
+  {
+    "id": "Crimea24.ru",
+    "name": "Crimea 24",
+    "logo": "https://i.imgur.com/k4C0uvp.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/28.m3u8",
+    "website": "https://crimea24tv.ru/"
+  },
+  {
+    "id": "Dagestan.ru",
+    "name": "Dagestan",
+    "logo": "https://i.imgur.com/jumkRvc.png",
+    "url": "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8",
+    "website": "https://www.rgvktv.ru/"
+  },
+  {
+    "id": "Detskimir.ru",
+    "name": "Detski mir",
+    "logo": "https://i.imgur.com/bBVEP0S.png",
+    "url": "http://ott-cdn.ucom.am/s58/index.m3u8",
+    "website": "https://www.detskiymir.tv/"
+  },
+  {
+    "id": "Detskimir.ru",
+    "name": "Detski mir",
+    "logo": "https://i.imgur.com/bBVEP0S.png",
+    "url": "http://stream01.vnet.am/CartoonNetwork/mono.m3u8",
+    "website": "https://www.detskiymir.tv/"
+  },
+  {
+    "id": "Dialogiorybalke.ru",
+    "name": "Dialogi o rybalke",
+    "logo": "https://i.imgur.com/OuBtnGU.png",
+    "url": "https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8",
+    "website": "https://dialogi.tv/"
+  },
+  {
+    "id": "Dikij.ru",
+    "name": "Dikij",
+    "logo": "https://i.imgur.com/VDXDiPC.png",
+    "url": "https://woobl.ru/hls987/Dikiy.m3u8",
+    "website": "https://dikoe.tv/channels/telekanal-dikij.html"
+  },
+  {
+    "id": "Domashniy.ru",
+    "name": "Domashniy",
+    "logo": "https://i.imgur.com/XVRwgom.png",
+    "url": "http://ott-cdn.ucom.am/s88/index.m3u8",
+    "website": "https://domashniy.ru/"
+  },
+  {
+    "id": "Domashniy.ru",
+    "name": "Domashniy",
+    "logo": "https://i.imgur.com/XVRwgom.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8",
+    "website": "https://domashniy.ru/"
+  },
+  {
+    "id": "Domashniy.ru",
+    "name": "Domashniy",
+    "logo": "https://i.imgur.com/XVRwgom.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/17.m3u8",
+    "website": "https://domashniy.ru/"
+  },
+  {
+    "id": "Domashniy.ru",
+    "name": "Domashniy",
+    "logo": "https://i.imgur.com/XVRwgom.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
+    "website": "https://domashniy.ru/"
+  },
+  {
+    "id": "Domkino.ru",
+    "name": "Dom kino",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
+    "url": "https://stream01.vnet.am/DomKino/mono.m3u8",
+    "website": "http://www.domkino.tv/"
+  },
+  {
+    "id": "Domkino.ru",
+    "name": "Dom kino",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
+    "url": "https://woobl.ru/hls987/Dom_kino.m3u8",
+    "website": "http://www.domkino.tv/"
+  },
+  {
+    "id": "DomkinoPremium.ru",
+    "name": "Dom kino Premium",
+    "logo": "https://i.imgur.com/rJpQtvK.png",
+    "url": "http://streaming.tv-teleport.ru/Dom_Kino_Premium_HD/index.m3u8",
+    "website": "https://www.domkino-premium.tv/"
+  },
+  {
+    "id": "DomkinoPremium.ru",
+    "name": "Dom kino Premium",
+    "logo": "https://i.imgur.com/rJpQtvK.png",
+    "url": "https://woobl.ru/hls987/Dom_kino_premium_hd.m3u8",
+    "website": "https://www.domkino-premium.tv/"
+  },
+  {
+    "id": "Don24.ru",
+    "name": "Don 24",
+    "logo": "https://i.imgur.com/fW15la1.png",
+    "url": "https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8",
+    "website": "https://don24.ru/tv/"
+  },
+  {
+    "id": "Dorama.ru",
+    "name": "Dorama",
+    "logo": "https://i.imgur.com/ZH5LuXU.png",
+    "url": "http://ott-cdn.ucom.am/s95/index.m3u8",
+    "website": "https://dorama-tv.com/"
+  },
+  {
+    "id": "Dorama.ru",
+    "name": "Dorama",
+    "logo": "https://i.imgur.com/ZH5LuXU.png",
+    "url": "https://woobl.ru/hls987/Dorama.m3u8",
+    "website": "https://dorama-tv.com/"
+  },
+  {
+    "id": "Drive.ru",
+    "name": "Drive",
+    "logo": "https://i.imgur.com/FnuwfSC.png",
+    "url": "https://woobl.ru/hls987/Drive.m3u8",
+    "website": "http://tv-stream.ru/channels"
+  },
+  {
+    "id": "DumaTV.ru",
+    "name": "Duma TV",
+    "logo": "https://i.imgur.com/JvlO3PU.png",
+    "url": "https://dumatv.iptv2022.com/index.m3u8",
+    "website": "https://dumatv.ru/"
+  },
+  {
+    "id": "EchoTV.ru",
+    "name": "Echo-TV",
+    "logo": "https://i.imgur.com/YWKJA1O.png",
+    "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
+    "website": "https://exotv.ru/"
+  },
+  {
+    "id": "EnglishClass.ru",
+    "name": "English Class",
+    "logo": "https://i.imgur.com/gst7wW7.png",
+    "url": "http://ott-cdn.ucom.am/s37/index.m3u8",
+    "website": "http://english-club.tv/ru/"
+  },
+  {
+    "id": "Enisey.ru",
+    "name": "Enisey",
+    "logo": "https://i.imgur.com/57deE7f.png",
+    "url": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
+    "website": "https://www.enisey.tv/"
+  },
+  {
+    "id": "Eurasia.ru",
+    "name": "Eurasia",
+    "logo": "https://i.imgur.com/4JUHIVS.png",
+    "url": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8",
+    "website": "https://eurasia.orsk.ru/"
+  },
+  {
+    "id": "Eurasia.ru",
+    "name": "Eurasia",
+    "logo": "https://i.imgur.com/4JUHIVS.png",
+    "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "website": "https://eurasia.orsk.ru/"
+  },
+  {
+    "id": "Evrokino.ru",
+    "name": "Evrokino",
+    "logo": "https://i.imgur.com/8LPtPf6.png",
+    "url": "http://176.74.80.162:8099/EuroKino/index.m3u8",
+    "website": "http://eurokino.tv/"
+  },
+  {
+    "id": "Fox.ru",
+    "name": "Fox",
+    "logo": "https://i.imgur.com/nr1Y67Z.png",
+    "url": "https://stream01.vnet.am/Fox/mono.m3u8",
+    "website": "http://www.foxtv.ru/"
+  },
+  {
+    "id": "FoxLife.ru",
+    "name": "Fox Life",
+    "logo": "https://i.imgur.com/O2miSLA.png",
+    "url": "https://woobl.ru/hls987/Fox_Life.m3u8",
+    "website": "http://www.foxlifetv.ru/"
+  },
+  {
+    "id": "Friday.ru",
+    "name": "Friday!",
+    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8",
+    "website": "https://friday.ru/"
+  },
+  {
+    "id": "Friday.ru",
+    "name": "Friday!",
+    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/19.m3u8",
+    "website": "https://friday.ru/"
+  },
+  {
+    "id": "Friday.ru",
+    "name": "Friday!",
+    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "url": "https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8",
+    "website": "https://friday.ru/"
+  },
+  {
+    "id": "Friday.ru",
+    "name": "Friday!",
+    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8",
+    "website": "https://friday.ru/"
+  },
+  {
+    "id": "FridayInternational.ru",
+    "name": "Friday! International",
+    "logo": "https://i.imgur.com/N2z3EZC.png",
+    "url": "http://ott-cdn.ucom.am/s50/index.m3u8",
+    "website": "https://friday.ru/"
+  },
+  {
+    "id": "FridayInternational.ru",
+    "name": "Friday! International",
+    "logo": "https://i.imgur.com/N2z3EZC.png",
+    "url": "https://stream01.vnet.am/Pyatnica/mono.m3u8",
+    "website": "https://friday.ru/"
+  },
+  {
+    "id": "Futbolnyy.ru",
+    "name": "Futbolnyy",
+    "logo": "https://i.imgur.com/qAse3wV.png",
+    "url": "https://woobl.ru/hls987/Futbolniy_hd.m3u8",
+    "website": "https://www.tricolor.tv/channels/futbolnyy-hd/"
+  },
+  {
+    "id": "Gorodskoytelekanal.ru",
+    "name": "Gorodskoy telekanal",
+    "logo": "https://i.imgur.com/zMNJfoV.png",
+    "url": "https://www.gtk.tv/hls/gtyar.m3u8",
+    "website": "http://www.gtk.tv/"
+  },
+  {
+    "id": "GovoritMoskva.ru",
+    "name": "Govorit Moskva",
+    "logo": "https://i.imgur.com/z2mxf3E.png",
+    "url": "http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8",
+    "website": "https://govoritmoskva.ru/"
+  },
+  {
+    "id": "GovoritMoskva.ru",
+    "name": "Govorit Moskva",
+    "logo": "https://i.imgur.com/z2mxf3E.png",
+    "url": "https://video.govoritmoskva.ru/rufm/index.m3u8",
+    "website": "https://govoritmoskva.ru/"
+  },
+  {
+    "id": "GuberniaSamara.ru",
+    "name": "Gubernia Samara",
+    "logo": "https://i.imgur.com/IlL57Rm.png",
+    "url": "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8",
+    "website": "https://sovainfo.ru/tv/"
+  },
+  {
+    "id": "HHQ.ru",
+    "name": "HHQ",
+    "logo": "https://i.imgur.com/P2G62xe.png",
+    "url": "https://maxssw.com:1935/hhq/live/chunklist.m3u8",
+    "website": "https://hhq.tv/"
+  },
+  {
+    "id": "Hollywood.ru",
+    "name": "Hollywood",
+    "logo": "https://i.imgur.com/1j7cT2I.png",
+    "url": "http://stream01.vnet.am/ParamountChannel/mono.m3u8",
+    "website": "https://universaltv.ru/channel/Hollywood"
+  },
+  {
+    "id": "HopeChannelRussia.ru",
+    "name": "Hope Channel Russia",
+    "logo": "https://i.imgur.com/GOSdjiq.png",
+    "url": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+    "website": "https://hopetv.ru/"
+  },
+  {
+    "id": "HopeChannelRussia.ru",
+    "name": "Hope Channel Russia",
+    "logo": "https://i.imgur.com/GOSdjiq.png",
+    "url": "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+    "website": "https://hopetv.ru/"
+  },
+  {
+    "id": "HuzurTV.ru",
+    "name": "Huzur TV",
+    "logo": "https://i.imgur.com/Abg1fct.png",
+    "url": "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8",
+    "website": "https://huzurtv.ru/"
+  },
+  {
+    "id": "India.ru",
+    "name": "India",
+    "logo": "https://i.imgur.com/xDVcDOc.png",
+    "url": "https://stream01.vnet.am/ZeeTV/mono.m3u8",
+    "website": "https://www.red-media.ru/company/channels/81834/"
+  },
+  {
+    "id": "Istoriya.ru",
+    "name": "Istoriya",
+    "logo": "https://i.imgur.com/eEjPail.png",
+    "url": "http://ott-cdn.ucom.am/s40/index.m3u8",
+    "website": "https://istoriya.tv/"
+  },
+  {
+    "id": "Istoriya.ru",
+    "name": "Istoriya",
+    "logo": "https://i.imgur.com/eEjPail.png",
+    "url": "http://streaming.tv-teleport.ru/Istoriya/index.m3u8",
+    "website": "https://istoriya.tv/"
+  },
+  {
+    "id": "KabbalaTV.ru",
+    "name": "Kabbala TV",
+    "logo": "https://i.imgur.com/uaffIpV.png",
+    "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8",
+    "website": "http://kab.tv/rus"
+  },
+  {
+    "id": "KaleidoscopeTV.ru",
+    "name": "Kaleidoscope TV",
+    "logo": "https://i.imgur.com/Ub3gojM.png",
+    "url": "https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8",
+    "website": "http://www.kaleidoskoptv.tv/"
+  },
+  {
+    "id": "Kavkaz24.ru",
+    "name": "Kavkaz 24",
+    "logo": "https://i.imgur.com/DyJw1Pi.png",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8",
+    "website": "https://kavkaz24.tv/"
+  },
+  {
+    "id": "Khokkeynyy.ru",
+    "name": "Khokkeynyy",
+    "logo": "https://i.imgur.com/bi1d1aS.png",
+    "url": "https://woobl.ru/hls987/Hokkeyny_hd.m3u8",
+    "website": "https://www.tricolor.tv/channels/khokkeynyy-hd/"
+  },
+  {
+    "id": "Kineko.ru",
+    "name": "Kineko",
+    "logo": "https://i.imgur.com/Otfvlmf.png",
+    "url": "https://woobl.ru/hls987/Kineko.m3u8",
+    "website": null
+  },
+  {
+    "id": "Kino24.ru",
+    "name": "Kino 24",
+    "logo": "https://i.imgur.com/QAdDARF.png",
+    "url": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8",
+    "website": "http://www.teledistribution.ru"
+  },
+  {
+    "id": "KinomixHD.ru",
+    "name": "Kinomix HD",
+    "logo": "https://i.imgur.com/D4q2XUT.png",
+    "url": "https://woobl.ru/hls987/Kinomix_HD.m3u8",
+    "website": "https://www.nastroykino.ru/kinomiks/"
+  },
+  {
+    "id": "Kinopokaz.ru",
+    "name": "Kinopokaz",
+    "logo": "https://i.imgur.com/nNjMyAq.png",
+    "url": "http://streaming.tv-teleport.ru/Kinopokaz/index.m3u8",
+    "website": "http://www.kinopokaz.tv/"
+  },
+  {
+    "id": "KinopremyeraHD.ru",
+    "name": "Kinopremyera HD",
+    "logo": "https://i.imgur.com/s0UYT8T.png",
+    "url": "http://stream02.vnet.am/Kinopremera/mono.m3u8",
+    "website": "https://www.nastroykino.ru/kinopremyera/"
+  },
+  {
+    "id": "KinopremyeraHD.ru",
+    "name": "Kinopremyera HD",
+    "logo": "https://i.imgur.com/s0UYT8T.png",
+    "url": "http://45.159.74.13/Kinopremera/index.m3u8",
+    "website": "https://www.nastroykino.ru/kinopremyera/"
+  },
+  {
+    "id": "KinoTV.ru",
+    "name": "Kino TV",
+    "logo": "https://i.imgur.com/sMpamNO.png",
+    "url": "https://woobl.ru/hls987/Kino_tv.m3u8",
+    "website": "https://kinotoday.ru/"
+  },
+  {
+    "id": "Konniymir.ru",
+    "name": "Konniy mir",
+    "logo": "https://i.imgur.com/X6otbK0.png",
+    "url": "http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8",
+    "website": "http://news.sportbox.ru/Vidy_sporta/horse_world"
+  },
+  {
+    "id": "KrikTV.ru",
+    "name": "Krik-TV",
+    "logo": "https://i.imgur.com/rtuChZR.png",
+    "url": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
+    "website": "http://www.ricekb.ru/"
+  },
+  {
+    "id": "KukhnyaTV.ru",
+    "name": "Kukhnya TV",
+    "logo": "https://i.imgur.com/7jxZnuS.png",
+    "url": "http://stream01.vnet.am/KukhnyaTv/mono.m3u8",
+    "website": "https://www.kuhnyatv.ru/"
+  },
+  {
+    "id": "KurajTV.ru",
+    "name": "Kuraj-TV",
+    "logo": "https://i.imgur.com/hZXBD9F.png",
+    "url": "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8",
+    "website": "http://xn--80asbyo.tv/"
+  },
+  {
+    "id": "KVNTV.ru",
+    "name": "KVN TV",
+    "logo": "https://i.imgur.com/Vw3LFLX.png",
+    "url": "https://woobl.ru/hls987/KVN.m3u8",
+    "website": "https://kvn.ru/"
+  },
+  {
+    "id": "LaMinorTV.ru",
+    "name": "La-Minor TV",
+    "logo": "https://i.imgur.com/RH6hTWG.png",
+    "url": "http://camera.global-x.ru/Lya-Minor/index.m3u8",
+    "website": "https://www.mymusictv.ru/"
+  },
+  {
+    "id": "LDPRTV.ru",
+    "name": "LDPR TV",
+    "logo": "https://i.imgur.com/gCmCRfe.png",
+    "url": "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8",
+    "website": "http://ldpr.tv/"
+  },
+  {
+    "id": "LDPRTV.ru",
+    "name": "LDPR TV",
+    "logo": "https://i.imgur.com/gCmCRfe.png",
+    "url": "http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8",
+    "website": "http://ldpr.tv/"
+  },
+  {
+    "id": "LDPRTV.ru",
+    "name": "LDPR TV",
+    "logo": "https://i.imgur.com/gCmCRfe.png",
+    "url": "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8",
+    "website": "http://ldpr.tv/"
+  },
+  {
+    "id": "LenTV24.ru",
+    "name": "LenTV24",
+    "logo": "https://i.imgur.com/d02uxkB.png",
+    "url": "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8",
+    "website": "https://lentv24.ru/"
+  },
+  {
+    "id": "Leomax24.ru",
+    "name": "Leomax 24",
+    "logo": "https://i.imgur.com/qU9ohQu.png",
+    "url": "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8",
+    "website": "https://www.leomax.ru/"
+  },
+  {
+    "id": "Leva.ru",
+    "name": "Leva",
+    "logo": "https://i.imgur.com/lQzgmpz.png",
+    "url": "https://strm.yandex.ru/kal/leva/leva0.m3u8",
+    "website": "http://leva.tv/"
+  },
+  {
+    "id": "Lipeckoevremya.ru",
+    "name": "Lipeckoe vremya",
+    "logo": "https://i.imgur.com/a42jk7b.png",
+    "url": "http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8",
+    "website": "https://lipetsktime.ru/"
+  },
+  {
+    "id": "Magnat.ru",
+    "name": "Magnat",
+    "logo": "https://i.imgur.com/r485aZL.png",
+    "url": "http://ott-cdn.ucom.am/s51/index.m3u8",
+    "website": "https://tvmagnat.tv/pryamoy-efir/"
+  },
+  {
+    "id": "Mama.ru",
+    "name": "Mama",
+    "logo": "https://i.imgur.com/kmMIjjf.png",
+    "url": "https://edge02.odtv.az/o2/mamatv/playlist.m3u8",
+    "website": "https://mama.tlum.ru/"
+  },
+  {
+    "id": "MaturTV.ru",
+    "name": "Matur TV",
+    "logo": "https://i.imgur.com/Pg7K7eV.png",
+    "url": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8",
+    "website": "https://matur-tv.ru/"
+  },
+  {
+    "id": "Millet.ru",
+    "name": "Millet",
+    "logo": "https://i.imgur.com/hUjLRLy.png",
+    "url": "https://live.trkmillet.ru/millet/index.m3u8",
+    "website": "http://www.trkmillet.ru/"
+  },
+  {
+    "id": "Mir24.ru",
+    "name": "Mir 24",
+    "logo": "https://i.imgur.com/dj9c8Yd.png",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+    "website": "https://mir24.tv/"
+  },
+  {
+    "id": "Mir24.ru",
+    "name": "Mir 24",
+    "logo": "https://i.imgur.com/dj9c8Yd.png",
+    "url": "https://strm.yandex.ru/kal/mir24/mir240.m3u8",
+    "website": "https://mir24.tv/"
+  },
+  {
+    "id": "Mir.ru",
+    "name": "Mir",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "url": "http://ott-cdn.ucom.am/s39/index.m3u8",
+    "website": "https://mirtv.ru/"
+  },
+  {
+    "id": "Mir.ru",
+    "name": "Mir",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+    "website": "https://mirtv.ru/"
+  },
+  {
+    "id": "Mir.ru",
+    "name": "Mir",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/22.m3u8",
+    "website": "https://mirtv.ru/"
+  },
+  {
+    "id": "Mir.ru",
+    "name": "Mir",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "url": "https://strm.yandex.ru/kal/mir24/mir0.m3u8",
+    "website": "https://mirtv.ru/"
+  },
+  {
+    "id": "MirBelogorya.ru",
+    "name": "Mir Belogorya",
+    "logo": "https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png",
+    "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
+    "website": "https://mirbelogorya.ru/"
+  },
+  {
+    "id": "MirBelogorya.ru",
+    "name": "Mir Belogorya",
+    "logo": "https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png",
+    "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+    "website": "https://mirbelogorya.ru/"
+  },
+  {
+    "id": "MirPlus2.ru",
+    "name": "Mir +2",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8",
+    "website": "https://mirtv.ru/"
+  },
+  {
+    "id": "MirPlus4.ru",
+    "name": "Mir +4",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8",
+    "website": "https://mirtv.ru/"
+  },
+  {
+    "id": "MirPlus7.ru",
+    "name": "Mir +7",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8",
+    "website": "https://mirtv.ru/"
+  },
+  {
+    "id": "MirSeriala.ru",
+    "name": "Mir Seriala",
+    "logo": "https://i.imgur.com/uzj7wVp.png",
+    "url": "https://woobl.ru/hls987/Mir_seriala.m3u8",
+    "website": "http://mediamart.ru/channels/serials.html"
+  },
+  {
+    "id": "MosObrTV.ru",
+    "name": "MosObrTV",
+    "logo": "https://i.imgur.com/t6PmOD5.png",
+    "url": "http://retj.educom.ru/mosobrtv/tv1/index.m3u8",
+    "website": "https://mosobr.shkolamoskva.ru/"
+  },
+  {
+    "id": "MosObrTV.ru",
+    "name": "MosObrTV",
+    "logo": "https://i.imgur.com/t6PmOD5.png",
+    "url": "http://retc.educom.ru/mosobrtv/tv1/index.m3u8",
+    "website": "https://mosobr.shkolamoskva.ru/"
+  },
+  {
+    "id": "MoyaPlaneta.ru",
+    "name": "Moya Planeta",
+    "logo": "https://i.imgur.com/uIiAdBv.png",
+    "url": "https://woobl.ru/hls987/Moya_planeta.m3u8",
+    "website": "https://www.moya-planeta.ru/"
+  },
+  {
+    "id": "MTV.ru",
+    "name": "MTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png",
+    "url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
+    "website": "http://www.mtv.ru/"
+  },
+  {
+    "id": "Mult.ru",
+    "name": "Mult",
+    "logo": "https://i.imgur.com/xi351Fx.png",
+    "url": "http://stream01.vnet.am/Mult/mono.m3u8",
+    "website": "http://mult-channel.ru/"
+  },
+  {
+    "id": "MultHD.ru",
+    "name": "Mult HD",
+    "logo": "https://i.imgur.com/xi351Fx.png",
+    "url": "https://woobl.ru/hls987/Mult_hd.m3u8",
+    "website": "http://mult-channel.ru/"
+  },
+  {
+    "id": "Multilandia.ru",
+    "name": "Multilandia",
+    "logo": "https://i.imgur.com/ccwijY0.png",
+    "url": "https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8",
+    "website": "https://multilandia.tv/"
+  },
+  {
+    "id": "Multimania.ru",
+    "name": "Multimania",
+    "logo": "https://i.imgur.com/abh8ZBA.png",
+    "url": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
+    "website": "http://www.multimania.lv"
+  },
+  {
+    "id": "Multimania.ru",
+    "name": "Multimania",
+    "logo": "https://i.imgur.com/abh8ZBA.png",
+    "url": "http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
+    "website": "http://www.multimania.lv"
+  },
+  {
+    "id": "Multimuzyka.ru",
+    "name": "Mult i muzyka",
+    "logo": "https://i.imgur.com/SYt6BZP.png",
+    "url": "https://woobl.ru/hls987/Multimuzyka.m3u8",
+    "website": "https://mult-music.tlum.ru/"
+  },
+  {
+    "id": "MusicBoxGold.ru",
+    "name": "MusicBox Gold",
+    "logo": "https://i.imgur.com/3arWh0k.png",
+    "url": "https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8",
+    "website": "https://mboxtv.ru/"
+  },
+  {
+    "id": "Muzhskoekino.ru",
+    "name": "Muzhskoe kino",
+    "logo": "https://i.imgur.com/8RN3tQC.png",
+    "url": "https://woobl.ru/hls987/Muzhskoe_kino_hd.m3u8",
+    "website": "https://www.nastroykino.ru/muzhskoe-kino/"
+  },
+  {
+    "id": "MuzSoyuz.ru",
+    "name": "Muz Soyuz",
+    "logo": "https://i.imgur.com/Puk1Bhx.png",
+    "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
+    "website": "https://muz.tv-soyuz.ru/"
+  },
+  {
+    "id": "MuzTV.ru",
+    "name": "Muz-TV",
+    "logo": "https://i.imgur.com/BtqrHmz.png",
+    "url": "http://stream01.vnet.am/MuzTv/mono.m3u8",
+    "website": "https://muz-tv.ru/"
+  },
+  {
+    "id": "MuzTV.ru",
+    "name": "Muz-TV",
+    "logo": "https://i.imgur.com/BtqrHmz.png",
+    "url": "https://edge02.odtv.az/o5/muztv/playlist.m3u8",
+    "website": "https://muz-tv.ru/"
+  },
+  {
+    "id": "MuzTV.ru",
+    "name": "Muz-TV",
+    "logo": "https://i.imgur.com/BtqrHmz.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/20.m3u8",
+    "website": "https://muz-tv.ru/"
+  },
+  {
+    "id": "MuzykaPervogo.ru",
+    "name": "Muzyka Pervogo",
+    "logo": "https://i.imgur.com/U0vKj3P.png",
+    "url": "http://streaming.tv-teleport.ru/Muzika_Pervogo/index.m3u8",
+    "website": "https://www.muz1.tv/"
+  },
+  {
+    "id": "NanoHD.ru",
+    "name": "Nano HD",
+    "logo": "https://i.imgur.com/8xdU3Ry.png",
+    "url": "http://s1.tv-nano.com/Nano_rec/index.m3u8",
+    "website": "http://nanohd.tv/"
+  },
+  {
+    "id": "NashaSibir.ru",
+    "name": "Nasha Sibir",
+    "logo": "https://i.imgur.com/uXOz2d9.png",
+    "url": "https://strm.yandex.ru/kal/sibir/sibir0.m3u8",
+    "website": "https://sibir.tv/"
+  },
+  {
+    "id": "NationalGeographicWild.ru",
+    "name": "National Geographic Wild",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+    "url": "http://stream02.vnet.am/NatGeoWild/mono.m3u8",
+    "website": "http://natgeotv.com/ru/wild"
+  },
+  {
+    "id": "Nauka.ru",
+    "name": "Nauka",
+    "logo": "https://i.imgur.com/ZZxzueO.png",
+    "url": "http://ott-cdn.ucom.am/s98/index.m3u8",
+    "website": "https://naukatv.ru/"
+  },
+  {
+    "id": "Nauka.ru",
+    "name": "Nauka",
+    "logo": "https://i.imgur.com/ZZxzueO.png",
+    "url": "http://stream01.vnet.am/Nauka/mono.m3u8",
+    "website": "https://naukatv.ru/"
+  },
+  {
+    "id": "NebesaTV7.ru",
+    "name": "Nebesa TV7",
+    "logo": "https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png",
+    "url": "https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8",
+    "website": "https://www.nebesatv7.com/"
+  },
+  {
+    "id": "NickelodeonCIS.ru",
+    "name": "Nickelodeon CIS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png",
+    "url": "http://streaming.tv-teleport.ru/Nickelodeon/index.m3u8",
+    "website": "http://www.nickelodeon.ru/"
+  },
+  {
+    "id": "NicktoonsCIS.ru",
+    "name": "Nicktoons CIS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+    "url": "https://stream01.vnet.am/Boomerang/mono.m3u8",
+    "website": "http://www.nickelodeon.ru/"
+  },
+  {
+    "id": "NikaTV.ru",
+    "name": "Nika TV",
+    "logo": "https://i.imgur.com/dccsFAu.png",
+    "url": "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8",
+    "website": "https://nikatv.ru/"
+  },
+  {
+    "id": "NizhniyNovgorod24.ru",
+    "name": "Nizhniy Novgorod 24",
+    "logo": "https://i.imgur.com/ZWgPVIC.png",
+    "url": "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8",
+    "website": "https://vestinn.ru/online/nn24/"
+  },
+  {
+    "id": "NizhniyNovgorod24.ru",
+    "name": "Nizhniy Novgorod 24",
+    "logo": "https://i.imgur.com/ZWgPVIC.png",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8",
+    "website": "https://vestinn.ru/online/nn24/"
+  },
+  {
+    "id": "Nostalgia.ru",
+    "name": "Nostalgia",
+    "logo": "https://i.imgur.com/YBdBc0J.png",
+    "url": "https://edge02.odtv.az/o3/nostalgiya/playlist.m3u8",
+    "website": "http://www.nostalgiatv.ru/"
+  },
+  {
+    "id": "NST.ru",
+    "name": "NST",
+    "logo": "https://i.imgur.com/uv2yxa5.png",
+    "url": "https://woobl.ru/hls987/NST.m3u8",
+    "website": "https://strashnoe.tv/"
+  },
+  {
+    "id": "NTM.ru",
+    "name": "NTM",
+    "logo": "https://i.imgur.com/AH50pGT.png",
+    "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
+    "website": "https://ntm13.ru/"
+  },
+  {
+    "id": "NTS.ru",
+    "name": "NTS",
+    "logo": "https://i.imgur.com/skkDR7q.png",
+    "url": "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8",
+    "website": "https://nts-tv.com/"
+  },
+  {
+    "id": "NTV.ru",
+    "name": "NTV",
+    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "url": "http://ott-cdn.ucom.am/s20/index.m3u8",
+    "website": "https://www.ntv.ru/"
+  },
+  {
+    "id": "NTV.ru",
+    "name": "NTV",
+    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "url": "http://cdn.ntv.ru/ntv0/playlist.m3u8",
+    "website": "https://www.ntv.ru/"
+  },
+  {
+    "id": "NTV.ru",
+    "name": "NTV",
+    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8",
+    "website": "https://www.ntv.ru/"
+  },
+  {
+    "id": "NTV.ru",
+    "name": "NTV",
+    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/7.m3u8",
+    "website": "https://www.ntv.ru/"
+  },
+  {
+    "id": "NTV.ru",
+    "name": "NTV",
+    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8",
+    "website": "https://www.ntv.ru/"
+  },
+  {
+    "id": "NTVHit.ru",
+    "name": "NTV-Hit",
+    "logo": "https://i.imgur.com/FfKBvz5.png",
+    "url": "http://ott-cdn.ucom.am/s77/index.m3u8",
+    "website": "https://www.ntv.ru/air/ntvhit/"
+  },
+  {
+    "id": "NTVHit.ru",
+    "name": "NTV-Hit",
+    "logo": "https://i.imgur.com/FfKBvz5.png",
+    "url": "http://cdn.ntv.ru/th_style/playlist.m3u8",
+    "website": "https://www.ntv.ru/air/ntvhit/"
+  },
+  {
+    "id": "NTVHit.ru",
+    "name": "NTV-Hit",
+    "logo": "https://i.imgur.com/FfKBvz5.png",
+    "url": "https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8",
+    "website": "https://www.ntv.ru/air/ntvhit/"
+  },
+  {
+    "id": "NTVLaw.ru",
+    "name": "NTV Law",
+    "logo": "https://i.imgur.com/3ChnWGg.png",
+    "url": "http://cdn.ntv.ru/th_pravo/playlist.m3u8",
+    "website": "https://www.ntv.ru/air/ntvlaw/"
+  },
+  {
+    "id": "NTVLaw.ru",
+    "name": "NTV Law",
+    "logo": "https://i.imgur.com/3ChnWGg.png",
+    "url": "https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8",
+    "website": "https://www.ntv.ru/air/ntvlaw/"
+  },
+  {
+    "id": "NTVMir.ru",
+    "name": "NTV Mir",
+    "logo": "https://i.imgur.com/pUcV46F.png",
+    "url": "http://ott-cdn.ucom.am/s17/index.m3u8",
+    "website": "http://www.ntvmir.ntv.ru/"
+  },
+  {
+    "id": "NTVMir.ru",
+    "name": "NTV Mir",
+    "logo": "https://i.imgur.com/pUcV46F.png",
+    "url": "http://stream02.vnet.am/HTB/mono.m3u8",
+    "website": "http://www.ntvmir.ntv.ru/"
+  },
+  {
+    "id": "NTVSeries.ru",
+    "name": "NTV Series",
+    "logo": "https://i.imgur.com/QdVa8tl.png",
+    "url": "http://cdn.ntv.ru/th_serial/playlist.m3u8",
+    "website": "https://www.ntv.ru/air/ntvseries/"
+  },
+  {
+    "id": "NTVSeries.ru",
+    "name": "NTV Series",
+    "logo": "https://i.imgur.com/QdVa8tl.png",
+    "url": "https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8",
+    "website": "https://www.ntv.ru/air/ntvseries/"
+  },
+  {
+    "id": "NTVStyle.ru",
+    "name": "NTV Style",
+    "logo": "https://i.imgur.com/rX6K6qT.png",
+    "url": "http://cdn.ntv.ru/th_hit/playlist.m3u8",
+    "website": "https://www.ntv.ru/air/ntvstyle/"
+  },
+  {
+    "id": "NTVStyle.ru",
+    "name": "NTV Style",
+    "logo": "https://i.imgur.com/rX6K6qT.png",
+    "url": "https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8",
+    "website": "https://www.ntv.ru/air/ntvstyle/"
+  },
+  {
+    "id": "NVKSakha.ru",
+    "name": "NVK Sakha",
+    "logo": "https://i.imgur.com/LwXNUhf.png",
+    "url": "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8",
+    "website": "https://nvk-online.ru/"
+  },
+  {
+    "id": "OceanTV.ru",
+    "name": "Ocean-TV",
+    "logo": "https://i.imgur.com/zswzDZS.png",
+    "url": "http://camera.global-x.ru/OceanTV/index.m3u8",
+    "website": "https://ocean-tv.media/"
+  },
+  {
+    "id": "Ohotnikirybolov.ru",
+    "name": "Ohotnik i rybolov",
+    "logo": "https://i.imgur.com/Bj1jI7F.png",
+    "url": "http://ott-cdn.ucom.am/s62/index.m3u8",
+    "website": "https://oirtv.ru/"
+  },
+  {
+    "id": "OsetiyaIryston.ru",
+    "name": "Osetiya-Iryston",
+    "logo": "https://i.imgur.com/N0Zn4zU.png",
+    "url": "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8",
+    "website": "https://iryston.tv/"
+  },
+  {
+    "id": "OstrosyuzhetnoyeHD.ru",
+    "name": "Ostrosyuzhetnoye HD",
+    "logo": "https://i.imgur.com/NwQ7GBy.png",
+    "url": "http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8",
+    "website": "https://www.tricolor.tv/channels/ostrosyuzhetnoe-sd/"
+  },
+  {
+    "id": "OTR.ru",
+    "name": "OTR",
+    "logo": "https://i.imgur.com/VaWlnjZ.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8",
+    "website": "https://otr-online.ru/"
+  },
+  {
+    "id": "OTR.ru",
+    "name": "OTR",
+    "logo": "https://i.imgur.com/VaWlnjZ.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/12.m3u8",
+    "website": "https://otr-online.ru/"
+  },
+  {
+    "id": "OTR.ru",
+    "name": "OTR",
+    "logo": "https://i.imgur.com/VaWlnjZ.png",
+    "url": "https://strm.yandex.ru/kal/otr/otr0.m3u8",
+    "website": "https://otr-online.ru/"
+  },
+  {
+    "id": "OTVPrim.ru",
+    "name": "OTV-Prim",
+    "logo": "https://i.imgur.com/2zd8trG.png",
+    "url": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8",
+    "website": "https://otvprim.tv/"
+  },
+  {
+    "id": "PeretzInternational.ru",
+    "name": "Peretz International",
+    "logo": "https://i.imgur.com/On6ggLe.png",
+    "url": "http://stream01.vnet.am/Perec/mono.m3u8",
+    "website": "http://www.ctcmedia.ru/business/peretz_int/"
+  },
+  {
+    "id": "PervyyKosmicheskiy.ru",
+    "name": "Pervyy Kosmicheskiy",
+    "logo": "https://i.imgur.com/N1Ze5IE.png",
+    "url": "http://ott-cdn.ucom.am/s44/index.m3u8",
+    "website": "https://operators.1tvch.ru/channels/pervyi-kosmicheskii"
+  },
+  {
+    "id": "PervyyKosmicheskiy.ru",
+    "name": "Pervyy Kosmicheskiy",
+    "logo": "https://i.imgur.com/N1Ze5IE.png",
+    "url": "http://stream01.vnet.am/Evrika/mono.m3u8",
+    "website": "https://operators.1tvch.ru/channels/pervyi-kosmicheskii"
+  },
+  {
+    "id": "PervyyPskovskiy.ru",
+    "name": "Pervyy Pskovskiy",
+    "logo": "https://i.imgur.com/1gciFqi.png",
+    "url": "http://194.190.78.91/pskov/rewind-10800.m3u8",
+    "website": "https://1pskov.tv/"
+  },
+  {
+    "id": "PervyyTulskiy.ru",
+    "name": "Pervyy Tulskiy",
+    "logo": "https://i.imgur.com/QdKKHXb.png",
+    "url": "http://5.164.24.83/tula/1tv_low/index.m3u8",
+    "website": "https://1tulatv.ru/"
+  },
+  {
+    "id": "Pobeda.ru",
+    "name": "Pobeda",
+    "logo": "https://i.imgur.com/4KiYSln.png",
+    "url": "http://ott-cdn.ucom.am/s47/index.m3u8",
+    "website": "https://pobeda.tv/"
+  },
+  {
+    "id": "Pobeda.ru",
+    "name": "Pobeda",
+    "logo": "https://i.imgur.com/4KiYSln.png",
+    "url": "https://woobl.ru/hls987/Pobeda.m3u8",
+    "website": "https://pobeda.tv/"
+  },
+  {
+    "id": "Poehali.ru",
+    "name": "Poehali!",
+    "logo": "https://i.imgur.com/mxsBZaC.png",
+    "url": "http://streaming.tv-teleport.ru/MTV_Live_HD/index.m3u8",
+    "website": "http://www.poehali.tv/"
+  },
+  {
+    "id": "Poehali.ru",
+    "name": "Poehali!",
+    "logo": "https://i.imgur.com/mxsBZaC.png",
+    "url": "http://streaming.tv-teleport.ru/Poehali/index.m3u8",
+    "website": "http://www.poehali.tv/"
+  },
+  {
+    "id": "PremialnoeHD.ru",
+    "name": "Premialnoe HD",
+    "logo": "https://i.imgur.com/ck4aLBP.png",
+    "url": "http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8",
+    "website": "https://www.tricolor.tv/channels/premialnoe-sd/"
+  },
+  {
+    "id": "Priklyucheniya.ru",
+    "name": "Priklyucheniya",
+    "logo": "https://i.imgur.com/qQ6pPPQ.png",
+    "url": "http://ott-cdn.ucom.am/s99/index.m3u8",
+    "website": "http://xn--e1afbgfnji0e9cp.tv/"
+  },
+  {
+    "id": "Prima.ru",
+    "name": "Prima",
+    "logo": "https://i.imgur.com/33XGMch.png",
+    "url": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8",
+    "website": "https://www.prima-tv.ru/"
+  },
+  {
+    "id": "Prima.ru",
+    "name": "Prima",
+    "logo": "https://i.imgur.com/33XGMch.png",
+    "url": "https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8",
+    "website": "https://www.prima-tv.ru/"
+  },
+  {
+    "id": "Pro100TV.ru",
+    "name": "Pro100TV",
+    "logo": "https://i.imgur.com/YfQEflM.png",
+    "url": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
+    "website": "https://www.pro100tv.lv/"
+  },
+  {
+    "id": "Prodvizhenie.ru",
+    "name": "Prodvizhenie",
+    "logo": "https://i.imgur.com/JrOuqJy.png",
+    "url": "https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8",
+    "website": "https://www.pro-tv.info/"
+  },
+  {
+    "id": "Prosveshchenie.ru",
+    "name": "Prosveshchenie",
+    "logo": "https://i.imgur.com/uppFhhq.png",
+    "url": "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8",
+    "website": "http://prosveshenie.tv/"
+  },
+  {
+    "id": "RadioHit.ru",
+    "name": "Radio Hit",
+    "logo": "https://i.imgur.com/5xKqV1s.png",
+    "url": "http://lova.me/hls/hithd.m3u8",
+    "website": "http://smotri.radio/"
+  },
+  {
+    "id": "RadioHit.ru",
+    "name": "Radio Hit",
+    "logo": "https://i.imgur.com/5xKqV1s.png",
+    "url": "http://lova.me/hls/hit.m3u8",
+    "website": "http://smotri.radio/"
+  },
+  {
+    "id": "RadioShanson.ru",
+    "name": "Radio Shanson",
+    "logo": "https://i.imgur.com/lbqM3K2.png",
+    "url": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8",
+    "website": null
+  },
+  {
+    "id": "RadostMoya.ru",
+    "name": "Radost Moya",
+    "logo": "https://i.imgur.com/B5FA62o.png",
+    "url": "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8",
+    "website": "https://radostmoya.ru/"
+  },
+  {
+    "id": "Ratnik.ru",
+    "name": "Ratnik",
+    "logo": "https://i.imgur.com/vhLQtSd.png",
+    "url": "https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8",
+    "website": "https://ratnik.tv/"
+  },
+  {
+    "id": "RBKTV.ru",
+    "name": "RBK-TV",
+    "logo": "https://i.imgur.com/CwhmJby.png",
+    "url": "http://ott-cdn.ucom.am/s36/index.m3u8",
+    "website": "https://tv.rbc.ru/"
+  },
+  {
+    "id": "RBKTV.ru",
+    "name": "RBK-TV",
+    "logo": "https://i.imgur.com/CwhmJby.png",
+    "url": "https://edge02.odtv.az/o1/rbktv/playlist.m3u8",
+    "website": "https://tv.rbc.ru/"
+  },
+  {
+    "id": "RBKTV.ru",
+    "name": "RBK-TV",
+    "logo": "https://i.imgur.com/CwhmJby.png",
+    "url": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
+    "website": "https://tv.rbc.ru/"
+  },
+  {
+    "id": "RBKTV.ru",
+    "name": "RBK-TV",
+    "logo": "https://i.imgur.com/CwhmJby.png",
+    "url": "http://92.50.128.180/utv/1358/index.m3u8",
+    "website": "https://tv.rbc.ru/"
+  },
+  {
+    "id": "RBKTV.ru",
+    "name": "RBK-TV",
+    "logo": "https://i.imgur.com/CwhmJby.png",
+    "url": "https://online-video.rbc.ru/spb/rbctv_spb.m3u8",
+    "website": "https://tv.rbc.ru/"
+  },
+  {
+    "id": "RBKTV.ru",
+    "name": "RBK-TV",
+    "logo": "https://i.imgur.com/CwhmJby.png",
+    "url": "http://online-video.rbc.ru/online2/rbctv.m3u8",
+    "website": "https://tv.rbc.ru/"
+  },
+  {
+    "id": "Region29.ru",
+    "name": "Region29",
+    "logo": "https://i.imgur.com/pULU44E.png",
+    "url": "http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8",
+    "website": "https://region29.ru/"
+  },
+  {
+    "id": "RENTV.ru",
+    "name": "REN TV",
+    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "url": "https://edge02.odtv.az/o2/rentv/playlist.m3u8",
+    "website": "https://ren.tv/"
+  },
+  {
+    "id": "RENTV.ru",
+    "name": "REN TV",
+    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8",
+    "website": "https://ren.tv/"
+  },
+  {
+    "id": "RENTV.ru",
+    "name": "REN TV",
+    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
+    "website": "https://ren.tv/"
+  },
+  {
+    "id": "RENTV.ru",
+    "name": "REN TV",
+    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8",
+    "website": "https://ren.tv/"
+  },
+  {
+    "id": "RENTVInternational.ru",
+    "name": "REN TV International",
+    "logo": "https://i.imgur.com/gBjk9oF.png",
+    "url": "https://woobl.ru/hls987/Rentv_international.m3u8",
+    "website": null
+  },
+  {
+    "id": "RodnoeKino.ru",
+    "name": "Rodnoe Kino",
+    "logo": "https://i.imgur.com/H70LxoZ.png",
+    "url": "https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8",
+    "website": "https://www.nastroykino.ru/rodnoe-kino/"
+  },
+  {
+    "id": "Rodnoykanal.ru",
+    "name": "Rodnoy kanal",
+    "logo": "https://i.imgur.com/JqydEYN.png",
+    "url": "https://n1.slavmir.tv/live/slavmir/playlist.m3u8",
+    "website": "https://www.slavmir.tv/"
+  },
+  {
+    "id": "RostovPapa.ru",
+    "name": "Rostov-Papa",
+    "logo": "https://i.imgur.com/2JYkoSa.png",
+    "url": "https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8",
+    "website": "https://rostov-papatv.com/"
+  },
+  {
+    "id": "RostovPapa.ru",
+    "name": "Rostov-Papa",
+    "logo": "https://i.imgur.com/2JYkoSa.png",
+    "url": "https://woobl.ru/hls987/Rostov_papa_hd.m3u8",
+    "website": "https://rostov-papatv.com/"
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "url": "https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8",
+    "website": "https://www.rt.com/"
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "url": "https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8",
+    "website": "https://www.rt.com/"
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
+    "website": "https://www.rt.com/"
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "url": "https://rumble.com/live-hls/tp5hp/playlist.m3u8",
+    "website": "https://www.rt.com/"
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "url": "https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8",
+    "website": "https://www.rt.com/"
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+    "website": "https://www.rt.com/"
+  },
+  {
+    "id": "RTArabic.ru",
+    "name": "RT Arabic",
+    "logo": "https://i.imgur.com/G8vGrn1.png",
+    "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+    "website": "https://arabic.rt.com/"
+  },
+  {
+    "id": "RTArabic.ru",
+    "name": "RT Arabic",
+    "logo": "https://i.imgur.com/G8vGrn1.png",
+    "url": "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8",
+    "website": "https://arabic.rt.com/"
+  },
+  {
+    "id": "RTDocumentaryEnglish.ru",
+    "name": "RT Documentary English",
+    "logo": "https://i.imgur.com/aeu5zIC.png",
+    "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+    "website": "https://rtd.rt.com/"
+  },
+  {
+    "id": "RTDocumentaryEnglish.ru",
+    "name": "RT Documentary English",
+    "logo": "https://i.imgur.com/aeu5zIC.png",
+    "url": "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8",
+    "website": "https://rtd.rt.com/"
+  },
+  {
+    "id": "RTDocumentaryRussian.ru",
+    "name": "RT Documentary Russian",
+    "logo": "https://i.imgur.com/aeu5zIC.png",
+    "url": "https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8",
+    "website": "http://doc.rt.com/"
+  },
+  {
+    "id": "RTDocumentaryRussian.ru",
+    "name": "RT Documentary Russian",
+    "logo": "https://i.imgur.com/aeu5zIC.png",
+    "url": "https://hls.rt.com/hls/rtdru.m3u8",
+    "website": "http://doc.rt.com/"
+  },
+  {
+    "id": "RTenEspanol.ru",
+    "name": "RT en Espanol",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "url": "https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8",
+    "website": "https://actualidad.rt.com/"
+  },
+  {
+    "id": "RTenEspanol.ru",
+    "name": "RT en Espanol",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+    "website": "https://actualidad.rt.com/"
+  },
+  {
+    "id": "RTenEspanol.ru",
+    "name": "RT en Espanol",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "url": "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8",
+    "website": "https://actualidad.rt.com/"
+  },
+  {
+    "id": "RTGTV.ru",
+    "name": "RTG TV",
+    "logo": "https://i.imgur.com/ZMKPAho.png",
+    "url": "https://strm.yandex.ru/kal/rtg/rtg0.m3u8",
+    "website": "http://www.rtgtv.ru/channels/rtgtv"
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",
+    "url": "http://ott-cdn.ucom.am/s15/index.m3u8",
+    "website": "https://russia.tv/"
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8",
+    "website": "https://russia.tv/"
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/5.m3u8",
+    "website": "https://russia.tv/"
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "website": "http://vesti.ru/"
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "url": "https://edge02.odtv.az/o1/rossiya24/playlist.m3u8",
+    "website": "http://vesti.ru/"
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "url": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8",
+    "website": "http://vesti.ru/"
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8",
+    "website": "http://vesti.ru/"
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/10.m3u8",
+    "website": "http://vesti.ru/"
+  },
+  {
+    "id": "RussiaK.ru",
+    "name": "Russia-K",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",
+    "url": "http://ott-cdn.ucom.am/s16/index.m3u8",
+    "website": "http://smotrim.ru/pick/kultura"
+  },
+  {
+    "id": "RussiaK.ru",
+    "name": "Russia-K",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",
+    "url": "https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8",
+    "website": "http://smotrim.ru/pick/kultura"
+  },
+  {
+    "id": "RussiaK.ru",
+    "name": "Russia-K",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8",
+    "website": "http://smotrim.ru/pick/kultura"
+  },
+  {
+    "id": "RussiaK.ru",
+    "name": "Russia-K",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/9.m3u8",
+    "website": "http://smotrim.ru/pick/kultura"
+  },
+  {
+    "id": "RussiaK.ru",
+    "name": "Russia-K",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
+    "website": "http://smotrim.ru/pick/kultura"
+  },
+  {
+    "id": "RussianMusicBox.ru",
+    "name": "Russian MusicBox",
+    "logo": "https://i.imgur.com/ZkJ3Rh9.png",
+    "url": "https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8",
+    "website": "https://musicboxtv.ru/"
+  },
+  {
+    "id": "RusskiyBestseller.ru",
+    "name": "Russkiy Bestseller",
+    "logo": "https://i.imgur.com/w0ZE9QJ.png",
+    "url": "http://streaming.tv-teleport.ru/Russkiy_Bestseller/index.m3u8",
+    "website": "https://bestrussia.tv/"
+  },
+  {
+    "id": "RusskiyIllusion.ru",
+    "name": "Russkiy Illusion",
+    "logo": "https://i.imgur.com/RlsqFN8.png",
+    "url": "https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8",
+    "website": "http://russkiyillusion.ru/"
+  },
+  {
+    "id": "Russkiyroman.ru",
+    "name": "Russkiy roman",
+    "logo": "https://i.imgur.com/cQN0P2B.png",
+    "url": "https://woobl.ru/hls987/Russkiy_roman.m3u8",
+    "website": "https://rusroman.ru/"
+  },
+  {
+    "id": "RusskiySever.ru",
+    "name": "Russkiy Sever",
+    "logo": "https://i.imgur.com/BxAyQTx.png",
+    "url": "http://live.rusevertv.ru/streams.rs.m3u8",
+    "website": "https://rusevertv.ru/"
+  },
+  {
+    "id": "RUTV.ru",
+    "name": "RU.TV",
+    "logo": "https://i.imgur.com/Z7HUU7V.png",
+    "url": "https://edge02.odtv.az/o7/rutv/playlist.m3u8",
+    "website": "https://ru.tv/"
+  },
+  {
+    "id": "RUTV.ru",
+    "name": "RU.TV",
+    "logo": "https://i.imgur.com/Z7HUU7V.png",
+    "url": "https://hls-03-video.webcaramba.com/rutv/live.m3u8",
+    "website": "https://ru.tv/"
+  },
+  {
+    "id": "RUTV.ru",
+    "name": "RU.TV",
+    "logo": "https://i.imgur.com/Z7HUU7V.png",
+    "url": "https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8",
+    "website": "https://ru.tv/"
+  },
+  {
+    "id": "Ryzhiy.ru",
+    "name": "Ryzhiy",
+    "logo": "https://i.imgur.com/QlncxbD.png",
+    "url": "http://ott-cdn.ucom.am/s57/index.m3u8",
+    "website": "http://www.ryzhiy.tv/"
+  },
+  {
+    "id": "RZDTV.ru",
+    "name": "RZD TV",
+    "logo": "https://i.imgur.com/lf1r9L6.png",
+    "url": "http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8",
+    "website": "https://rzdtv.ru/"
+  },
+  {
+    "id": "S1.ru",
+    "name": "S1",
+    "logo": "https://i.imgur.com/chNBF5t.png",
+    "url": "https://sitv.ru/hls/stv.m3u8",
+    "website": "https://sitv.ru/efir/c1/"
+  },
+  {
+    "id": "Salyam.ru",
+    "name": "Salyam",
+    "logo": "https://i.imgur.com/FfULLr1.png",
+    "url": "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8",
+    "website": "https://bash.news/salyam"
+  },
+  {
+    "id": "SamaraGIS.ru",
+    "name": "Samara-GIS",
+    "logo": "https://samaragis.ru/wp-includes/images/logo.png",
+    "url": "http://45.67.57.9:8080/new/new/playlist.m3u8",
+    "website": "https://samaragis.ru/efir/"
+  },
+  {
+    "id": "SanktPeterburg.ru",
+    "name": "Sankt-Peterburg",
+    "logo": "https://i.imgur.com/9At4oG7.png",
+    "url": "https://streamsrv2.tvspb.ru/OTT/playlist.m3u8",
+    "website": "https://topspb.tv/"
+  },
+  {
+    "id": "SelengaTV.ru",
+    "name": "Selenga-TV",
+    "logo": "https://i.imgur.com/pKUtF4S.png",
+    "url": "http://90.188.37.86/live/playlist.m3u8",
+    "website": "http://selengatv.ru/"
+  },
+  {
+    "id": "Sever.ru",
+    "name": "Sever",
+    "logo": "https://i.imgur.com/sTOQLYl.png",
+    "url": "https://live2.mediacdn.ru/sr1/sever/playlist.m3u8",
+    "website": "http://trksever.ru/"
+  },
+  {
+    "id": "Sever.ru",
+    "name": "Sever",
+    "logo": "https://i.imgur.com/sTOQLYl.png",
+    "url": "https://live.mediacdn.ru/sr1/sever/playlist.m3u8",
+    "website": "http://trksever.ru/"
+  },
+  {
+    "id": "ShansonTV.ru",
+    "name": "Shanson TV",
+    "logo": "https://i.imgur.com/NBWyJJQ.png",
+    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "website": "https://shanson.tv/"
+  },
+  {
+    "id": "ShansonTV.ru",
+    "name": "Shanson TV",
+    "logo": "https://i.imgur.com/NBWyJJQ.png",
+    "url": "https://edge02.odtv.az/o7/shansontv/playlist.m3u8",
+    "website": "https://shanson.tv/"
+  },
+  {
+    "id": "ShansonTV.ru",
+    "name": "Shanson TV",
+    "logo": "https://i.imgur.com/NBWyJJQ.png",
+    "url": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
+    "website": "https://shanson.tv/"
+  },
+  {
+    "id": "ShansonTV.ru",
+    "name": "Shanson TV",
+    "logo": "https://i.imgur.com/NBWyJJQ.png",
+    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
+    "website": "https://shanson.tv/"
+  },
+  {
+    "id": "ShansonTV.ru",
+    "name": "Shanson TV",
+    "logo": "https://i.imgur.com/NBWyJJQ.png",
+    "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+    "website": "https://shanson.tv/"
+  },
+  {
+    "id": "ShayanTV.ru",
+    "name": "Shayan TV",
+    "logo": "https://i.imgur.com/CvFwczN.png",
+    "url": "https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8",
+    "website": "https://shayantv.ru/"
+  },
+  {
+    "id": "ShchyolkovskoeTV.ru",
+    "name": "Shchyolkovskoe TV",
+    "logo": "https://i.imgur.com/0us6l04.png",
+    "url": "http://stream0.tv41.ru/live.m3u8",
+    "website": "https://tv41.ru/"
+  },
+  {
+    "id": "ShoppingLive.ru",
+    "name": "Shopping Live",
+    "logo": "https://i.imgur.com/EMmGnjV.png",
+    "url": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8",
+    "website": "https://www.shoppinglive.ru/"
+  },
+  {
+    "id": "Solnce.ru",
+    "name": "Solnce",
+    "logo": "https://i.imgur.com/rec9akk.png",
+    "url": "http://tv.mediacdn.ru/live/disney/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "SolnechnogorskoeTV.ru",
+    "name": "Solnechnogorskoe TV",
+    "logo": "https://i.imgur.com/LZUAUVY.png",
+    "url": "http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8",
+    "website": "https://solntv.ru/"
+  },
+  {
+    "id": "SONGTVRussia.ru",
+    "name": "SONGTV Russia",
+    "logo": "https://i.imgur.com/nM7LbmV.png",
+    "url": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
+    "website": "https://songtv.ru/"
+  },
+  {
+    "id": "Soyuz.ru",
+    "name": "Soyuz",
+    "logo": "https://i.imgur.com/w3OewHc.png",
+    "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
+    "website": "https://tv-soyuz.ru/"
+  },
+  {
+    "id": "Soyuz.ru",
+    "name": "Soyuz",
+    "logo": "https://i.imgur.com/w3OewHc.png",
+    "url": "https://woobl.ru/hls987/Soyuz.m3u8",
+    "website": "https://tv-soyuz.ru/"
+  },
+  {
+    "id": "Spas.ru",
+    "name": "Spas",
+    "logo": "https://i.imgur.com/yY39nMg.png",
+    "url": "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8",
+    "website": "http://spastv.ru/"
+  },
+  {
+    "id": "Spas.ru",
+    "name": "Spas",
+    "logo": "https://i.imgur.com/yY39nMg.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/15.m3u8",
+    "website": "http://spastv.ru/"
+  },
+  {
+    "id": "Sportivnyy.ru",
+    "name": "Sportivnyy",
+    "logo": "https://i.imgur.com/ujS6mMo.png",
+    "url": "https://woobl.ru/hls987/Sportivny_hd.m3u8",
+    "website": "https://www.tricolor.tv/channels/sportivnyy-hd/"
+  },
+  {
+    "id": "StarFamily.ru",
+    "name": "Star Family",
+    "logo": "https://i.imgur.com/eGuGHnZ.png",
+    "url": "http://89.254.128.5:22280/star_family_hd/video.m3u8",
+    "website": null
+  },
+  {
+    "id": "Start.ru",
+    "name": "Start",
+    "logo": "https://i.imgur.com/VBqVkno.png",
+    "url": "https://strm.yandex.ru/kal/start/start0.m3u8",
+    "website": "https://tvstart.ru/"
+  },
+  {
+    "id": "STARTAir.ru",
+    "name": "START Air",
+    "logo": "https://i.imgur.com/4bACa7x.png",
+    "url": "https://woobl.ru/hls987/START_Air_HD.m3u8",
+    "website": "https://starttv.ru/"
+  },
+  {
+    "id": "StartTriumf.ru",
+    "name": "Start Triumf",
+    "logo": "https://i.imgur.com/L9jTieL.png",
+    "url": "https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8",
+    "website": null
+  },
+  {
+    "id": "StartTriumf.ru",
+    "name": "Start Triumf",
+    "logo": "https://i.imgur.com/L9jTieL.png",
+    "url": "https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8",
+    "website": null
+  },
+  {
+    "id": "STARTWorld.ru",
+    "name": "START World",
+    "logo": "https://i.imgur.com/TXtY5eM.png",
+    "url": "https://woobl.ru/hls987/START_World_HD.m3u8",
+    "website": "https://starttv.ru/"
+  },
+  {
+    "id": "StranaFM.ru",
+    "name": "Strana FM",
+    "logo": "https://i.imgur.com/WsPlKJJ.png",
+    "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "website": "https://strana.fm/"
+  },
+  {
+    "id": "StranaFM.ru",
+    "name": "Strana FM",
+    "logo": "https://i.imgur.com/WsPlKJJ.png",
+    "url": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
+    "website": "https://strana.fm/"
+  },
+  {
+    "id": "STRK.ru",
+    "name": "STRK",
+    "logo": "https://i.imgur.com/mLZDuIF.png",
+    "url": "http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8",
+    "website": "http://sochinskayatrk.ru/ru/menu-part-strk"
+  },
+  {
+    "id": "STS.ru",
+    "name": "STS",
+    "logo": "https://i.imgur.com/ilUzAeb.png",
+    "url": "http://ott-cdn.ucom.am/s52/index.m3u8",
+    "website": "https://ctc.ru/"
+  },
+  {
+    "id": "STS.ru",
+    "name": "STS",
+    "logo": "https://i.imgur.com/ilUzAeb.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8",
+    "website": "https://ctc.ru/"
+  },
+  {
+    "id": "STS.ru",
+    "name": "STS",
+    "logo": "https://i.imgur.com/ilUzAeb.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/16.m3u8",
+    "website": "https://ctc.ru/"
+  },
+  {
+    "id": "STS.ru",
+    "name": "STS",
+    "logo": "https://i.imgur.com/ilUzAeb.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8",
+    "website": "https://ctc.ru/"
+  },
+  {
+    "id": "STSkids.ru",
+    "name": "STS kids",
+    "logo": "https://i.imgur.com/o9kLpAL.png",
+    "url": "http://stream02.vnet.am/DisneyChannel/mono.m3u8",
+    "website": "https://ctckids.ru/"
+  },
+  {
+    "id": "STSLove.ru",
+    "name": "STS Love",
+    "logo": "https://i.imgur.com/YBVZoDd.png",
+    "url": "http://streaming.tv-teleport.ru/STS_Love/index.m3u8",
+    "website": "https://www.ctclove.ru/"
+  },
+  {
+    "id": "STSLove.ru",
+    "name": "STS Love",
+    "logo": "https://i.imgur.com/YBVZoDd.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8",
+    "website": "https://www.ctclove.ru/"
+  },
+  {
+    "id": "Subbota.ru",
+    "name": "Subbota!",
+    "logo": "https://i.imgur.com/nsk8PpB.png",
+    "url": "https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8",
+    "website": "https://subbota.tv/"
+  },
+  {
+    "id": "Subbota.ru",
+    "name": "Subbota!",
+    "logo": "https://i.imgur.com/nsk8PpB.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8",
+    "website": "https://subbota.tv/"
+  },
+  {
+    "id": "Surgut24.ru",
+    "name": "Surgut 24",
+    "logo": "https://i.imgur.com/OxvqXMt.png",
+    "url": "https://video1.in-news.ru/c24/index.m3u8",
+    "website": "https://in-news.ru/"
+  },
+  {
+    "id": "SvoyoTV.ru",
+    "name": "Svoyo TV",
+    "logo": "https://i.imgur.com/3cP2fmX.png",
+    "url": "http://live.stv24.tv:8080/svoetv/HQ_video.m3u8",
+    "website": "https://stv24.tv/"
+  },
+  {
+    "id": "SvoyoTV.ru",
+    "name": "Svoyo TV",
+    "logo": "https://i.imgur.com/3cP2fmX.png",
+    "url": "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8",
+    "website": "https://stv24.tv/"
+  },
+  {
+    "id": "Tamyr.ru",
+    "name": "Tamyr",
+    "logo": "https://i.imgur.com/Ia3acCB.png",
+    "url": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
+    "website": "https://bash.news/tamir"
+  },
+  {
+    "id": "Telecafe.ru",
+    "name": "Telecafe",
+    "logo": "https://i.imgur.com/1H3h1HL.png",
+    "url": "http://ott-cdn.ucom.am/s56/index.m3u8",
+    "website": "https://www.telecafe.ru/"
+  },
+  {
+    "id": "Telecafe.ru",
+    "name": "Telecafe",
+    "logo": "https://i.imgur.com/1H3h1HL.png",
+    "url": "http://stream01.vnet.am/Telekafe/mono.m3u8",
+    "website": "https://www.telecafe.ru/"
+  },
+  {
+    "id": "Telecafe.ru",
+    "name": "Telecafe",
+    "logo": "https://i.imgur.com/1H3h1HL.png",
+    "url": "http://streaming.tv-teleport.ru/Telekafe/index.m3u8",
+    "website": "https://www.telecafe.ru/"
+  },
+  {
+    "id": "Telplus.ru",
+    "name": "Telplus",
+    "logo": "https://i.imgur.com/1zbcZ3p.png",
+    "url": "https://streaming.astrakhan.ru/telplushd/playlist.m3u8",
+    "website": "https://telplus.ru/kvartira/televidenie/kanal/"
+  },
+  {
+    "id": "TiJi.ru",
+    "name": "TiJi",
+    "logo": "https://i.imgur.com/QCOUJ30.png",
+    "url": "http://ott-cdn.ucom.am/s59/index.m3u8",
+    "website": "https://tiji.ru/"
+  },
+  {
+    "id": "Tivikom.ru",
+    "name": "Tivikom",
+    "logo": "https://i.imgur.com/qcJ4EBl.png",
+    "url": "http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8",
+    "website": "https://tvcom-tv.ru/"
+  },
+  {
+    "id": "TKR.ru",
+    "name": "TKR",
+    "logo": "https://i.imgur.com/VqtPB7L.png",
+    "url": "http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8",
+    "website": "https://tkr.su/"
+  },
+  {
+    "id": "TNT4.ru",
+    "name": "TNT4",
+    "logo": "https://i.imgur.com/gBokU5i.png",
+    "url": "http://ott-cdn.ucom.am/s100/index.m3u8",
+    "website": "https://tnt4.ru/"
+  },
+  {
+    "id": "TNT4.ru",
+    "name": "TNT4",
+    "logo": "https://i.imgur.com/gBokU5i.png",
+    "url": "https://edge02.odtv.az/o7/tnt4/playlist.m3u8",
+    "website": "https://tnt4.ru/"
+  },
+  {
+    "id": "TNT4.ru",
+    "name": "TNT4",
+    "logo": "https://i.imgur.com/gBokU5i.png",
+    "url": "https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8",
+    "website": "https://tnt4.ru/"
+  },
+  {
+    "id": "TNT.ru",
+    "name": "TNT",
+    "logo": "https://i.imgur.com/T4A6rEI.png",
+    "url": "http://ott-cdn.ucom.am/s19/index.m3u8",
+    "website": "http://tnt-online.ru/"
+  },
+  {
+    "id": "TNT.ru",
+    "name": "TNT",
+    "logo": "https://i.imgur.com/T4A6rEI.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8",
+    "website": "http://tnt-online.ru/"
+  },
+  {
+    "id": "TNT.ru",
+    "name": "TNT",
+    "logo": "https://i.imgur.com/T4A6rEI.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/23.m3u8",
+    "website": "http://tnt-online.ru/"
+  },
+  {
+    "id": "TNT.ru",
+    "name": "TNT",
+    "logo": "https://i.imgur.com/T4A6rEI.png",
+    "url": "https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8",
+    "website": "http://tnt-online.ru/"
+  },
+  {
+    "id": "TNT.ru",
+    "name": "TNT",
+    "logo": "https://i.imgur.com/T4A6rEI.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
+    "website": "http://tnt-online.ru/"
+  },
+  {
+    "id": "TNTMusic.ru",
+    "name": "TNT Music",
+    "logo": "https://i.imgur.com/RenuH4S.png",
+    "url": "https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8",
+    "website": "https://tntmusic.ru/"
+  },
+  {
+    "id": "TNTMusic.ru",
+    "name": "TNT Music",
+    "logo": "https://i.imgur.com/RenuH4S.png",
+    "url": "https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8",
+    "website": "https://tntmusic.ru/"
+  },
+  {
+    "id": "TNTMusic.ru",
+    "name": "TNT Music",
+    "logo": "https://i.imgur.com/RenuH4S.png",
+    "url": "https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8",
+    "website": "https://tntmusic.ru/"
+  },
+  {
+    "id": "TNTMusic.ru",
+    "name": "TNT Music",
+    "logo": "https://i.imgur.com/RenuH4S.png",
+    "url": "https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8",
+    "website": "https://tntmusic.ru/"
+  },
+  {
+    "id": "TNVPlanet.ru",
+    "name": "TNV-Planet",
+    "logo": "https://i.imgur.com/ijA1zDw.png",
+    "url": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
+    "website": "https://tnv.ru/"
+  },
+  {
+    "id": "TochkaTV.ru",
+    "name": "Tochka TV",
+    "logo": "https://i.imgur.com/yyNR5jG.png",
+    "url": "https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8",
+    "website": "http://tochkatv.tv/"
+  },
+  {
+    "id": "TopSecret.ru",
+    "name": "Top Secret",
+    "logo": "https://i.imgur.com/HM4xy4G.png",
+    "url": "https://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8",
+    "website": "https://sovsekretno.tv/"
+  },
+  {
+    "id": "TV3.ru",
+    "name": "TV-3",
+    "logo": "https://i.imgur.com/JLAvq8O.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8",
+    "website": "https://tv3.ru/"
+  },
+  {
+    "id": "TV3.ru",
+    "name": "TV-3",
+    "logo": "https://i.imgur.com/JLAvq8O.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/18.m3u8",
+    "website": "https://tv3.ru/"
+  },
+  {
+    "id": "TV3.ru",
+    "name": "TV-3",
+    "logo": "https://i.imgur.com/JLAvq8O.png",
+    "url": "https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8",
+    "website": "https://tv3.ru/"
+  },
+  {
+    "id": "TV3.ru",
+    "name": "TV-3",
+    "logo": "https://i.imgur.com/JLAvq8O.png",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8",
+    "website": "https://tv3.ru/"
+  },
+  {
+    "id": "TVBRICSRussian.ru",
+    "name": "TV BRICS Russian",
+    "logo": "https://i.imgur.com/vLpm8tN.png",
+    "url": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "TVCentr.ru",
+    "name": "TV Centr",
+    "logo": "https://i.imgur.com/fIkd01t.png",
+    "url": "http://ott-cdn.ucom.am/s54/index.m3u8",
+    "website": "http://www.tvc.ru/"
+  },
+  {
+    "id": "TVCentr.ru",
+    "name": "TV Centr",
+    "logo": "https://i.imgur.com/fIkd01t.png",
+    "url": "https://edge02.odtv.az/o2/tvc/playlist.m3u8",
+    "website": "http://www.tvc.ru/"
+  },
+  {
+    "id": "TVCentr.ru",
+    "name": "TV Centr",
+    "logo": "https://i.imgur.com/fIkd01t.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8",
+    "website": "http://www.tvc.ru/"
+  },
+  {
+    "id": "TVCentr.ru",
+    "name": "TV Centr",
+    "logo": "https://i.imgur.com/fIkd01t.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/13.m3u8",
+    "website": "http://www.tvc.ru/"
+  },
+  {
+    "id": "TVK.ru",
+    "name": "TVK",
+    "logo": "https://i.imgur.com/rW1BeJC.png",
+    "url": "https://air.tvk6.ru/tvk24/playlist.m3u8",
+    "website": "https://www.tvk6.ru/"
+  },
+  {
+    "id": "TVMChannel.ru",
+    "name": "TVMChannel",
+    "logo": "https://i.imgur.com/ZX6crqH.png",
+    "url": "https://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8",
+    "website": "https://tvmchannel.ru/"
+  },
+  {
+    "id": "TVRain.ru",
+    "name": "TV Rain",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png",
+    "url": "https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8",
+    "website": "https://tvrain.ru/"
+  },
+  {
+    "id": "TyumenskoeVremya.ru",
+    "name": "Tyumenskoe Vremya",
+    "logo": "https://i.imgur.com/kgNEVIr.png",
+    "url": "https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8",
+    "website": "https://tyumen-time.ru/"
+  },
+  {
+    "id": "U.ru",
+    "name": "U",
+    "logo": "https://i.imgur.com/KDZvt0Q.png",
+    "url": "https://cdn-01.bonus-tv.ru/u/playlist.m3u8",
+    "website": "https://www.u-tv.ru/"
+  },
+  {
+    "id": "U.ru",
+    "name": "U",
+    "logo": "https://i.imgur.com/KDZvt0Q.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8",
+    "website": "https://www.u-tv.ru/"
+  },
+  {
+    "id": "U.ru",
+    "name": "U",
+    "logo": "https://i.imgur.com/KDZvt0Q.png",
+    "url": "https://strm.yandex.ru/kal/utv/utv0.m3u8",
+    "website": "https://www.u-tv.ru/"
+  },
+  {
+    "id": "UgraTV.ru",
+    "name": "Ugra-TV",
+    "logo": "https://i.imgur.com/561FRwI.png",
+    "url": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
+    "website": "https://ugra-tv.ru/"
+  },
+  {
+    "id": "UniverTV.ru",
+    "name": "Univer TV",
+    "logo": "https://i.imgur.com/r3u0mxr.png",
+    "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+    "website": "https://universmotri.ru/"
+  },
+  {
+    "id": "UniverTV.ru",
+    "name": "Univer TV",
+    "logo": "https://i.imgur.com/r3u0mxr.png",
+    "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+    "website": "https://universmotri.ru/"
+  },
+  {
+    "id": "Vetta24.ru",
+    "name": "Vetta 24",
+    "logo": "https://i.imgur.com/zKH1b5k.png",
+    "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
+    "website": "https://www.vetta.tv/"
+  },
+  {
+    "id": "Vgostyakhuskazki.ru",
+    "name": "V gostyakh u skazki",
+    "logo": "https://i.imgur.com/jNJkLHl.png",
+    "url": "https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8",
+    "website": "https://skazka-tv.com/"
+  },
+  {
+    "id": "vijuExplore.ru",
+    "name": "viju Explore",
+    "logo": "https://i.imgur.com/EGIpLPu.png",
+    "url": "https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8",
+    "website": "https://viju.ru/telekanaly/viju-explore/"
+  },
+  {
+    "id": "vijuExplore.ru",
+    "name": "viju Explore",
+    "logo": "https://i.imgur.com/EGIpLPu.png",
+    "url": "https://woobl.ru/hls987/Viju_Explore_hd.m3u8",
+    "website": "https://viju.ru/telekanaly/viju-explore/"
+  },
+  {
+    "id": "vijuHistory.ru",
+    "name": "viju History",
+    "logo": "https://i.imgur.com/FqWkeXb.png",
+    "url": "https://edge02.odtv.az/o5/viasathistory/playlist.m3u8",
+    "website": "https://viju.ru/telekanaly/viju-history/"
+  },
+  {
+    "id": "vijuNature.ru",
+    "name": "viju Nature",
+    "logo": "https://i.imgur.com/8BPZ18l.png",
+    "url": "https://edge02.odtv.az/o5/viasatnature/playlist.m3u8",
+    "website": "https://viju.ru/telekanaly/viju-nature/"
+  },
+  {
+    "id": "vijuPlusSerial.ru",
+    "name": "viju+ Serial",
+    "logo": "https://i.imgur.com/8yXZET5.png",
+    "url": "https://woobl.ru/hls987/Viju_plus_Serial_hd.m3u8",
+    "website": "https://viju.ru/telekanaly/vijuplus-serial/"
+  },
+  {
+    "id": "vijuPlusSport.ru",
+    "name": "viju+ Sport",
+    "logo": "https://i.imgur.com/fXESG0l.png",
+    "url": "https://edge02.odtv.az/o7/viasatsport/playlist.m3u8",
+    "website": "https://viju.ru/telekanaly/vijuplus-sport/"
+  },
+  {
+    "id": "vijuTV1000.ru",
+    "name": "viju TV1000",
+    "logo": "https://i.imgur.com/ZMsyjSr.png",
+    "url": "https://woobl.ru/hls987/TV1000_hd.m3u8",
+    "website": "https://viju.ru/telekanaly/viju-tv1000/"
+  },
+  {
+    "id": "vijuTV1000action.ru",
+    "name": "viju TV1000 action",
+    "logo": "https://i.imgur.com/TMmyuzh.png",
+    "url": "https://woobl.ru/hls987/TV1000_action_hd.m3u8",
+    "website": "https://viju.ru/telekanaly/viju-tv1000-action/"
+  },
+  {
+    "id": "VIVARussia.ru",
+    "name": "VIVA Russia",
+    "logo": "https://i.imgur.com/OFhQQCD.png",
+    "url": "https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8",
+    "website": "https://viva-russia.ru/"
+  },
+  {
+    "id": "VIVARussia.ru",
+    "name": "VIVA Russia",
+    "logo": "https://i.imgur.com/OFhQQCD.png",
+    "url": "https://cloudfront.prdv3.dlivecdn.com/viva-russia/1703952590/src/live.m3u8",
+    "website": "https://viva-russia.ru/"
+  },
+  {
+    "id": "VIVARussia.ru",
+    "name": "VIVA Russia",
+    "logo": "https://i.imgur.com/OFhQQCD.png",
+    "url": "http://autopilot.catcast.tv/content/39575/index.m3u8",
+    "website": "https://viva-russia.ru/"
+  },
+  {
+    "id": "VmesteRF.ru",
+    "name": "Vmeste-RF",
+    "logo": "https://i.imgur.com/KI1qZNc.png",
+    "url": "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8",
+    "website": "https://vmeste-rf.tv/"
+  },
+  {
+    "id": "Volga.ru",
+    "name": "Volga",
+    "logo": "https://i.imgur.com/xHs1pr1.png",
+    "url": "http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8",
+    "website": "https://www.volga-tv.ru/"
+  },
+  {
+    "id": "Volgograd24.ru",
+    "name": "Volgograd 24",
+    "logo": "https://i.imgur.com/gFMnaU5.png",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8",
+    "website": "https://volgograd24.tv/"
+  },
+  {
+    "id": "Volgograd24.ru",
+    "name": "Volgograd 24",
+    "logo": "https://i.imgur.com/gFMnaU5.png",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8",
+    "website": "https://volgograd24.tv/"
+  },
+  {
+    "id": "YuTV.ru",
+    "name": "YuTV",
+    "logo": "https://i.imgur.com/b8CXEr7.png",
+    "url": "https://edge02.odtv.az/o3/utv/playlist.m3u8",
+    "website": "https://www.utv21.ru/"
+  },
+  {
+    "id": "Yuvelirochka.ru",
+    "name": "Yuvelirochka",
+    "logo": "https://i.imgur.com/IcWtXCZ.png",
+    "url": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8",
+    "website": "https://uvi.ru/yuvelirochka/"
+  },
+  {
+    "id": "ZagorodnayaZhizn.ru",
+    "name": "Zagorodnaya Zhizn",
+    "logo": "https://i.imgur.com/RoYd5pz.png",
+    "url": "http://camera.global-x.ru/ZagorodnayaJizn/index.m3u8",
+    "website": "https://www.zagorod-tv.ru/"
+  },
+  {
+    "id": "Zagorodnyy.ru",
+    "name": "Zagorodnyy",
+    "logo": "https://i.imgur.com/YGqO3Us.png",
+    "url": "http://ott-cdn.ucom.am/s31/index.m3u8",
+    "website": "https://zagorodny.tv/"
+  },
+  {
+    "id": "ZharPtitsa.ru",
+    "name": "Zhar Ptitsa",
+    "logo": "https://i.imgur.com/19R470V.png",
+    "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
+    "website": "http://www.zhar-ptica.tv/"
+  },
+  {
+    "id": "ZhivayaPlaneta.ru",
+    "name": "Zhivaya Planeta",
+    "logo": "https://i.imgur.com/onNv1tM.png",
+    "url": "https://woobl.ru/hls987/Zhivaya_Planeta.m3u8",
+    "website": "https://moya-planeta.ru/tv?channel=live-planet"
+  },
+  {
+    "id": "Zhivayapriroda.ru",
+    "name": "Zhivaya priroda",
+    "logo": "https://i.imgur.com/9lHQPdN.png",
+    "url": "https://woobl.ru/hls987/Zhivaya_priroda_hd.m3u8",
+    "website": "https://xn--80aaejhmc2chkb0p.xn--p1acf/"
+  },
+  {
+    "id": "Zhivi.ru",
+    "name": "Zhivi!",
+    "logo": "https://i.imgur.com/LPqySGk.png",
+    "url": "http://streaming.tv-teleport.ru/Zhivi/index.m3u8",
+    "website": "https://www.jv.ru/"
+  },
+  {
+    "id": "ZhiviHD.ru",
+    "name": "Zhivi! HD",
+    "logo": "https://i.imgur.com/LPqySGk.png",
+    "url": "https://woobl.ru/hls987/Jivi_hd.m3u8",
+    "website": "https://www.jv.ru/"
+  },
+  {
+    "id": "Zoopark.ru",
+    "name": "Zoopark",
+    "logo": "https://i.imgur.com/IO5jegK.png",
+    "url": "https://woobl.ru/hls987/Zoopark.m3u8",
+    "website": "http://telekanalzoopark.ru/"
+  },
+  {
+    "id": "ZooTV.ru",
+    "name": "Zoo TV",
+    "logo": "https://i.imgur.com/p7WzqGS.png",
+    "url": "http://streaming.tv-teleport.ru/Zoo_TV/index.m3u8",
+    "website": "http://www.telezoo.tv/"
+  },
+  {
+    "id": "Zvezda.ru",
+    "name": "Zvezda",
+    "logo": "https://i.imgur.com/4PAcpfM.png",
+    "url": "https://edge02.odtv.az/o1/tvzvezda/playlist.m3u8",
+    "website": "https://tvzvezda.ru/"
+  },
+  {
+    "id": "Zvezda.ru",
+    "name": "Zvezda",
+    "logo": "https://i.imgur.com/4PAcpfM.png",
+    "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
+    "website": "https://tvzvezda.ru/"
+  },
+  {
+    "id": "Zvezda.ru",
+    "name": "Zvezda",
+    "logo": "https://i.imgur.com/4PAcpfM.png",
+    "url": "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
+    "website": "https://tvzvezda.ru/"
+  },
+  {
+    "id": "Zvezda.ru",
+    "name": "Zvezda",
+    "logo": "https://i.imgur.com/4PAcpfM.png",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8",
+    "website": "https://tvzvezda.ru/"
+  },
+  {
+    "id": "Zvezda.ru",
+    "name": "Zvezda",
+    "logo": "https://i.imgur.com/4PAcpfM.png",
+    "url": "https://streaming.televizor-24-tochka.ru/live/21.m3u8",
+    "website": "https://tvzvezda.ru/"
+  },
+  {
+    "id": "ZvezdaPlus.ru",
+    "name": "Zvezda Plus",
+    "logo": "https://i.imgur.com/NNmjD9Z.png",
+    "url": "http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8",
+    "website": "https://tvzvezda.ru/sp/zvezda-plus/"
+  },
+  {
+    "id": "ZvezdaPlus.ru",
+    "name": "Zvezda Plus",
+    "logo": "https://i.imgur.com/NNmjD9Z.png",
+    "url": "http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8",
+    "website": "https://tvzvezda.ru/sp/zvezda-plus/"
+  }
+]
