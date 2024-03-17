@@ -131,10 +131,10 @@ export const addMagnet = async (req, res) => {
     const torrent = await client.get(magnet);
 
     if (!torrent) {
-      fs.mkdirSync(`${WEBTORRENT_DOWNLOAD_PATH}/${magnet}`);
+      fs.mkdirSync(`${WEBTORRENT_DOWNLOAD_PATH}\\${magnet}`);
       client.add(
         magnet,
-        { path: `${WEBTORRENT_DOWNLOAD_PATH}/${magnet}` },
+        { path: `${WEBTORRENT_DOWNLOAD_PATH}\\${magnet}` },
         (torrent) => {
           const files = torrent.files.map((data) => ({
             name: data.name,
@@ -152,7 +152,9 @@ export const addMagnet = async (req, res) => {
       res.status(200).send({ files });
     }
   } catch (error) {
-    res.status(400).send(`Error add magnet: ${error}`);
+    res
+      .status(400)
+      .send(`Error add magnet: ${`${WEBTORRENT_DOWNLOAD_PATH}\\${magnet}`}`);
   }
 };
 
@@ -242,7 +244,7 @@ export const stopStream = async (req, res, next) => {
         next(err);
       } else {
         console.log("Загрузка или стрим остановлены");
-        fs.rmSync(`${WEBTORRENT_DOWNLOAD_PATH}/${infoHash}`, {
+        fs.rmSync(`${WEBTORRENT_DOWNLOAD_PATH}\\${infoHash}`, {
           recursive: true,
         });
         res.status(200).end();

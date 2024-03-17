@@ -1,5 +1,6 @@
 import { writeFileSync, readFileSync } from "fs";
 import { checkUrls } from "./checklinks.js";
+import { CONTENT_TV } from "../config.js";
 
 export const readJsonId = async (id) => {
   const filePath = "./src/torrents/torrents.json";
@@ -20,8 +21,8 @@ export const readJson = async (path) => {
 };
 
 export const createPlaylists = async () => {
-  const channels = await readJson("./src/content/tv/channels.json");
-  const streams = await readJson("./src/content/tv/streams.json");
+  const channels = await readJson(`${CONTENT_TV}/channels.json`);
+  const streams = await readJson(`${CONTENT_TV}/streams.json`);
   const playlist = [];
   streams.forEach((stream) => {
     const channel = channels.find((el) => el.id === stream.channel);
@@ -48,7 +49,7 @@ export const createPlaylists = async () => {
     }
   });
   writeFileSync(
-    "./src/content/tv/playlist.json",
+    `${CONTENT_TV}/playlist.json`,
     JSON.stringify(playlist, null, 2)
   );
 
@@ -62,7 +63,7 @@ export const createPlaylists = async () => {
     website: el.website,
   }));
 
-  writeFileSync("./src/content/tv/ru.json", JSON.stringify(urlsRu, null, 2));
+  writeFileSync(`${CONTENT_TV}/ru.json`, JSON.stringify(urlsRu, null, 2));
 
   const en = playlist.filter(
     (el) => el.languages[0].toLowerCase() === "eng" && !el.is_nsfw
@@ -76,7 +77,7 @@ export const createPlaylists = async () => {
     website: el.website,
   }));
 
-  writeFileSync("./src/content/tv/en.json", JSON.stringify(urlsEn, null, 2));
+  writeFileSync(`${CONTENT_TV}/en.json`, JSON.stringify(urlsEn, null, 2));
 
   const nsfw = playlist.filter((el) => el.is_nsfw);
 
@@ -88,10 +89,7 @@ export const createPlaylists = async () => {
     website: el.website,
   }));
 
-  writeFileSync(
-    "./src/content/tv/nsfw.json",
-    JSON.stringify(urlsNsfw, null, 2)
-  );
+  writeFileSync(`${CONTENT_TV}/nsfw.json`, JSON.stringify(urlsNsfw, null, 2));
 
   const noname = playlist.filter((el) => el.country === "noname");
 
@@ -104,7 +102,7 @@ export const createPlaylists = async () => {
   }));
 
   writeFileSync(
-    "./src/content/tv/noname.json",
+    `${CONTENT_TV}/noname.json`,
     JSON.stringify(urlsNoname, null, 2)
   );
 
@@ -113,28 +111,28 @@ export const createPlaylists = async () => {
   const checkedRu = await checkUrls(urlsRu);
   console.log("write checkedRu");
   writeFileSync(
-    "./src/content/tv/checkedRu.json",
+    `${CONTENT_TV}/checkedRu.json`,
     JSON.stringify(checkedRu, null, 2)
   );
 
   const checkedEn = await checkUrls(urlsEn);
   console.log("write checkedEn");
   writeFileSync(
-    "./src/content/tv/checkedEn.json",
+    `${CONTENT_TV}/checkedEn.json`,
     JSON.stringify(checkedEn, null, 2)
   );
 
   const checkedNsfw = await checkUrls(urlsNsfw);
   console.log("write checkedNsfw");
   writeFileSync(
-    "./src/content/tv/checkedNsfw.json",
+    `${CONTENT_TV}/checkedNsfw.json`,
     JSON.stringify(checkedNsfw, null, 2)
   );
 
   const checkedNoname = await checkUrls(urlsNoname);
   console.log("write checkedNoname");
   writeFileSync(
-    "./src/content/tv/checkedNoname.json",
+    `${CONTENT_TV}/checkedNoname.json`,
     JSON.stringify(checkedNoname, null, 2)
   );
 };

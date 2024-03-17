@@ -7,10 +7,10 @@ export function clearFolder(folderName) {
   const currentDirectory = process.cwd();
 
   // Создаем полный путь к папке
-  const folderPath = path.join(currentDirectory, folderName);
+  // const folderPath = path.join(currentDirectory, folderName);
 
   // Получаем список файлов в папке
-  fs.readdir(folderPath, (err, files) => {
+  fs.readdir(folderName, (err, files) => {
     if (err) {
       console.error(`Ошибка при чтении содержимого папки ${folderName}:`, err);
       return;
@@ -18,7 +18,7 @@ export function clearFolder(folderName) {
 
     // Проверяем, есть ли файлы в папке
     if (files.length > 0) {
-      fs.emptyDir(folderPath, (err) => {
+      fs.emptyDir(folderName, (err) => {
         if (err) {
           console.error(
             `Ошибка при очистке содержимого папки ${folderName}:`,
