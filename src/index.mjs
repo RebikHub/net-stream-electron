@@ -1,10 +1,9 @@
 import { app, BrowserWindow } from "electron";
 import path, { dirname } from "path";
-import url, { fileURLToPath } from "url";
-import appExpress from "./src/app.js";
-import { PORT, WEBTORRENT_DOWNLOAD_PATH } from "./src/config.js";
-import { clearFolder } from "./src/utils/clearFolder.js";
-import express from "express";
+import { fileURLToPath } from "url";
+import appExpress from "./server/app.js";
+import { PORT, WEBTORRENT_DOWNLOAD_PATH } from "./server/config.js";
+import { clearFolder } from "./server/utils/clearFolder.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -22,28 +21,23 @@ function createWindow() {
     height: 600,
     webPreferences: {
       nodeIntegration: true,
+      contextIsolation: true, // Рекомендуется включить contextIsolation
+      contentSecurityPolicy: "default-src 'self';",
+      // sandbox: false,
+      // preload: path.join(__dirname, "preload.js"), // Путь к файлу preload.js
     },
   });
 
-  const startUrl = `http://localhost:${PORT}`;
-  url.format({
-    pathname: path.join(__dirname, "build", "index.html"),
-    protocol: "file:",
-    slashes: true,
-  });
+  mainWindow.loadFile(path.join(__dirname, "index.html"));
 
-  mainWindow.loadURL(startUrl);
-
-  mainWindow.webContents.openDevTools();
+  // mainWindow.webContents.openDevTools();
 
   mainWindow.on("closed", () => (mainWindow = null));
 
-  // Скрыть верхнее меню, когда окно находится в полноэкранном режиме
   mainWindow.on("enter-full-screen", () => {
     mainWindow.setMenuBarVisibility(false);
   });
 
-  // Показать верхнее меню, когда окно выходит из полноэкранного режима
   mainWindow.on("leave-full-screen", () => {
     mainWindow.setMenuBarVisibility(true);
   });

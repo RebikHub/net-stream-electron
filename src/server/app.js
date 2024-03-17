@@ -12,6 +12,6 @@ app.use("/api/tv", apiTvRoutes);
 app.use("/api/video", apiVideoRoutes);
 app.use("/api/search", apiSearchRoutes);
 
-app.use(express.static("build")); // это для SSR
+// app.use(express.static("build")); // это для SSR
 
 export default app;
