@@ -23,7 +23,11 @@ function createWindow() {
       nodeIntegration: true,
       contextIsolation: true, // Рекомендуется включить contextIsolation
       contentSecurityPolicy: "default-src 'self';",
-      // sandbox: false,
+      // contentSecurityPolicy:
+      //   "default-src 'self' 'unsafe-inline' 'unsafe-eval';",
+      autoplayPolicy: "no-user-gesture-required",
+      webSecurity: true,
+      sandbox: false,
       // preload: path.join(__dirname, "preload.js"), // Путь к файлу preload.js
     },
   });
