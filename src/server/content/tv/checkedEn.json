@@ -238,20 +238,6 @@
     "website": "https://www.abc.net.au/news/newschannel/"
   },
   {
-    "id": "ABCNewsSydney.au",
-    "name": "ABC News Sydney",
-    "logo": "https://i.imgur.com/BrW7gk8.png",
-    "url": "https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8",
-    "website": "https://www.abc.net.au/news/newschannel/"
-  },
-  {
-    "id": "ABCTVACT.au",
-    "name": "ABC TV ACT",
-    "logo": "https://i.imgur.com/Puq8t7f.png",
-    "url": "https://c.mjh.nz/abc-act.m3u8",
-    "website": "https://iview.abc.net.au/channel/abc1"
-  },
-  {
     "id": "ABCTVNSW.au",
     "name": "ABC TV NSW",
     "logo": "https://i.imgur.com/Ekjb7w8.png",
@@ -271,6 +257,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/512px-ABC_TV_Plus_logo_2021.svg.png",
     "url": "https://c.mjh.nz/abc-tv-plus.m3u8",
     "website": "https://www.abc.net.au/tv"
+  },
+  {
+    "id": "ABCTVQLD.au",
+    "name": "ABC TV QLD",
+    "logo": "https://i.imgur.com/Ekjb7w8.png",
+    "url": "https://c.mjh.nz/abc-qld.m3u8",
+    "website": "https://iview.abc.net.au/channel/abc1"
+  },
+  {
+    "id": "ABCTVSA.au",
+    "name": "ABC TV SA",
+    "logo": "https://i.imgur.com/Ekjb7w8.png",
+    "url": "https://c.mjh.nz/abc-sa.m3u8",
+    "website": "https://iview.abc.net.au/channel/abc1"
   },
   {
     "id": "ABCTVTAS.au",
@@ -500,6 +500,13 @@
     "id": "AFV.us",
     "name": "AFV",
     "logo": "https://i.imgur.com/TOB9vmW.png",
+    "url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "AFV.us",
+    "name": "AFV",
+    "logo": "https://i.imgur.com/TOB9vmW.png",
     "url": "https://lnc-afv.tubi.video/playlist.m3u8",
     "website": null
   },
@@ -616,25 +623,11 @@
     "website": "https://www.aljazeera.com/"
   },
   {
-    "id": "AlJazeeraEnglish.qa",
-    "name": "Al Jazeera English",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",
-    "url": "https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8",
-    "website": "https://www.aljazeera.com/"
-  },
-  {
     "id": "AllWeddingsWEtv.us",
     "name": "All Weddings WE tv",
     "logo": "https://i.imgur.com/OjLCew5.png",
     "url": "https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8",
     "website": "https://watch.plex.tv/live-tv/channel/all-weddings-we-tv"
-  },
-  {
-    "id": "AlNahar.eg",
-    "name": "Al-Nahar",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AL_NAHAR_TV_NEW_LOGO.png/512px-AL_NAHAR_TV_NEW_LOGO.png",
-    "url": "https://ythls.armelin.one/channel/UCzKamNFKCvzLOrqfBUAsD6Q.m3u8",
-    "website": "https://www.al-nahar.tv/"
   },
   {
     "id": "AlphaDigital.ug",
@@ -684,13 +677,6 @@
     "logo": "https://i.imgur.com/IkYZQ9S.png",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8",
     "website": null
-  },
-  {
-    "id": "AmericasAuctionChannel.us",
-    "name": "America's Auction Channel",
-    "logo": "https://i.imgur.com/YKhnHE6.png",
-    "url": "https://ythls.armelin.one/channel/UCMeyWH1vyb1TT6Vimp4MqLA.m3u8",
-    "website": "https://www.aactv.com/"
   },
   {
     "id": "AmericasTestKitchen.us",
@@ -938,13 +924,6 @@
     "website": null
   },
   {
-    "id": "AwazTVNetwork.pk",
-    "name": "Awaz TV Network",
-    "logo": "https://i.imgur.com/FiUzzqb.png",
-    "url": "https://ythls.armelin.one/channel/UCd0sEeyvD_K9YYw0yPTKDhw.m3u8",
-    "website": "https://www.awaztv.tv/"
-  },
-  {
     "id": "AWE.us",
     "name": "AWE",
     "logo": "https://i.imgur.com/OjpCtGj.png",
@@ -1008,6 +987,13 @@
     "website": "https://pluto.tv/en/live-tv/baby-shark-tv"
   },
   {
+    "id": "BahrainInternational.bh",
+    "name": "Bahrain International",
+    "logo": "https://i.imgur.com/t6Lmntr.png",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+    "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+  },
+  {
     "id": "BatteryPopXUMO.us",
     "name": "Battery Pop XUMO",
     "logo": "https://i.imgur.com/5VUZTa1.png",
@@ -1032,7 +1018,7 @@
     "id": "BBCAmericaEast.us",
     "name": "BBC America East",
     "logo": "https://i.imgur.com/pTiiPz0.png",
-    "url": "https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8",
+    "url": "https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8",
     "website": "http://www.bbcamerica.com/"
   },
   {
@@ -1055,13 +1041,6 @@
     "logo": "https://i.imgur.com/REuN9RR.png",
     "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8",
     "website": "https://www.bbc.co.uk/schedules/p00fzl9n"
-  },
-  {
-    "id": "BblackCaribbean.fr",
-    "name": "Bblack! Caribbean",
-    "logo": "https://i.imgur.com/GyZQCjq.png",
-    "url": "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8",
-    "website": "https://www.bblackcruise.com/media"
   },
   {
     "id": "BCSStarCrossTV.ng",
@@ -1148,18 +1127,18 @@
     "website": "https://www.bek.tv/"
   },
   {
-    "id": "BelmediaTV.ca",
-    "name": "Belmedia TV",
-    "logo": "https://i.imgur.com/xEbQsdj.png",
-    "url": "https://ythls.armelin.one/channel/UCtj2xA6lW9BPE4BxnhxQQkw.m3u8",
-    "website": "http://www.belmediatv.com/"
-  },
-  {
     "id": "BENTelevision.uk",
     "name": "BEN Television",
     "logo": "https://i.imgur.com/DUAjjvT.png",
     "url": "https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8",
     "website": "https://bentelevision.com/"
+  },
+  {
+    "id": "BethanyTV.ug",
+    "name": "Bethany TV",
+    "logo": "https://i.imgur.com/sCnbxcP.jpg",
+    "url": "https://readymedia.moderntv.cloud:8092/distribute/readymedia/tv_bethany_stream_ye/5-20-hls/live.m3u8",
+    "website": "https://bethanytv.ug/"
   },
   {
     "id": "BetterHealthTV.us",
@@ -1645,6 +1624,20 @@
     "website": "http://www.britishmuslim.tv/"
   },
   {
+    "id": "BukeddeTV1.ug",
+    "name": "Bukedde TV 1",
+    "logo": "https://i.imgur.com/HFq5QlJ.png",
+    "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+    "website": null
+  },
+  {
+    "id": "BukeddeTV2.ug",
+    "name": "Bukedde TV 2",
+    "logo": "https://i.imgur.com/ukwPZeY.png",
+    "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
+    "website": "http://bukedde.co.ug/"
+  },
+  {
     "id": "Buzzr.us",
     "name": "Buzzr",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",
@@ -1876,6 +1869,13 @@
     "website": "https://www.cbsnews.com/"
   },
   {
+    "id": "CBSNews.us",
+    "name": "CBS News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png",
+    "url": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
+    "website": "https://www.cbsnews.com/"
+  },
+  {
     "id": "CBSNewsBaltimore.us",
     "name": "CBS News Baltimore",
     "logo": "https://i.imgur.com/jy3UfCe.png",
@@ -1890,10 +1890,24 @@
     "website": "https://pluto.tv/en/live-tv/cbs-news-baltimore"
   },
   {
+    "id": "CBSNewsBaltimore.us",
+    "name": "CBS News Baltimore",
+    "logo": "https://i.imgur.com/jy3UfCe.png",
+    "url": "https://dai.google.com/linear/hls/event/TMUt418sQMeu1QtneYJ9ag/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-baltimore"
+  },
+  {
     "id": "CBSNewsBayArea.us",
     "name": "CBS News Bay Area",
     "logo": "https://i.imgur.com/GmA99Tt.png",
     "url": "https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-bay-area"
+  },
+  {
+    "id": "CBSNewsBayArea.us",
+    "name": "CBS News Bay Area",
+    "logo": "https://i.imgur.com/GmA99Tt.png",
+    "url": "https://dai.google.com/linear/hls/event/laLJwH1nS2KQAUQTF8z1Cg/master.m3u8",
     "website": "https://pluto.tv/en/live-tv/cbs-news-bay-area"
   },
   {
@@ -1918,6 +1932,20 @@
     "website": "https://pluto.tv/en/live-tv/cbs-news-boston"
   },
   {
+    "id": "CBSNewsBoston.us",
+    "name": "CBS News Boston",
+    "logo": "https://i.imgur.com/9un7R3N.png",
+    "url": "https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-boston"
+  },
+  {
+    "id": "CBSNewsBoston.us",
+    "name": "CBS News Boston",
+    "logo": "https://i.imgur.com/9un7R3N.png",
+    "url": "https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-boston"
+  },
+  {
     "id": "CBSNewsChicago.us",
     "name": "CBS News Chicago",
     "logo": "https://i.imgur.com/qGbVQir.png",
@@ -1925,10 +1953,38 @@
     "website": "https://pluto.tv/en/live-tv/cbs-news-chicago"
   },
   {
+    "id": "CBSNewsChicago.us",
+    "name": "CBS News Chicago",
+    "logo": "https://i.imgur.com/qGbVQir.png",
+    "url": "https://dai.google.com/linear/hls/event/_xQBtL7ZSEClkNebaXzn8w/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-chicago"
+  },
+  {
+    "id": "CBSNewsChicago.us",
+    "name": "CBS News Chicago",
+    "logo": "https://i.imgur.com/qGbVQir.png",
+    "url": "https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-chicago"
+  },
+  {
     "id": "CBSNewsColorado.us",
     "name": "CBS News Colorado",
     "logo": "https://i.imgur.com/2oyYwBw.png",
     "url": "https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8",
+    "website": "https://www.pluto.tv/en/live-tv/cbs-news-colorado/details"
+  },
+  {
+    "id": "CBSNewsColorado.us",
+    "name": "CBS News Colorado",
+    "logo": "https://i.imgur.com/2oyYwBw.png",
+    "url": "https://dai.google.com/linear/hls/event/E9CkyheTSKeGiOiICU_JBQ/master.m3u8",
+    "website": "https://www.pluto.tv/en/live-tv/cbs-news-colorado/details"
+  },
+  {
+    "id": "CBSNewsColorado.us",
+    "name": "CBS News Colorado",
+    "logo": "https://i.imgur.com/2oyYwBw.png",
+    "url": "https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8",
     "website": "https://www.pluto.tv/en/live-tv/cbs-news-colorado/details"
   },
   {
@@ -1946,6 +2002,20 @@
     "website": "https://www.cbsnews.com/detroit/live/"
   },
   {
+    "id": "CBSNewsDFW.us",
+    "name": "CBS News DFW",
+    "logo": "https://i.imgur.com/PWXK33U.png",
+    "url": "https://dai.google.com/linear/hls/event/ogzLhRCkRbG3lFHHJwqaNw/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-dfw"
+  },
+  {
+    "id": "CBSNewsDFW.us",
+    "name": "CBS News DFW",
+    "logo": "https://i.imgur.com/PWXK33U.png",
+    "url": "https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-dfw"
+  },
+  {
     "id": "CBSNewsLosAngeles.us",
     "name": "CBS News Los Angeles",
     "logo": "https://i.imgur.com/klULxMV.png",
@@ -1957,6 +2027,13 @@
     "name": "CBS News Los Angeles",
     "logo": "https://i.imgur.com/klULxMV.png",
     "url": "https://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-los-angeles-2"
+  },
+  {
+    "id": "CBSNewsLosAngeles.us",
+    "name": "CBS News Los Angeles",
+    "logo": "https://i.imgur.com/klULxMV.png",
+    "url": "https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8",
     "website": "https://pluto.tv/en/live-tv/cbs-news-los-angeles-2"
   },
   {
@@ -1988,10 +2065,38 @@
     "website": "https://pluto.tv/en/live-tv/cbs-news-minnesota"
   },
   {
+    "id": "CBSNewsMinnesota.us",
+    "name": "CBS News Minnesota",
+    "logo": "https://i.imgur.com/ubxwfMY.png",
+    "url": "https://dai.google.com/linear/hls/event/c0XucO32RNKG8oeQ351a4Q/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-minnesota"
+  },
+  {
+    "id": "CBSNewsMinnesota.us",
+    "name": "CBS News Minnesota",
+    "logo": "https://i.imgur.com/ubxwfMY.png",
+    "url": "https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-minnesota"
+  },
+  {
     "id": "CBSNewsNewYork.us",
     "name": "CBS News New York",
     "logo": "https://i.imgur.com/bpc4v0u.png",
     "url": "https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-new-york-2"
+  },
+  {
+    "id": "CBSNewsNewYork.us",
+    "name": "CBS News New York",
+    "logo": "https://i.imgur.com/bpc4v0u.png",
+    "url": "https://dai.google.com/linear/hls/event/jeTDC610T-OSPdiWhcl0Pg/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-new-york-2"
+  },
+  {
+    "id": "CBSNewsNewYork.us",
+    "name": "CBS News New York",
+    "logo": "https://i.imgur.com/bpc4v0u.png",
+    "url": "http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8",
     "website": "https://pluto.tv/en/live-tv/cbs-news-new-york-2"
   },
   {
@@ -2002,10 +2107,38 @@
     "website": "https://pluto.tv/en/live-tv/cbs-news-philly"
   },
   {
+    "id": "CBSNewsPhilly.us",
+    "name": "CBS News Philly",
+    "logo": "https://i.imgur.com/FmtTbNY.png",
+    "url": "https://dai.google.com/linear/hls/event/R2Kw0uvnQIW7fUmOseurzA/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-philly"
+  },
+  {
+    "id": "CBSNewsPhilly.us",
+    "name": "CBS News Philly",
+    "logo": "https://i.imgur.com/FmtTbNY.png",
+    "url": "https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-philly"
+  },
+  {
     "id": "CBSNewsPittsburgh.us",
     "name": "CBS News Pittsburgh",
     "logo": "https://i.imgur.com/Un9IrUh.png",
     "url": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-pittsburgh"
+  },
+  {
+    "id": "CBSNewsPittsburgh.us",
+    "name": "CBS News Pittsburgh",
+    "logo": "https://i.imgur.com/Un9IrUh.png",
+    "url": "https://dai.google.com/linear/hls/event/mir-uZYjTu6-8JLMHBTKhQ/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/cbs-news-pittsburgh"
+  },
+  {
+    "id": "CBSNewsPittsburgh.us",
+    "name": "CBS News Pittsburgh",
+    "logo": "https://i.imgur.com/Un9IrUh.png",
+    "url": "https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8",
     "website": "https://pluto.tv/en/live-tv/cbs-news-pittsburgh"
   },
   {
@@ -2021,6 +2154,13 @@
     "logo": "https://i.imgur.com/0e1kSGX.png",
     "url": "https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8",
     "website": "https://pluto.tv/en/live-tv/cbs-news-sacramento"
+  },
+  {
+    "id": "CBSSportsGolazoNetwork.us",
+    "name": "CBS Sports Golazo Network",
+    "logo": "https://i.imgur.com/eMjutHS.png",
+    "url": "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8",
+    "website": null
   },
   {
     "id": "CCCOAspireTV.ug",
@@ -2072,6 +2212,13 @@
     "website": "https://www.cgtn.com/tv"
   },
   {
+    "id": "CGTN.cn",
+    "name": "CGTN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
+    "url": "https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8",
+    "website": "https://www.cgtn.com/tv"
+  },
+  {
     "id": "CGTNDocumentary.cn",
     "name": "CGTN Documentary",
     "logo": "https://i.imgur.com/JHv0WxM.png",
@@ -2104,6 +2251,13 @@
     "name": "Charge!",
     "logo": "https://i.imgur.com/1rxmu2u.png",
     "url": "https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8",
+    "website": null
+  },
+  {
+    "id": "Charge.us",
+    "name": "Charge!",
+    "logo": "https://i.imgur.com/1rxmu2u.png",
+    "url": "https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8",
     "website": null
   },
   {
@@ -2474,6 +2628,13 @@
     "id": "CNBCAfrica.za",
     "name": "CNBC Africa",
     "logo": "https://i.imgur.com/BnNYzWI.png",
+    "url": "https://ythls.armelin.one/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8",
+    "website": "https://www.cnbcafrica.com/"
+  },
+  {
+    "id": "CNBCAfrica.za",
+    "name": "CNBC Africa",
+    "logo": "https://i.imgur.com/BnNYzWI.png",
     "url": "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8",
     "website": "https://www.cnbcafrica.com/"
   },
@@ -2558,6 +2719,13 @@
     "id": "ComedyDynamics.us",
     "name": "Comedy Dynamics",
     "logo": "https://i.imgur.com/1lEvUOa.png",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "ComedyDynamics.us",
+    "name": "Comedy Dynamics",
+    "logo": "https://i.imgur.com/1lEvUOa.png",
     "url": "https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8",
     "website": null
   },
@@ -2587,6 +2755,13 @@
     "name": "Comet",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png",
     "url": "https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8",
+    "website": "http://www.comettv.com/"
+  },
+  {
+    "id": "Comet.us",
+    "name": "Comet",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png",
+    "url": "https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8",
     "website": "http://www.comettv.com/"
   },
   {
@@ -2665,13 +2840,6 @@
     "logo": "https://i.imgur.com/7vIsBfF.png",
     "url": "https://crackle-xumo.amagi.tv/playlist.m3u8",
     "website": null
-  },
-  {
-    "id": "Crime360.us",
-    "name": "Crime 360",
-    "logo": "https://i.imgur.com/IjtaG1m.png",
-    "url": "https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8",
-    "website": "https://pluto.tv/en/live-tv/crime-360"
   },
   {
     "id": "Cruise1stTV.uk",
@@ -2756,6 +2924,13 @@
     "logo": "https://i.imgur.com/p9Jn0Dy.png",
     "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8",
     "website": "https://www.cupertino.org/residents/city-channel"
+  },
+  {
+    "id": "CutleryCornerNetwork.us",
+    "name": "Cutlery Corner Network",
+    "logo": "https://i.imgur.com/GvX3MyE.png",
+    "url": "https://ythls.armelin.one/channel/UCj3dt20MAZcvDN8GKeT2FBg.m3u8",
+    "website": "https://www.cutlerycorner.net/"
   },
   {
     "id": "CypressChannel36.us",
@@ -2856,6 +3031,13 @@
     "website": "https://www.discoverpakistan.tv/"
   },
   {
+    "id": "DiscoveryTourismGuyana.us",
+    "name": "Discovery & Tourism Guyana",
+    "logo": "https://i.imgur.com/WULCjJZ.png",
+    "url": "https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-0bac93fc5c7648d6bc5257f9bd4777dc/playlist.m3u8",
+    "website": "https://guyanatvnetwork.com/"
+  },
+  {
     "id": "Diva.za",
     "name": "Diva",
     "logo": "https://i.imgur.com/U9wMnQ0.png",
@@ -2887,6 +3069,13 @@
     "id": "DoveChannel.us",
     "name": "Dove Channel",
     "logo": "https://i.imgur.com/FVWqYQG.png",
+    "url": "https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8",
+    "website": null
+  },
+  {
+    "id": "DoveChannel.us",
+    "name": "Dove Channel",
+    "logo": "https://i.imgur.com/FVWqYQG.png",
     "url": "https://dovenow-tcl.amagi.tv/playlist.m3u8",
     "website": null
   },
@@ -2896,6 +3085,13 @@
     "logo": "https://i.imgur.com/wOlMfCR.png",
     "url": "https://webstreaming-7.viewmedia.tv/web_093/Stream/live93_3/high/playlist.m3u8",
     "website": "https://dovevision.org/"
+  },
+  {
+    "id": "DreamTV.ug",
+    "name": "Dream TV",
+    "logo": "https://www.lyngsat.com/logo/tv/dd/dreamtv.png",
+    "url": "https://readymedia.moderntv.cloud:8092/distribute/readymedia/DREAMTV_stream_43/5-20-hls/live.m3u8",
+    "website": "http://www.imc.ug/"
   },
   {
     "id": "DrGeneScott.us",
@@ -2926,18 +3122,18 @@
     "website": "https://watchdust.com/"
   },
   {
-    "id": "DWEnglish.de",
-    "name": "DW English",
-    "logo": "https://i.imgur.com/A1xzjOI.png",
-    "url": "https://ythls.armelin.one/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8",
-    "website": "https://www.dw.com/"
-  },
-  {
     "id": "DZBBDT1.ph",
     "name": "DZBB-DT1",
     "logo": "https://i.imgur.com/5GXTkZx.png",
     "url": "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8",
     "website": "http://www.gmanetwork.com/"
+  },
+  {
+    "id": "earthTV.de",
+    "name": "earthTV",
+    "logo": "https://i.imgur.com/xIc5vKl.png",
+    "url": "https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8",
+    "website": "https://www.earthtv.com/en"
   },
   {
     "id": "EBNTV.ke",
@@ -3481,7 +3677,7 @@
   {
     "id": "Firstlight.nz",
     "name": "Firstlight",
-    "logo": "https://i.imgur.com/2TKL6BX.png",
+    "logo": "https://i.imgur.com/gtDROeT.png",
     "url": "https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8",
     "website": "https://www.firstlight.org.nz/"
   },
@@ -3512,6 +3708,13 @@
     "logo": "https://i.imgur.com/OM6BP37.png",
     "url": "https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8",
     "website": "https://www.canela.tv/linear/flou-cine"
+  },
+  {
+    "id": "FLSport.gy",
+    "name": "FL Sport",
+    "logo": "https://i.imgur.com/i8o7QEj.png",
+    "url": "https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8",
+    "website": "https://flsport.gy/"
   },
   {
     "id": "FLTV.us",
@@ -3554,6 +3757,13 @@
     "logo": "https://i.imgur.com/ORer9ag.png",
     "url": "https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8",
     "website": "http://foursquare.org.ng/"
+  },
+  {
+    "id": "FoxBusinessNetwork.us",
+    "name": "Fox Business Network",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png",
+    "url": "http://41.205.93.154/FOXBUSINESS/index.m3u8",
+    "website": "https://www.foxbusiness.com/"
   },
   {
     "id": "FoxNewsChannel.us",
@@ -3675,13 +3885,6 @@
     "website": null
   },
   {
-    "id": "FuboSportsNetwork.us",
-    "name": "Fubo Sports Network",
-    "logo": "https://i.imgur.com/qFNRJLb.png",
-    "url": "https://lnc-fubo.tubi.video/master.m3u8",
-    "website": null
-  },
-  {
     "id": "FUELTV.at",
     "name": "FUEL TV",
     "logo": "https://i.imgur.com/I8mviBy.png",
@@ -3780,6 +3983,13 @@
     "website": "https://www.gbnews.uk/"
   },
   {
+    "id": "GBNews.uk",
+    "name": "GB News",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",
+    "url": "https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8",
+    "website": "https://www.gbnews.uk/"
+  },
+  {
     "id": "GBNTV.us",
     "name": "GBN TV",
     "logo": "https://i.imgur.com/DsFyyHy.png",
@@ -3855,6 +4065,13 @@
     "logo": "https://i.ibb.co/cvDyWs1/IMG-20230628-152516.jpg",
     "url": "https://webstreaming-11.viewmedia.tv/web_160/Stream/playlist.m3u8",
     "website": null
+  },
+  {
+    "id": "GMTV.us",
+    "name": "GMTV",
+    "logo": "https://i.imgur.com/GJYb8c8.png",
+    "url": "https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536fca3d/playlist.m3u8",
+    "website": "https://guyanatvnetwork.com/"
   },
   {
     "id": "Go2Travel.us",
@@ -3941,6 +4158,13 @@
     "website": null
   },
   {
+    "id": "GreatCommissionTV.ph",
+    "name": "Great Commission TV",
+    "logo": "https://i.imgur.com/8cvikOo.png",
+    "url": "http://45.32.115.103/live/livestream/index.m3u8",
+    "website": "http://www.gctv.asia/"
+  },
+  {
     "id": "GreensboroTV.us",
     "name": "Greensboro TV",
     "logo": "https://i.imgur.com/wHb9BLd.png",
@@ -3962,6 +4186,41 @@
     "website": "https://www.gsshop.com/"
   },
   {
+    "id": "GTNCanada.ca",
+    "name": "GTN Canada",
+    "logo": "https://i.imgur.com/7bQPJOd.png",
+    "url": "https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-1fddbb57573c4f80bcf79c807f720178/playlist.m3u8",
+    "website": "https://guyanatvnetwork.com/"
+  },
+  {
+    "id": "GTNNewYork.us",
+    "name": "GTN New York",
+    "logo": "https://i.imgur.com/3dYb22O.png",
+    "url": "https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-3eebc0944a89469eba873253c04a7129/playlist.m3u8",
+    "website": "https://guyanatvnetwork.com/"
+  },
+  {
+    "id": "GTNOrlando.us",
+    "name": "GTN Orlando",
+    "logo": "https://i.imgur.com/PAeE0nx.png",
+    "url": "https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-b9be4360b39e4414a5c30e5b0aa667c1/playlist.m3u8",
+    "website": "https://guyanatvnetwork.com/"
+  },
+  {
+    "id": "GTNSouthFlorida.us",
+    "name": "GTN South Florida",
+    "logo": "https://i.imgur.com/VBBp1lU.png",
+    "url": "https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-aa4d335124414856b118e943d91132d5/playlist.m3u8",
+    "website": "https://guyanatvnetwork.com/"
+  },
+  {
+    "id": "GTNTV.ke",
+    "name": "GTN TV",
+    "logo": "https://i.imgur.com/CSCZW6L.png",
+    "url": "https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8",
+    "website": "https://gtntv.co.ke/"
+  },
+  {
     "id": "GTV.us",
     "name": "GTV",
     "logo": "https://i.imgur.com/xN6WM3N.png",
@@ -3974,6 +4233,13 @@
     "logo": "https://i.imgur.com/pknaH4l.png",
     "url": "https://readymedia.moderntv.cloud:8092/distribute/readymedia/GUGUDDETV_stream_tj/5-20-hls/live.m3u8",
     "website": "https://guguddetv.com/"
+  },
+  {
+    "id": "GuidanceTVAustralia.au",
+    "name": "Guidance TV Australia",
+    "logo": "https://i.ibb.co/xHhLpvT/unnamed.jpg",
+    "url": "https://ythls.armelin.one/channel/UC81VkX0QeICZw7o2jMwGThg.m3u8",
+    "website": "https://al-taqwa.vic.edu.au/media/guidance-tv-australia/"
   },
   {
     "id": "GustoTV.us",
@@ -3995,6 +4261,20 @@
     "logo": "https://i.imgur.com/swUX3hQ.png",
     "url": "https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01077-gustoworldwidem-gustotv-cineverse/playlist.m3u8",
     "website": "https://gustotv.com/"
+  },
+  {
+    "id": "GuyBaiTV.us",
+    "name": "GuyBai TV",
+    "logo": "https://i.imgur.com/LlASANE.png",
+    "url": "https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-d7e7cf219d634e0bbf7d5340b4b537da/playlist.m3u8",
+    "website": "https://guyanatvnetwork.com/"
+  },
+  {
+    "id": "GuyTubeTV.us",
+    "name": "GuyTube TV",
+    "logo": "https://i.imgur.com/rp2UJwg.png",
+    "url": "https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8",
+    "website": "https://guyanatvnetwork.com/"
   },
   {
     "id": "HadiTV1.iq",
@@ -4123,25 +4403,11 @@
     "website": "http://edition.cnn.com/HLN/"
   },
   {
-    "id": "HollyWire.us",
-    "name": "HollyWire",
-    "logo": "https://i.imgur.com/oVNjFoj.png",
-    "url": "https://bozztv.com/hwotta/playlist/playlist.m3u8",
-    "website": "https://hollywire.com/"
-  },
-  {
     "id": "HomebaseTV.za",
     "name": "Homebase TV",
     "logo": "https://i.imgur.com/MaLNfJG.png",
     "url": "https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8",
     "website": "http://www.homebasetv.org/"
-  },
-  {
-    "id": "Hope4LifeTV.us",
-    "name": "Hope4Life TV",
-    "logo": "https://i.imgur.com/p24tAjs.jpg",
-    "url": "http://144.217.14.88/hls/hope4life.m3u8",
-    "website": null
   },
   {
     "id": "HopeChannelAfrica.us",
@@ -4156,6 +4422,13 @@
     "logo": "https://i.ibb.co/mNYHYrm/Hopeaustralia.png",
     "url": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8",
     "website": "https://www.hopechannel.com/"
+  },
+  {
+    "id": "HopeChannelGhana.gh",
+    "name": "Hope Channel Ghana",
+    "logo": "https://i.imgur.com/d1P9ekm.png",
+    "url": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8",
+    "website": "https://www.hopetvgh.org/"
   },
   {
     "id": "HopeChannelIndia.in",
@@ -4270,13 +4543,6 @@
     "website": "https://huda.tv/"
   },
   {
-    "id": "HudaTV.eg",
-    "name": "Huda TV",
-    "logo": "https://i.imgur.com/1UUjU26.png",
-    "url": "https://ythls.armelin.one/channel/UCIVSdtXb4pR57BDqKKNqsTg.m3u8",
-    "website": "https://huda.tv/"
-  },
-  {
     "id": "HumorMill.us",
     "name": "Humor Mill",
     "logo": "https://i.imgur.com/e5W91v2.png",
@@ -4352,13 +4618,6 @@
     "logo": "https://i.imgur.com/su6GH7i.png",
     "url": "https://ythls.armelin.one/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8",
     "website": "https://www.idealworld.tv/"
-  },
-  {
-    "id": "IFCEast.us",
-    "name": "IFC East",
-    "logo": "https://i.imgur.com/bQdkyF9.png",
-    "url": "https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8",
-    "website": "http://www.ifc.com/"
   },
   {
     "id": "iFilmEnglish.ir",
@@ -4746,6 +5005,13 @@
     "website": null
   },
   {
+    "id": "JoyNews.gh",
+    "name": "Joy News",
+    "logo": "https://i.imgur.com/kGuMNmR.png",
+    "url": "https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8",
+    "website": "https://www.myjoyonline.com/"
+  },
+  {
     "id": "JuiceTV.nz",
     "name": "Juice TV",
     "logo": "https://i.imgur.com/WaaaW0w.png",
@@ -4781,11 +5047,11 @@
     "website": "https://pluto.tv/en/live-tv/kartoon-channel"
   },
   {
-    "id": "KassTV.ke",
-    "name": "Kass TV",
-    "logo": "https://i.imgur.com/MW8wZ5v.png",
-    "url": "https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8",
-    "website": "http://www.kasstv.co.ke/"
+    "id": "KBCChannel1.ke",
+    "name": "KBC Channel 1",
+    "logo": "https://i.imgur.com/Km0GINR.png",
+    "url": "https://ythls.armelin.one/channel/UCypNjM5hP1qcUqQZe57jNfg.m3u8",
+    "website": "https://www.kbc.co.ke/"
   },
   {
     "id": "KBPXLD5.us",
@@ -5411,13 +5677,6 @@
     "website": "http://www.todaysthv.com/"
   },
   {
-    "id": "KTNNews.ke",
-    "name": "KTN News",
-    "logo": "https://i.imgur.com/AYxanoy.png",
-    "url": "https://ythls.armelin.one/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8",
-    "website": "https://www.standardmedia.co.ke/ktnnews/"
-  },
-  {
     "id": "KTNVDT1.us",
     "name": "KTNV-DT1",
     "logo": "https://i.imgur.com/QbkW7zY.png",
@@ -5873,6 +6132,13 @@
     "website": "https://cmcm.tv/26"
   },
   {
+    "id": "MarinTVEducationalChannel.us",
+    "name": "Marin TV Educational Channel",
+    "logo": "https://i.imgur.com/HsBBu8g.png",
+    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/bc1fcf000e4e48a6a490d2af1f6added/playlist.m3u8",
+    "website": "https://cmcm.tv/30"
+  },
+  {
     "id": "MarinTVGovernmentChannel.us",
     "name": "Marin TV Government Channel",
     "logo": "https://i.imgur.com/HsBBu8g.png",
@@ -5901,13 +6167,6 @@
     "website": "https://martin.granicus.com/ViewPublisher.php?view_id=24"
   },
   {
-    "id": "MarvisionTV.bo",
-    "name": "Marvision TV",
-    "logo": "https://i.imgur.com/ce29Mbv.png",
-    "url": "https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8",
-    "website": "https://marvisiontv.com/"
-  },
-  {
     "id": "MaverickBlackCinema.us",
     "name": "Maverick Black Cinema",
     "logo": "https://i.imgur.com/OEamqFg.png",
@@ -5934,6 +6193,13 @@
     "logo": "https://i.imgur.com/qPnolMM.png",
     "url": "https://rpn3.bozztv.com/ssh101/ssh101/2onthego/playlist.m3u8",
     "website": "https://mbc.mw/"
+  },
+  {
+    "id": "MBC.mw",
+    "name": "MBC",
+    "logo": "https://i.imgur.com/7afBZh2.png",
+    "url": "https://rpn3.bozztv.com/ssh101/ssh101/mbcmalawi/playlist.m3u8",
+    "website": "http://www.mbc.mw/"
   },
   {
     "id": "MBTV.us",
@@ -5969,6 +6235,20 @@
     "logo": "https://i.imgur.com/SdYnHBJ.png",
     "url": "https://freepbx.btbn.tv:5443/mtmtv/streams/live.m3u8",
     "website": "https://www.mercyandtruth.tv/"
+  },
+  {
+    "id": "MetroGlobeNetwork.id",
+    "name": "Metro Globe Network",
+    "logo": "https://i.imgur.com/aiiinzg.png",
+    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "website": "https://www.metroglobe.id/live"
+  },
+  {
+    "id": "Mezzo.fr",
+    "name": "Mezzo",
+    "logo": "https://i.imgur.com/auNdGeW.png",
+    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
+    "website": "https://www.mezzo.tv/"
   },
   {
     "id": "MHZ.ca",
@@ -6027,11 +6307,32 @@
     "website": "https://midpenmedia.org/local-tv/"
   },
   {
+    "id": "MidpenMediaCenterChannel75.us",
+    "name": "Midpen Media Center Channel 75",
+    "logo": "https://i.imgur.com/RPJiolQ.png",
+    "url": "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8",
+    "website": "https://midpenmedia.org/local-tv/"
+  },
+  {
     "id": "MidsomerMurders.us",
     "name": "Midsomer Murders",
     "logo": "https://i.imgur.com/VFqfyfY.png",
     "url": "https://lnc-midsomer-murders.tubi.video/playlist.m3u8",
     "website": "https://pluto.tv/en/live-tv/midsomer-murders"
+  },
+  {
+    "id": "MiracleTV.uk",
+    "name": "Miracle TV",
+    "logo": "https://i.imgur.com/pTn8Vc3.png",
+    "url": "https://webstreaming.viewmedia.tv/web_030/Stream/playlist.m3u8",
+    "website": "https://www.miracletv.co/"
+  },
+  {
+    "id": "MissionTV.us",
+    "name": "Mission TV",
+    "logo": "https://i.imgur.com/Hb38BNo.png",
+    "url": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8",
+    "website": null
   },
   {
     "id": "MissionTV.us",
@@ -6048,13 +6349,6 @@
     "website": "https://pluto.tv/en/live-tv/mlb"
   },
   {
-    "id": "MNBWorld.mn",
-    "name": "MNB World",
-    "logo": "https://i.imgur.com/PHlj84Q.png",
-    "url": "https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8",
-    "website": "https://www.mnb.mn/live/world"
-  },
-  {
     "id": "MonroeCountyTV.us",
     "name": "Monroe County TV",
     "logo": "https://i.imgur.com/YJfzdSu.png",
@@ -6069,6 +6363,13 @@
     "website": "https://www.moonbug.com/channel"
   },
   {
+    "id": "MoonTV.ug",
+    "name": "Moon TV",
+    "logo": "https://i.imgur.com/DUGyfas.jpg",
+    "url": "https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/Moon_tv/5-hls/live-media.m3u8",
+    "website": null
+  },
+  {
     "id": "MorningCloudTV.ke",
     "name": "Morning Cloud TV",
     "logo": "https://i.imgur.com/Lxfd2ip.png",
@@ -6076,11 +6377,11 @@
     "website": null
   },
   {
-    "id": "MorroBayChannel20.us",
-    "name": "Morro Bay Channel 20",
-    "logo": "https://i.imgur.com/UZeC6xH.png",
-    "url": "https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8",
-    "website": "https://slo-span.org/channels/morro-bay-channel-20"
+    "id": "Motorvision.de",
+    "name": "Motorvision",
+    "logo": "https://i.imgur.com/v4kj8pI.png",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8",
+    "website": "https://motorvision.tv/"
   },
   {
     "id": "MovieSphere.us",
@@ -6160,6 +6461,20 @@
     "website": "https://www.mta.tv/"
   },
   {
+    "id": "MTA8America.uk",
+    "name": "MTA8 America",
+    "logo": "https://i.imgur.com/CF6X9wB.png",
+    "url": "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8",
+    "website": "https://www.mta.tv/"
+  },
+  {
+    "id": "MTC.us",
+    "name": "MTC",
+    "logo": "https://i.imgur.com/JxoAR4j.png",
+    "url": "https://mtchls.wns.live/hls/stream.m3u8",
+    "website": "http://www.mellitv.com/"
+  },
+  {
     "id": "MuseumTVFast.us",
     "name": "Museum TV Fast",
     "logo": "https://i.imgur.com/zzVq7BQ.png",
@@ -6186,6 +6501,13 @@
     "logo": "https://i.imgur.com/OgQ2r7Y.png",
     "url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/encinitas/G0322_002/playlist.m3u8",
     "website": "https://encinitasca.gov/Government/Agendas-Webcasts"
+  },
+  {
+    "id": "MyRighteousTV.cm",
+    "name": "My Righteous TV",
+    "logo": "https://i.imgur.com/wKSLNHB.png",
+    "url": "https://rpn3.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8",
+    "website": null
   },
   {
     "id": "MysteryScienceTheater3000.us",
@@ -6242,13 +6564,6 @@
     "logo": "https://i.imgur.com/RZF3wwW.png",
     "url": "https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_004/playlist.m3u8",
     "website": "https://napatv.granicus.com/MediaPlayer.php?publish_id=3"
-  },
-  {
-    "id": "NASATV.us",
-    "name": "NASA TV",
-    "logo": "https://i.imgur.com/ECPgLf6.png",
-    "url": "http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8",
-    "website": "http://www.nasa.gov/multimedia/nasatv/"
   },
   {
     "id": "NASATV.us",
@@ -6471,6 +6786,13 @@
     "id": "Newsy.us",
     "name": "Newsy",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png",
+    "url": "https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8",
+    "website": null
+  },
+  {
+    "id": "Newsy.us",
+    "name": "Newsy",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png",
     "url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
     "website": null
   },
@@ -6524,11 +6846,25 @@
     "website": "https://www.nhra.tv/"
   },
   {
+    "id": "Nickelodeon.pl",
+    "name": "Nickelodeon",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "url": "https://cdn-nvm-chicago.lolokoko.tv/Nickelodeon.stream/playlist.m3u8",
+    "website": "http://www.nick.com.pl/"
+  },
+  {
     "id": "NickelodeonEast.us",
     "name": "Nickelodeon East",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "url": "http://143.244.60.30/NICKELODEON/index.m3u8",
     "website": "http://www.nick.com/"
+  },
+  {
+    "id": "NickJrPlutoTV.us",
+    "name": "Nick Jr. Pluto TV",
+    "logo": "https://i.imgur.com/8DAe8wr.png",
+    "url": "https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/nick-jr-pluto-tv-ptv1"
   },
   {
     "id": "NickPlutoTV.us",
@@ -6538,11 +6874,32 @@
     "website": "https://pluto.tv/en/live-tv/nick-pluto-tv"
   },
   {
+    "id": "Nicktoons.pl",
+    "name": "Nicktoons",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+    "url": "https://cdn-nvm-chicago.lolokoko.tv/Nicktoons.stream/playlist.m3u8",
+    "website": "http://nicktoons.nick.com.pl/"
+  },
+  {
     "id": "NicktoonsEast.us",
     "name": "Nicktoons East",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png",
     "url": "http://143.244.60.30/NICKTOONS/index.m3u8",
     "website": "http://nicktoons.nick.com/"
+  },
+  {
+    "id": "NitroCircus.us",
+    "name": "Nitro Circus",
+    "logo": "https://i.imgur.com/Ri0sB6I.jpg",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "NjataTV.ke",
+    "name": "Njata TV",
+    "logo": "https://i.imgur.com/246CBAW.png",
+    "url": "https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8",
+    "website": "https://njatatv.co.ke/"
   },
   {
     "id": "NMBTV.us",
@@ -6557,20 +6914,6 @@
     "logo": "https://i.imgur.com/IxtGpti.png",
     "url": "https://edge-i.evrideo.tv/8808fff1-2262-4c92-8cf4-359adbb692ca_1000026794_HLS/manifest.m3u8",
     "website": "https://www.africanmoviechannel.tv/products-and-services"
-  },
-  {
-    "id": "NoorTV.uk",
-    "name": "Noor TV",
-    "logo": "https://i.imgur.com/DlKgIuQ.png",
-    "url": "http://45.76.186.114:8080/hls/noortv.m3u8",
-    "website": "https://www.thenoor.tv/"
-  },
-  {
-    "id": "NoorTV.uk",
-    "name": "Noor TV",
-    "logo": "https://i.imgur.com/DlKgIuQ.png",
-    "url": "https://live.smartmediahouse.tv:8443/hls/ch1.m3u8",
-    "website": "https://www.thenoor.tv/"
   },
   {
     "id": "Noovo.ca",
@@ -6591,6 +6934,13 @@
     "name": "Nosey Judge Karen's Court",
     "logo": "https://i.imgur.com/jlUuE2j.png",
     "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "NothingScripted.us",
+    "name": "Nothing Scripted",
+    "logo": "https://i.imgur.com/QSH4Z4p.png",
+    "url": "https://30a-tv.com/NothingScripted.m3u8",
     "website": null
   },
   {
@@ -6629,6 +6979,34 @@
     "website": null
   },
   {
+    "id": "NRBTV.us",
+    "name": "NRBTV",
+    "logo": "https://i.imgur.com/2PL1Au7.png",
+    "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "NTAInternational.ng",
+    "name": "NTA International",
+    "logo": "https://i.imgur.com/mN8j8CR.png",
+    "url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8",
+    "website": "https://www.nta.ng/"
+  },
+  {
+    "id": "NTANews24.ng",
+    "name": "NTA News 24",
+    "logo": "https://i.imgur.com/9ak6bNd.png",
+    "url": "https://ythls.armelin.one/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8",
+    "website": "https://www.nta.ng/"
+  },
+  {
+    "id": "NTVUganda.ug",
+    "name": "NTV Uganda",
+    "logo": "https://i.imgur.com/ej5A6RZ.png",
+    "url": "https://ythls.armelin.one/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8",
+    "website": "https://www.ntv.co.ug/"
+  },
+  {
     "id": "NWInfo2.tg",
     "name": "NW Info 2",
     "logo": "https://i.imgur.com/0W4GqFD.png",
@@ -6657,6 +7035,20 @@
     "website": null
   },
   {
+    "id": "OireachtasTVCommitteeRoom2.ie",
+    "name": "Oireachtas TV Committee Room 2",
+    "logo": "https://i.imgur.com/2Wxx2jK.jpg",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8",
+    "website": null
+  },
+  {
+    "id": "OireachtasTVCommitteeRoom3.ie",
+    "name": "Oireachtas TV Committee Room 3",
+    "logo": "https://i.imgur.com/EoAQeg5.jpg",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8",
+    "website": null
+  },
+  {
     "id": "OireachtasTVCommitteeRoom4.ie",
     "name": "Oireachtas TV Committee Room 4",
     "logo": "https://i.imgur.com/U9U4rgs.jpg",
@@ -6664,10 +7056,45 @@
     "website": null
   },
   {
+    "id": "OireachtasTVDailEireann.ie",
+    "name": "Oireachtas TV Dail Eireann",
+    "logo": "https://i.imgur.com/mexKiS0.jpg",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8",
+    "website": null
+  },
+  {
+    "id": "OireachtasTVSeanadEireann.ie",
+    "name": "Oireachtas TV Seanad Eireann",
+    "logo": "https://i.imgur.com/c5TI2DT.jpg",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8",
+    "website": null
+  },
+  {
+    "id": "Olelo49.us",
+    "name": "Olelo 49",
+    "logo": "https://i.imgur.com/4C5Xp8M.png",
+    "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "Olelo53.us",
+    "name": "Olelo 53",
+    "logo": "https://i.imgur.com/xDuUrj9.png",
+    "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8",
+    "website": null
+  },
+  {
     "id": "Olelo54.us",
     "name": "Olelo 54",
     "logo": "https://i.imgur.com/8BG31QL.png",
     "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "Olelo55.us",
+    "name": "Olelo 55",
+    "logo": "https://i.imgur.com/0qe2R8b.png",
+    "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8",
     "website": null
   },
   {
@@ -6723,6 +7150,13 @@
     "id": "OntarioParliamentaryNetwork.ca",
     "name": "Ontario Parliamentary Network",
     "logo": "https://i.imgur.com/xKXs6ER.png",
+    "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "OntarioParliamentaryNetwork.ca",
+    "name": "Ontario Parliamentary Network",
+    "logo": "https://i.imgur.com/xKXs6ER.png",
     "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
     "website": null
   },
@@ -6739,6 +7173,13 @@
     "logo": "https://i.imgur.com/NcEygU5.png",
     "url": "https://dai.google.com/linear/hls/event/571lW-W1Th6Go5EV3Qa19Q/master.m3u8",
     "website": null
+  },
+  {
+    "id": "OpcionTV.us",
+    "name": "Opcion TV",
+    "logo": "https://i.imgur.com/ojTinM2.png",
+    "url": "https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8",
+    "website": "http://opcioninforma.com/"
   },
   {
     "id": "OrangeGovernmentAccessTV.us",
@@ -6811,6 +7252,13 @@
     "website": "https://www.outsidetv.com/live"
   },
   {
+    "id": "OutsideTVPlus.us",
+    "name": "Outside TV+",
+    "logo": "https://i.imgur.com/8AEfKB8.png",
+    "url": "https://outsidetvplus-xumo.amagi.tv/playlist.m3u8",
+    "website": "https://www.outsidetv.com/live"
+  },
+  {
     "id": "Pac12Insider.us",
     "name": "Pac-12 Insider",
     "logo": "https://i.imgur.com/736QREy.png",
@@ -6846,6 +7294,20 @@
     "website": "https://www.thepalmbeaches.tv/"
   },
   {
+    "id": "PardesiTV.ca",
+    "name": "Pardesi TV",
+    "logo": "https://i.imgur.com/CwAdPpZ.jpg",
+    "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+    "website": null
+  },
+  {
+    "id": "PardesiTV.ca",
+    "name": "Pardesi TV",
+    "logo": "https://i.imgur.com/CwAdPpZ.jpg",
+    "url": "http://stream.pardesitv.online/pardesi/index.m3u8",
+    "website": null
+  },
+  {
     "id": "ParliamentTV.nz",
     "name": "Parliament TV",
     "logo": "https://i.imgur.com/2aHW4q7.png",
@@ -6853,11 +7315,53 @@
     "website": "https://ondemand.parliament.nz/"
   },
   {
+    "id": "PascoTV.us",
+    "name": "Pasco TV",
+    "logo": "https://i.imgur.com/CM91sME.png",
+    "url": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8",
+    "website": "https://pascocountyfl.net/754/Watch-Live-Pasco-TV"
+  },
+  {
+    "id": "PBCJamaicaTV.jm",
+    "name": "PBC Jamaica TV",
+    "logo": "https://i.ibb.co/WnDWvck/PBC-Jamaica-TV-tvtolive-com.jpg",
+    "url": "https://ythls.armelin.one/channel/UC8X0kkF7HNdWUxTMjAagJxw.m3u8",
+    "website": "https://pbcjamaica.org/"
+  },
+  {
+    "id": "PBCTVChannel20.us",
+    "name": "PBC TV Channel 20",
+    "logo": "https://i.imgur.com/2bGBbOZ.png",
+    "url": "https://pbcmedia.pbcgov.org:1936/live/mp4live.sdp/playlist.m3u8",
+    "website": "https://discover.pbcgov.org/publicaffairs/Pages/Channel_20.aspx"
+  },
+  {
     "id": "PBSKidsEasternCentral.us",
     "name": "PBS Kids Eastern/Central",
     "logo": "https://i.imgur.com/ambc9le.png",
     "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
     "website": null
+  },
+  {
+    "id": "PCTChannel26.us",
+    "name": "PCT Channel 26",
+    "logo": "https://i.imgur.com/xJSya25.png",
+    "url": "https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "website": "http://pacificcoast.tv/"
+  },
+  {
+    "id": "PCTChannel27.us",
+    "name": "PCT Channel 27",
+    "logo": "https://i.imgur.com/b0ufMkd.png",
+    "url": "https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "website": "http://pacificcoast.tv/"
+  },
+  {
+    "id": "PCTV26.us",
+    "name": "PCTV 26",
+    "logo": "https://i.imgur.com/3tMAQU7.png",
+    "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8",
+    "website": "https://pinole.granicus.com/MediaPlayer.php?camera_id=4"
   },
   {
     "id": "PCTV28.us",
@@ -6930,11 +7434,18 @@
     "website": "http://www.pmitv.org/"
   },
   {
-    "id": "PokemonKidsTVEnglish.jp",
-    "name": "Pokemon Kids TV English",
-    "logo": "https://i.imgur.com/0nDftk7.jpg",
-    "url": "https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8",
-    "website": null
+    "id": "PNNNews.pk",
+    "name": "PNN News",
+    "logo": "https://i.imgur.com/edKutxd.png",
+    "url": "https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8",
+    "website": "https://pnntv.pk/"
+  },
+  {
+    "id": "pocketwatch.us",
+    "name": "pocket.watch",
+    "logo": "https://i.imgur.com/T0V90Lz.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8",
+    "website": "https://pocket.watch/"
   },
   {
     "id": "PokerGo.us",
@@ -6949,6 +7460,20 @@
     "logo": "https://i.imgur.com/Z7XTTod.png",
     "url": "https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8",
     "website": "https://www.popmax.co.uk/"
+  },
+  {
+    "id": "POPSTAR.rs",
+    "name": "POP STAR",
+    "logo": "https://i.imgur.com/E9ha9Or.png",
+    "url": "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8",
+    "website": "https://muzzik.co.uk/"
+  },
+  {
+    "id": "PopstarTV.us",
+    "name": "Popstar! TV",
+    "logo": "https://i.imgur.com/d4xEiXX.png",
+    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
+    "website": null
   },
   {
     "id": "PopstarTV.us",
@@ -6972,11 +7497,32 @@
     "website": "https://positiv.tv/"
   },
   {
+    "id": "PowerHD.ar",
+    "name": "PowerHD",
+    "logo": "https://i.imgur.com/15gMDG0.png",
+    "url": "https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8",
+    "website": "https://www.radiopower.com.ar/powerhd/webroot/index.php?altvideoplayer=1"
+  },
+  {
     "id": "PraiseJesusTowerTV.ug",
     "name": "Praise Jesus Tower TV",
     "logo": "https://i.imgur.com/KT4qIve.png",
     "url": "https://5d00db0e0fcd5.streamlock.net/7328/7328/playlist.m3u8",
     "website": "https://praisejesustower.org/"
+  },
+  {
+    "id": "PraiseTV.pk",
+    "name": "Praise TV",
+    "logo": "https://i.imgur.com/T9fIdLs.png",
+    "url": "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
+    "website": "https://praisetvpakistan.tv/"
+  },
+  {
+    "id": "PrescottValleyTV.us",
+    "name": "Prescott Valley TV",
+    "logo": "https://i.imgur.com/tIwLdzd.png",
+    "url": "https://live-h1.frontlayer.net/fl207891/live/chunks.m3u8",
+    "website": "https://www.prescottvalley-az.gov/423/PV-TV---Channel-1056"
   },
   {
     "id": "PressTV.ir",
@@ -7007,25 +7553,18 @@
     "website": "https://www.psdschools.org/psd-tv"
   },
   {
+    "id": "PSLTV.us",
+    "name": "PSL TV",
+    "logo": "https://i.imgur.com/kzdRmTN.png",
+    "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8",
+    "website": "https://www.cityofpsl.com/government/departments/communications/psl-tv"
+  },
+  {
     "id": "PTLTVNetwork.us",
     "name": "PTL TV Network",
     "logo": "https://i.imgur.com/EhISpCd.png",
     "url": "https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8",
     "website": "https://ptlnetwork.com/"
-  },
-  {
-    "id": "PTV4.ph",
-    "name": "PTV 4",
-    "logo": "https://i.imgur.com/T3jDOEq.png",
-    "url": "https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8",
-    "website": null
-  },
-  {
-    "id": "PTV.ph",
-    "name": "PTV",
-    "logo": "https://i.imgur.com/MMccHNd.png",
-    "url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PTV.m3u8",
-    "website": "https://ptvnews.ph/"
   },
   {
     "id": "PublicNews.pk",
@@ -7040,6 +7579,13 @@
     "logo": "https://i.imgur.com/J9VRDDR.png",
     "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/pulse/playlist.m3u8",
     "website": "https://video.premiumfree.tv/?section=lifestylesection"
+  },
+  {
+    "id": "PursuitUP.us",
+    "name": "PursuitUP",
+    "logo": "https://i.imgur.com/5Vzwqts.png",
+    "url": "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
+    "website": "https://pursuituptv.com/"
   },
   {
     "id": "PursuitUP.us",
@@ -7101,6 +7647,13 @@
     "id": "QVC.us",
     "name": "QVC",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/512px-QVC_logo_2019.svg.png",
+    "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/qvclive_720p/playlist.m3u8",
+    "website": "https://www.qvc.com/"
+  },
+  {
+    "id": "QVC.us",
+    "name": "QVC",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/512px-QVC_logo_2019.svg.png",
     "url": "https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8",
     "website": "https://www.qvc.com/"
   },
@@ -7131,13 +7684,6 @@
     "logo": "https://i.imgur.com/DjgNNHK.png",
     "url": "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8",
     "website": "https://www.qwest.tv/"
-  },
-  {
-    "id": "RabboniTV.za",
-    "name": "Rabboni TV",
-    "logo": "https://i.imgur.com/7aVB569.png",
-    "url": "https://ythls.armelin.one/channel/UCWnCfp6jZHGuuX547SJ5F7g.m3u8",
-    "website": "http://www.rabboni.tv/"
   },
   {
     "id": "RacingAmerica.us",
@@ -7189,6 +7735,13 @@
     "website": "http://raveng.tv/"
   },
   {
+    "id": "RCTV.us",
+    "name": "RCTV",
+    "logo": "https://i.imgur.com/DWwequ0.png",
+    "url": "https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "website": "https://www.rifleco.org/CommunityAccessMultimedia"
+  },
+  {
     "id": "RealFamilies.au",
     "name": "Real Families",
     "logo": "https://i.imgur.com/fV9UC2U.png",
@@ -7213,8 +7766,22 @@
     "id": "RealStories.uk",
     "name": "Real Stories",
     "logo": "https://i.imgur.com/PG15QKA.png",
+    "url": "https://lds-realstories-samsungau.amagi.tv/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "RealStories.uk",
+    "name": "Real Stories",
+    "logo": "https://i.imgur.com/PG15QKA.png",
     "url": "https://lds-realstories-plex.amagi.tv/playlist.m3u8",
     "website": null
+  },
+  {
+    "id": "RealWild.us",
+    "name": "Real Wild",
+    "logo": "https://i.imgur.com/T9HHmAO.png",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
+    "website": "https://watch.plex.tv/live-tv/channel/real-wild"
   },
   {
     "id": "RedApple21.us",
@@ -7266,6 +7833,20 @@
     "website": null
   },
   {
+    "id": "RedBullTV.at",
+    "name": "Red Bull TV",
+    "logo": "https://i.imgur.com/BcN8B3D.png",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "website": "https://www.redbull.tv/"
+  },
+  {
+    "id": "RedCCTV.bo",
+    "name": "Red CCTV",
+    "logo": "https://i.imgur.com/YC5FRmq.png",
+    "url": "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
+    "website": "https://red-cctv.com/"
+  },
+  {
     "id": "RedseatTheFirst.us",
     "name": "Redseat The First",
     "logo": "https://i.imgur.com/t794qkT.png",
@@ -7280,11 +7861,25 @@
     "website": "https://www.reelz.com/"
   },
   {
+    "id": "Reelz.us",
+    "name": "Reelz",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png",
+    "url": "https://lnc-reelz.tubi.video/playlist.m3u8",
+    "website": "https://www.reelz.com/"
+  },
+  {
     "id": "ReelzChannelXUMO.us",
     "name": "Reelz Channel XUMO",
     "logo": "https://i.imgur.com/IqebTlK.png",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8",
     "website": null
+  },
+  {
+    "id": "ResurrectionTV.gh",
+    "name": "Resurrection TV",
+    "logo": "https://i.imgur.com/IncyJW8.png",
+    "url": "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8",
+    "website": "http://www.resurrectiontv.org/"
   },
   {
     "id": "RetroCrush.us",
@@ -7392,10 +7987,52 @@
     "website": "https://www.rialtochannel.co.nz/"
   },
   {
+    "id": "RockyHillChannel16.us",
+    "name": "Rocky Hill Channel 16",
+    "logo": "https://i.imgur.com/2ZDcH2L.png",
+    "url": "https://securestream7.champds.com/hlssstc/RockyHillCTLIVE/RockyHillCTLIVE.m3u8",
+    "website": "https://www.rockyhillct.gov/248/Channel-16---Government-Access-Channel-L"
+  },
+  {
+    "id": "RomanzaPlusAfrica.ke",
+    "name": "Romanza+ Africa",
+    "logo": "https://i.imgur.com/HYg75w2.png",
+    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8",
+    "website": "https://www.adnetmedia.tv/"
+  },
+  {
+    "id": "ROVTV.za",
+    "name": "ROV TV",
+    "logo": "https://i.imgur.com/sbeuEYY.png",
+    "url": "https://webstreaming.viewmedia.tv/web_012/Stream/playlist.m3u8",
+    "website": "http://www.rockofvictoryministries.org/"
+  },
+  {
+    "id": "RPM.za",
+    "name": "RPM",
+    "logo": "https://i.imgur.com/gWJ1lN8.png",
+    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8",
+    "website": "https://video.premiumfree.tv/?section=sportssection"
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "url": "https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8",
+    "website": "https://www.rt.com/"
+  },
+  {
     "id": "RT.ru",
     "name": "RT",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
     "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
+    "website": "https://www.rt.com/"
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "url": "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
     "website": "https://www.rt.com/"
   },
   {
@@ -7413,11 +8050,25 @@
     "website": "http://www.rtb.gov.bn/"
   },
   {
-    "id": "Rush.nz",
-    "name": "Rush",
-    "logo": "https://i.imgur.com/q7kj4jo.png",
-    "url": "https://ythls.armelin.one/channel/UCCfrC8pO_GxBO_29C6r1a3g.m3u8",
-    "website": "https://www.threenow.co.nz/search?genre=rush"
+    "id": "RTDocumentaryEnglish.ru",
+    "name": "RT Documentary English",
+    "logo": "https://i.imgur.com/aeu5zIC.png",
+    "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+    "website": "https://rtd.rt.com/"
+  },
+  {
+    "id": "RTDocumentaryEnglish.ru",
+    "name": "RT Documentary English",
+    "logo": "https://i.imgur.com/aeu5zIC.png",
+    "url": "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8",
+    "website": "https://rtd.rt.com/"
+  },
+  {
+    "id": "RTLCroatiaWorld.hr",
+    "name": "RTL Croatia World",
+    "logo": "https://i.imgur.com/rzB6Z6u.png",
+    "url": "https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8",
+    "website": "https://www.rtl.hr/"
   },
   {
     "id": "RwandaTV.rw",
@@ -7441,11 +8092,39 @@
     "website": "https://www.rba.co.rw/tv"
   },
   {
+    "id": "RyanandFriends.us",
+    "name": "Ryan and Friends",
+    "logo": "https://i.imgur.com/jcIprmt.png",
+    "url": "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8",
+    "website": "https://pluto.tv/en/live-tv/ryan-and-friends"
+  },
+  {
+    "id": "RyanandFriends.us",
+    "name": "Ryan and Friends",
+    "logo": "https://i.imgur.com/jcIprmt.png",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8",
+    "website": "https://pluto.tv/en/live-tv/ryan-and-friends"
+  },
+  {
+    "id": "SaltTV.ug",
+    "name": "Salt TV",
+    "logo": "https://i.imgur.com/Ux5nS7C.png",
+    "url": "https://readymedia.moderntv.cloud:8092/distribute/readymedia/SALTTV_stream_13/5-20-hls/live.m3u8",
+    "website": "https://www.saltmedia.ug/"
+  },
+  {
     "id": "SalvationTV.ng",
     "name": "Salvation TV",
     "logo": "https://i.imgur.com/Nb08dfK.png",
     "url": "https://webstreaming.viewmedia.tv/web_017/Stream/playlist.m3u8",
     "website": "https://www.salvationtv.tv/"
+  },
+  {
+    "id": "SamuelGoldwynClassics.us",
+    "name": "Samuel Goldwyn Classics",
+    "logo": "https://i.imgur.com/XC30JAF.png",
+    "url": "https://lnc-samuel-goldwyn-classics.tubi.video/playlist.m3u8",
+    "website": null
   },
   {
     "id": "SankhyaTV.tt",
@@ -7460,6 +8139,13 @@
     "logo": "https://i.imgur.com/AhbJjPL.jpg",
     "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
     "website": null
+  },
+  {
+    "id": "SCBCTV.cm",
+    "name": "SCBC TV",
+    "logo": "https://i.imgur.com/49hhll2.png",
+    "url": "https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8",
+    "website": "https://scbcmedia.com/"
   },
   {
     "id": "SCCurrents.us",
@@ -7490,6 +8176,13 @@
     "website": "https://scrippsnews.com/"
   },
   {
+    "id": "SENSE.rs",
+    "name": "SENSE",
+    "logo": "https://i.imgur.com/9dz8MsD.png",
+    "url": "https://muzzik-live.morescreens.com/mts-7/playlist.m3u8",
+    "website": "https://muzzik.co.uk/"
+  },
+  {
     "id": "SeraphimTV.za",
     "name": "Seraphim TV",
     "logo": "https://i.imgur.com/MfeKk07.png",
@@ -7502,6 +8195,13 @@
     "logo": "https://setchannel.tv/wp-content/uploads/2019/08/SET-web-logo.png",
     "url": "https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8",
     "website": "https://setchannel.tv"
+  },
+  {
+    "id": "SETTV.us",
+    "name": "SET TV",
+    "logo": "https://setchannel.tv/wp-content/uploads/2019/08/SET-web-logo.png",
+    "url": "https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8",
+    "website": "https://setchannel.tv/"
   },
   {
     "id": "SFCommons29.us",
@@ -7532,6 +8232,13 @@
     "website": "https://sfgovtv.org/"
   },
   {
+    "id": "SheffieldLiveTV.uk",
+    "name": "Sheffield Live TV",
+    "logo": "https://i.imgur.com/p0QzCFs.png",
+    "url": "http://tv.sheffieldlive.org/hls/main.m3u8",
+    "website": "https://web.sheffieldlive.org/tv/"
+  },
+  {
     "id": "ShopHQ.us",
     "name": "ShopHQ",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/ShopHQ_2019_Logo.png",
@@ -7550,6 +8257,13 @@
     "name": "Shop LC",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png",
     "url": "https://dai.google.com/linear/hls/event/9WYzyYxrRvafiVxUGKV2OA/master.m3u8",
+    "website": "https://www.shoplc.com/"
+  },
+  {
+    "id": "ShopLC.us",
+    "name": "Shop LC",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
     "website": "https://www.shoplc.com/"
   },
   {
@@ -7574,6 +8288,13 @@
     "website": "https://pluto.tv/en/live-tv/shout-factory-tv"
   },
   {
+    "id": "ShoutFactoryTV.us",
+    "name": "Shout! Factory TV",
+    "logo": "https://i.imgur.com/AgoGr6y.png",
+    "url": "https://shoutfactory-xumo.amagi.tv/playlist.m3u8",
+    "website": "https://pluto.tv/en/live-tv/shout-factory-tv"
+  },
+  {
     "id": "ShowtimeattheApollo.us",
     "name": "Showtime at the Apollo",
     "logo": "https://i.imgur.com/jhJ25OQ.jpg",
@@ -7595,13 +8316,6 @@
     "website": null
   },
   {
-    "id": "SindhTVNews.pk",
-    "name": "Sindh TV News",
-    "logo": "https://i.imgur.com/Ap9K1lj.png",
-    "url": "https://ythls.armelin.one/channel/UCdNrdgAx3bT6tXJ-RJ9dOBA.m3u8",
-    "website": "https://sindhtvnews.net/"
-  },
-  {
     "id": "SKITV.ch",
     "name": "SKI TV",
     "logo": "https://i.imgur.com/S6qgwLG.png",
@@ -7616,6 +8330,27 @@
     "website": "https://www.skitv.tv/"
   },
   {
+    "id": "SkyNewsExtra1.au",
+    "name": "Sky News Extra 1",
+    "logo": "https://i.imgur.com/ZsPb8nL.png",
+    "url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
+    "website": "https://www.skynews.com.au/page/extra"
+  },
+  {
+    "id": "SkyNewsExtra2.au",
+    "name": "Sky News Extra 2",
+    "logo": "https://i.imgur.com/ZsPb8nL.png",
+    "url": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8",
+    "website": "https://www.skynews.com.au/page/extra"
+  },
+  {
+    "id": "SkyNewsExtra3.au",
+    "name": "Sky News Extra 3",
+    "logo": "https://i.imgur.com/ZsPb8nL.png",
+    "url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
+    "website": "https://www.skynews.com.au/page/extra"
+  },
+  {
     "id": "SkyOpenPlus1.nz",
     "name": "Sky Open +1",
     "logo": "https://i.imgur.com/Ig28Cep.png",
@@ -7623,11 +8358,25 @@
     "website": "https://www.sky.co.nz/skyopen"
   },
   {
+    "id": "SkyTVNewYork.us",
+    "name": "Sky TV New York",
+    "logo": "https://i.imgur.com/FGZTxBG.jpg",
+    "url": "https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-2cb201942c94460d9356b2c138272263/playlist.m3u8",
+    "website": "https://guyanatvnetwork.com/"
+  },
+  {
     "id": "SLOCountyChannel21.us",
     "name": "SLO County Channel 21",
     "logo": "https://i.imgur.com/CyQ472C.png",
     "url": "https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8",
     "website": "https://slo-span.org/channels/slo-county-channel-21"
+  },
+  {
+    "id": "SmartLifeStyleTV.us",
+    "name": "Smart LifeStyle TV",
+    "logo": "https://i.imgur.com/kHFlTEy.png",
+    "url": "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8",
+    "website": "https://www.smartlifestyletv.com/"
   },
   {
     "id": "SMCTVChannel23.us",
@@ -7651,6 +8400,13 @@
     "website": "https://www.cityofsantamaria.org/city-government/departments/city-manager/santa-maria-community-television"
   },
   {
+    "id": "SOATV.ke",
+    "name": "SOA TV",
+    "logo": "https://i.imgur.com/4uDXP3A.jpg",
+    "url": "https://goliveafrica.media:9998/live/6268e317152cc/index.m3u8",
+    "website": null
+  },
+  {
     "id": "SonyMovies.us",
     "name": "Sony Movies",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png",
@@ -7663,13 +8419,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png",
     "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8",
     "website": "https://www.sonymovies.com/"
-  },
-  {
-    "id": "SonySportsTen1.in",
-    "name": "Sony Sports Ten 1",
-    "logo": "https://i.imgur.com/hWo7Ba4.png",
-    "url": "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8",
-    "website": "https://www.sonysportsnetwork.com/"
   },
   {
     "id": "SoReal.us",
@@ -7700,6 +8449,13 @@
     "website": null
   },
   {
+    "id": "SoundViewCommunityMedia.us",
+    "name": "Sound View Community Media",
+    "logo": "https://i.imgur.com/3gASzGc.png",
+    "url": "https://livestream.telvue.com/soundviewcmt1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "website": "https://videoplayer.telvue.com/player/TZ8khYX7RlRx6tH0saPsaK0nFpap97BM/home?autostart=false&showtabssearch=true"
+  },
+  {
     "id": "SoYummy.us",
     "name": "So Yummy!",
     "logo": "https://i.imgur.com/ju2NyoL.png",
@@ -7714,11 +8470,25 @@
     "website": null
   },
   {
+    "id": "SpiritTV.ug",
+    "name": "Spirit TV",
+    "logo": "https://i.imgur.com/RGfoWmD.png",
+    "url": "https://readymedia.moderntv.cloud:8092/distribute/readymedia/SPIRIT_stream_68/5-20-hls/live.m3u8",
+    "website": "https://spirittv.co.ug/"
+  },
+  {
     "id": "SpiritTV.us",
     "name": "Spirit TV",
     "logo": "https://i.imgur.com/yCp6vXz.png",
     "url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8",
     "website": "https://myspirit.tv/"
+  },
+  {
+    "id": "SportsConnect.za",
+    "name": "Sports Connect",
+    "logo": "https://i.imgur.com/0sNWg54.png",
+    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8",
+    "website": "https://www.africaxp.com/"
   },
   {
     "id": "SportsGrid.us",
@@ -7732,6 +8502,20 @@
     "name": "SportsGrid",
     "logo": "https://i.imgur.com/ulGKX30.png",
     "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
+    "website": "https://www.sportsgrid.com/live/"
+  },
+  {
+    "id": "SportsGrid.us",
+    "name": "SportsGrid",
+    "logo": "https://i.imgur.com/ulGKX30.png",
+    "url": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
+    "website": "https://www.sportsgrid.com/live/"
+  },
+  {
+    "id": "SportsGrid.us",
+    "name": "SportsGrid",
+    "logo": "https://i.imgur.com/ulGKX30.png",
+    "url": "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
     "website": "https://www.sportsgrid.com/live/"
   },
   {
@@ -7791,10 +8575,24 @@
     "website": "https://classica.stingray.com/"
   },
   {
+    "id": "StingrayClassica.ca",
+    "name": "Stingray Classica",
+    "logo": "https://i.imgur.com/nh1k5RC.png",
+    "url": "https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8",
+    "website": "https://classica.stingray.com/"
+  },
+  {
     "id": "StingrayClassicRock.ca",
     "name": "Stingray Classic Rock",
     "logo": "https://i.imgur.com/FBgu8yB.png",
     "url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+    "website": null
+  },
+  {
+    "id": "StingrayClassicRock.ca",
+    "name": "Stingray Classic Rock",
+    "logo": "https://i.imgur.com/FBgu8yB.png",
+    "url": "https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8",
     "website": null
   },
   {
@@ -7819,6 +8617,13 @@
     "website": "https://djazz.stingray.com/"
   },
   {
+    "id": "StingrayDJAZZ.ca",
+    "name": "Stingray DJAZZ",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",
+    "url": "https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8",
+    "website": "https://djazz.stingray.com/"
+  },
+  {
     "id": "StingrayEasyListening.ca",
     "name": "Stingray Easy Listening",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
@@ -7833,6 +8638,20 @@
     "website": null
   },
   {
+    "id": "StingrayEverything80s.ca",
+    "name": "Stingray Everything '80s",
+    "logo": "https://i.imgur.com/6E3wYrb.png",
+    "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+    "website": "https://music.stingray.com/en/BS/channels/128/everything-80s"
+  },
+  {
+    "id": "StingrayFlashback70s.ca",
+    "name": "Stingray Flashback 70's",
+    "logo": "https://i.imgur.com/jf5C9QF.png",
+    "url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+    "website": null
+  },
+  {
     "id": "StingrayFlashback70s.ca",
     "name": "Stingray Flashback 70's",
     "logo": "https://i.imgur.com/jf5C9QF.png",
@@ -7843,7 +8662,21 @@
     "id": "StingrayGreatestHits.ca",
     "name": "Stingray Greatest Hits",
     "logo": "https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",
+    "url": "https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8",
+    "website": null
+  },
+  {
+    "id": "StingrayGreatestHits.ca",
+    "name": "Stingray Greatest Hits",
+    "logo": "https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "StingrayHipHop.ca",
+    "name": "Stingray Hip Hop",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+    "url": "https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8",
     "website": null
   },
   {
@@ -7861,6 +8694,20 @@
     "website": "https://music.stingray.com/en/CA/channels/007/hit-list"
   },
   {
+    "id": "StingrayHolidayHits.ca",
+    "name": "Stingray Holiday Hits",
+    "logo": "https://i.imgur.com/4xVVKH8.png",
+    "url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+    "website": null
+  },
+  {
+    "id": "StingrayHotCountry.ca",
+    "name": "Stingray Hot Country",
+    "logo": "https://i.imgur.com/PZhxyIT.png",
+    "url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+    "website": "https://music.stingray.com/en/channels/008/hot-country"
+  },
+  {
     "id": "StingrayHotCountry.ca",
     "name": "Stingray Hot Country",
     "logo": "https://i.imgur.com/PZhxyIT.png",
@@ -7875,11 +8722,116 @@
     "website": "https://music.stingray.com/en/channels/008/hot-country"
   },
   {
+    "id": "StingrayKaraoke.ca",
+    "name": "Stingray Karaoke",
+    "logo": "https://i.imgur.com/9TLTLS3.png",
+    "url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
+    "website": "https://karaoke.stingray.com/en/"
+  },
+  {
+    "id": "StingrayNaturescape.ca",
+    "name": "Stingray Naturescape",
+    "logo": "https://i.imgur.com/882kd90.png",
+    "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+    "website": "https://www.stingray.com/stingray-naturescape"
+  },
+  {
+    "id": "StingrayNaturescape.ca",
+    "name": "Stingray Naturescape",
+    "logo": "https://i.imgur.com/882kd90.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8",
+    "website": "https://www.stingray.com/stingray-naturescape"
+  },
+  {
+    "id": "StingrayNothinBut90s.ca",
+    "name": "Stingray Nothin' But 90s",
+    "logo": "https://i.imgur.com/Tq3I0po.png",
+    "url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+    "website": "https://music.stingray.com/en/channels/042/nothin-but-90s"
+  },
+  {
+    "id": "StingrayNothinBut90s.ca",
+    "name": "Stingray Nothin' But 90s",
+    "logo": "https://i.imgur.com/Tq3I0po.png",
+    "url": "https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8",
+    "website": "https://music.stingray.com/en/channels/042/nothin-but-90s"
+  },
+  {
+    "id": "StingrayPopAdult.ca",
+    "name": "Stingray Pop Adult",
+    "logo": "https://i.imgur.com/H2ugC9L.png",
+    "url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+    "website": "https://music.stingray.com/en/CA/channels/004/pop-adult"
+  },
+  {
+    "id": "StingrayRememberthe80s.ca",
+    "name": "Stingray Remember the 80s",
+    "logo": "https://i.imgur.com/duwc8E8.png",
+    "url": "https://i.mjh.nz/SamsungTVPlus/USBD3300022QK.m3u8",
+    "website": null
+  },
+  {
+    "id": "StingrayRockAlternative.ca",
+    "name": "Stingray Rock Alternative",
+    "logo": "https://i.imgur.com/mt8ulVX.png",
+    "url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+    "website": null
+  },
+  {
+    "id": "StingrayRomanceLatino.ca",
+    "name": "Stingray Romance Latino",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+    "url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+    "website": null
+  },
+  {
+    "id": "StingrayRomanceLatino.ca",
+    "name": "Stingray Romance Latino",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+    "url": "https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8",
+    "website": null
+  },
+  {
+    "id": "StingraySmoothJazz.ca",
+    "name": "Stingray Smooth Jazz",
+    "logo": "https://i.imgur.com/h1DsOzH.png",
+    "url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8",
+    "website": "https://music.stingray.com/en/channels/040/smooth-jazz"
+  },
+  {
+    "id": "StingraySmoothJazz.ca",
+    "name": "Stingray Smooth Jazz",
+    "logo": "https://i.imgur.com/h1DsOzH.png",
+    "url": "https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8",
+    "website": "https://music.stingray.com/en/channels/040/smooth-jazz"
+  },
+  {
+    "id": "StingraySoulStorm.ca",
+    "name": "Stingray Soul Storm",
+    "logo": "https://i.imgur.com/dU1KC3f.png",
+    "url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+    "website": "https://music.stingray.com/en/channels/134/soul-storm"
+  },
+  {
     "id": "StingraySoulStorm.ca",
     "name": "Stingray Soul Storm",
     "logo": "https://i.imgur.com/dU1KC3f.png",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8",
     "website": "https://music.stingray.com/en/channels/134/soul-storm"
+  },
+  {
+    "id": "StingrayTheSpa.ca",
+    "name": "Stingray The Spa",
+    "logo": "https://i.imgur.com/ywAN923.png",
+    "url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+    "website": "https://music.stingray.com/en/channels/022/the-spa"
+  },
+  {
+    "id": "StingrayTodaysKPop.ca",
+    "name": "Stingray Today's K-Pop",
+    "logo": "https://i.imgur.com/mMbntB5.png",
+    "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+    "website": "https://music.stingray.com/en/channels/317/todays-k-pop"
   },
   {
     "id": "StingrayTodaysKPop.ca",
@@ -7892,7 +8844,21 @@
     "id": "StingrayTodaysLatinPop.ca",
     "name": "Stingray Today's Latin Pop",
     "logo": "https://i.imgur.com/Os3kRRP.png",
+    "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+    "website": null
+  },
+  {
+    "id": "StingrayTodaysLatinPop.ca",
+    "name": "Stingray Today's Latin Pop",
+    "logo": "https://i.imgur.com/Os3kRRP.png",
     "url": "https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8",
+    "website": null
+  },
+  {
+    "id": "StingrayUrbanBeat.ca",
+    "name": "Stingray Urban Beat",
+    "logo": "https://i.imgur.com/Os3kRRP.png",
+    "url": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8",
     "website": null
   },
   {
@@ -7910,10 +8876,66 @@
     "website": "https://stirr.com/"
   },
   {
+    "id": "STIRRCityAlbany.us",
+    "name": "STIRR City Albany",
+    "logo": "https://i.imgur.com/CYpOthl.png",
+    "url": "https://dai.google.com/linear/hls/event/LT14Y2LdQSWx9OQCmgVfuA/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
     "id": "STIRRCityAmarillo.us",
     "name": "STIRR City Amarillo",
     "logo": "https://i.imgur.com/7JgPJxx.png",
     "url": "https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityAustin.us",
+    "name": "STIRR City Austin",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/zDh7VBx8S7Sog5vzcXuehg/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityBakersfield.us",
+    "name": "STIRR City Bakersfield",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/-4GLQIcZTUWzP8vDAXNQsQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityBaltimore.us",
+    "name": "STIRR City Baltimore",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityBayCity.us",
+    "name": "STIRR City Bay City",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityBeaumont.us",
+    "name": "STIRR City Beaumont",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/FKoa3RaEQxyyrf8PfPbgkg/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityBeaumontPortArthur.us",
+    "name": "STIRR City Beaumont Port Arthur",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/tlvrrqidRaG0KbLN4Hd5mg/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityBirmingham.us",
+    "name": "STIRR City Birmingham",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8",
     "website": "https://stirr.com/"
   },
   {
@@ -7931,10 +8953,94 @@
     "website": "https://stirr.com/"
   },
   {
+    "id": "STIRRCityCedarRapids.us",
+    "name": "STIRR City Cedar Rapids",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/zPJC-rOUTg28uymLdmYw5w/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityChampaign.us",
+    "name": "STIRR City Champaign",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityCharleston.us",
+    "name": "STIRR City Charleston",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityCharlestonHuntington.us",
+    "name": "STIRR City Charleston Huntington",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityChattanooga.us",
+    "name": "STIRR City Chattanooga",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/7_v7qMjnQWGZShy2eOvR5g/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityChicoRedding.us",
+    "name": "STIRR City Chico-Redding",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/sHnor7AERX60rGA1kR_wPA/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityCincinnati.us",
+    "name": "STIRR City Cincinnati",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/ZaLvGYKiTfuSYgJuBZD67Q/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityColumbia.us",
+    "name": "STIRR City Columbia",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityColumbia.us",
+    "name": "STIRR City Columbia",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/nkNBP1eHT_GQwS7oYq23zw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
     "id": "STIRRCityColumbus1.us",
     "name": "STIRR City Columbus 1",
     "logo": "https://i.imgur.com/7JgPJxx.png",
     "url": "https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityColumbus2.us",
+    "name": "STIRR City Columbus 2",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityDayton.us",
+    "name": "STIRR City Dayton",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityElPaso1.us",
+    "name": "STIRR City El Paso 1",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/MYhAOCTqQA6QFBdc1xwULQ/master.m3u8",
     "website": "https://stirr.com/"
   },
   {
@@ -7945,10 +9051,80 @@
     "website": "https://stirr.com/"
   },
   {
+    "id": "STIRRCityEugeneSpringfield1.us",
+    "name": "STIRR City Eugene Springfield 1",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
     "id": "STIRRCityEugeneSpringfield2.us",
     "name": "STIRR City Eugene Springfield 2",
     "logo": "https://i.imgur.com/7JgPJxx.png",
     "url": "https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityFlorence.us",
+    "name": "STIRR City Florence",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityFresnoVisalia.us",
+    "name": "STIRR City Fresno-Visalia",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/tFAJ7xPcTYaLKwIfUA-JIw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityGainesville.us",
+    "name": "STIRR City Gainesville",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityGrandRapids.us",
+    "name": "STIRR City Grand Rapids",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/leOKmL9fQ6eZyhdoROSh5Q/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityGreenBay.us",
+    "name": "STIRR City Green Bay",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityGreenvilleAsheville.us",
+    "name": "STIRR City Greenville Asheville",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityGreenvilleNewBern.us",
+    "name": "STIRR City Greenville New Bern",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityHarrisburg.us",
+    "name": "STIRR City Harrisburg",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityHastings.us",
+    "name": "STIRR City Hastings",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/xtKyBDIFSZa6cT4Of9yaGQ/master.m3u8",
     "website": "https://stirr.com/"
   },
   {
@@ -7959,10 +9135,24 @@
     "website": "https://stirr.com/"
   },
   {
+    "id": "STIRRCityLasVegas.us",
+    "name": "STIRR City Las Vegas",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
     "id": "STIRRCityLewiston.us",
     "name": "STIRR City Lewiston",
     "logo": "https://i.imgur.com/7JgPJxx.png",
     "url": "https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityLittleRock.us",
+    "name": "STIRR City Little Rock",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8",
     "website": "https://stirr.com/"
   },
   {
@@ -7973,10 +9163,255 @@
     "website": "https://stirr.com/"
   },
   {
+    "id": "STIRRCityLynchburgRoanoke.us",
+    "name": "STIRR City Lynchburg Roanoke",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityMacon.us",
+    "name": "STIRR City Macon",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityMedford.us",
+    "name": "STIRR City Medford",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/1g9qH9IOSIGGwAqw8fPzmw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityMilwaukee.us",
+    "name": "STIRR City Milwaukee",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityMinneapolis.us",
+    "name": "STIRR City Minneapolis",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/0P8RZiJkSBWfVDtjy-IiIQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityMissoula.us",
+    "name": "STIRR City Missoula",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityNashville.us",
+    "name": "STIRR City Nashville",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/IG9ThaPaTwCojeoEWVNZRQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityNorfolkPortsmouth.us",
+    "name": "STIRR City Norfolk Portsmouth",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityOklahomaCity.us",
+    "name": "STIRR City Oklahoma City",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/pRd-k6tZSiCRsw_f51Vcvg/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityOttumwa.us",
+    "name": "STIRR City Ottumwa",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityPensacola.us",
+    "name": "STIRR City Pensacola",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityPittsburgh.us",
+    "name": "STIRR City Pittsburgh",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityPortland.us",
+    "name": "STIRR City Portland",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/npdISdLWSIa1E_j7NCUDBg/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityPortland.us",
+    "name": "STIRR City Portland",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/OaqAqJ0yQPiEIUIYqD7IGQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityProvidence.us",
+    "name": "STIRR City Providence",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityQuincy.us",
+    "name": "STIRR City Quincy",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityRaleighDurham.us",
+    "name": "STIRR City Raleigh Durham",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityReno.us",
+    "name": "STIRR City Reno",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/0Zb5SSQcTme6P7FYwwAwcQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityRochester.us",
+    "name": "STIRR City Rochester",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/FftwN8CLTnaX1pFHztXlYw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCitySaltLakeCity.us",
+    "name": "STIRR City Salt Lake City",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCitySanAntonio.us",
+    "name": "STIRR City San Antonio",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/TIQuLmldSj2SqS8y2ud9Xg/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCitySeattle.us",
+    "name": "STIRR City Seattle",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCitySiouxCity.us",
+    "name": "STIRR City Sioux City",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/0Uj4AmiOSw6oTX9ilyV2rQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
     "id": "STIRRCitySouthBend.us",
     "name": "STIRR City South Bend",
     "logo": "https://i.imgur.com/7JgPJxx.png",
     "url": "https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCitySpringfield2.us",
+    "name": "STIRR City Springfield 2",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityStLouis.us",
+    "name": "STIRR City St. Louis",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/O5W1HC47QEKGc5tyscvsLw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCitySyracuse.us",
+    "name": "STIRR City Syracuse",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityToledo.us",
+    "name": "STIRR City Toledo",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityTriCities.us",
+    "name": "STIRR City Tri-Cities",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityTulsa.us",
+    "name": "STIRR City Tulsa",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/5kbHZRGGS--RHp41xaUJHQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityWashingtonDC.us",
+    "name": "STIRR City Washington D.C.",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityWestPalmBeach.us",
+    "name": "STIRR City West Palm Beach",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityWheelingSteubenville.us",
+    "name": "STIRR City Wheeling Steubenville",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityWilkesBarreScranton.us",
+    "name": "STIRR City Wilkes Barre Scranton",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityYakimaPasco1.us",
+    "name": "STIRR City Yakima Pasco 1",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8",
+    "website": "https://stirr.com/"
+  },
+  {
+    "id": "STIRRCityYakimaPasco2.us",
+    "name": "STIRR City Yakima Pasco 2",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8",
     "website": "https://stirr.com/"
   },
   {
@@ -7987,6 +9422,27 @@
     "website": "http://ww1.stocktonca.gov/"
   },
   {
+    "id": "SunnaTV.ng",
+    "name": "Sunna TV",
+    "logo": "https://i.imgur.com/K2Snk2T.png",
+    "url": "https://webstreaming.viewmedia.tv/web_015/Stream/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "SuperscreenTV.ng",
+    "name": "Superscreen TV",
+    "logo": "https://i.imgur.com/uTNmSWE.png",
+    "url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
+    "website": "https://superscreen.tv/"
+  },
+  {
+    "id": "SuperSimpleSongs.us",
+    "name": "Super Simple Songs",
+    "logo": "https://i.imgur.com/3k4F7O9.png",
+    "url": "https://app.viloud.tv/hls/channel/fb6891b829df2ea6dd6968b506a8c393.m3u8",
+    "website": null
+  },
+  {
     "id": "SuperyachtTV.mc",
     "name": "Superyacht TV",
     "logo": "https://i.imgur.com/cgjgjE1.png",
@@ -7994,11 +9450,53 @@
     "website": "https://superyacht.tv/"
   },
   {
+    "id": "SupremeMasterTV.tw",
+    "name": "Supreme Master TV",
+    "logo": "https://i.imgur.com/kFMHayP.png",
+    "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+    "website": "http://suprememastertv.com/"
+  },
+  {
+    "id": "SwamijiTVAmerican.at",
+    "name": "Swamiji TV American",
+    "logo": "https://i.imgur.com/nrLcuzs.png",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8",
+    "website": "https://swamiji.tv/"
+  },
+  {
+    "id": "SwamijiTVAustralian.at",
+    "name": "Swamiji TV Australian",
+    "logo": "https://i.imgur.com/nrLcuzs.png",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8",
+    "website": "https://swamiji.tv/"
+  },
+  {
+    "id": "SwamijiTVEuropean.at",
+    "name": "Swamiji TV European",
+    "logo": "https://i.imgur.com/nrLcuzs.png",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8",
+    "website": "https://swamiji.tv/"
+  },
+  {
+    "id": "SwerveSports.us",
+    "name": "Swerve Sports",
+    "logo": "https://i.imgur.com/GT0Yi2T.png",
+    "url": "https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8",
+    "website": "https://www.swerve.tv/"
+  },
+  {
     "id": "SwerveSports.us",
     "name": "Swerve Sports",
     "logo": "https://i.imgur.com/GT0Yi2T.png",
     "url": "https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8",
     "website": "https://www.swerve.tv/"
+  },
+  {
+    "id": "SynagogueTV.ng",
+    "name": "Synagogue TV",
+    "logo": "https://i.imgur.com/MOaBr9M.png",
+    "url": "https://webstreaming.viewmedia.tv/web_038/Stream/playlist.m3u8",
+    "website": "https://synagoguetv.org/"
   },
   {
     "id": "TaiwanPlusTV.tw",
@@ -8015,18 +9513,18 @@
     "website": "https://www.taiwanplus.com"
   },
   {
+    "id": "TaiwanPlusTV.tw",
+    "name": "Taiwan Plus TV",
+    "logo": "https://i.imgur.com/SfcZyqm.png",
+    "url": "https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8",
+    "website": "https://www.taiwanplus.com"
+  },
+  {
     "id": "TalkTV.uk",
     "name": "TalkTV",
     "logo": "https://i.imgur.com/KxHWpQB.png",
     "url": "https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8",
     "website": "https://talk.tv/"
-  },
-  {
-    "id": "TanzaniaSafariChannel.tz",
-    "name": "Tanzania Safari Channel",
-    "logo": "https://i.imgur.com/fcLFYhn.png",
-    "url": "https://134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_0a6ef900ad0511ed8f65a940024f638d/index.m3u8",
-    "website": "https://tanzaniasafarichannel.go.tz/"
   },
   {
     "id": "TAPTVChannel23.us",
@@ -8043,10 +9541,38 @@
     "website": "https://www.cityoflompoc.com/government/departments/utilities/media-center/tap-tv"
   },
   {
+    "id": "TAPTVChannel25.us",
+    "name": "TAP TV Channel 25",
+    "logo": "https://i.imgur.com/5mhYHtD.png",
+    "url": "https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "website": "https://www.cityoflompoc.com/government/departments/utilities/media-center/tap-tv"
+  },
+  {
+    "id": "Tastemade.au",
+    "name": "Tastemade",
+    "logo": "https://i.imgur.com/rR7CLzZ.png",
+    "url": "https://tmint-aus-samsungau.amagi.tv/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "Tastemade.au",
+    "name": "Tastemade",
+    "logo": "https://i.imgur.com/rR7CLzZ.png",
+    "url": "https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8",
+    "website": null
+  },
+  {
     "id": "Tastemade.us",
     "name": "Tastemade",
     "logo": "https://i.imgur.com/xP7Ehn8.png",
     "url": "https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8",
+    "website": "https://www.tastemade.com/"
+  },
+  {
+    "id": "Tastemade.us",
+    "name": "Tastemade",
+    "logo": "https://i.imgur.com/xP7Ehn8.png",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8",
     "website": "https://www.tastemade.com/"
   },
   {
@@ -8068,6 +9594,13 @@
     "name": "Tastemade",
     "logo": "https://i.imgur.com/xP7Ehn8.png",
     "url": "https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8",
+    "website": "https://www.tastemade.com/"
+  },
+  {
+    "id": "Tastemade.us",
+    "name": "Tastemade",
+    "logo": "https://i.imgur.com/xP7Ehn8.png",
+    "url": "https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8",
     "website": "https://www.tastemade.com/"
   },
   {
@@ -8106,6 +9639,13 @@
     "website": null
   },
   {
+    "id": "TBNAfrica.za",
+    "name": "TBN Africa",
+    "logo": "https://i.imgur.com/6VjLFmR.png",
+    "url": "https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8",
+    "website": "https://www.tbnafrica.org/"
+  },
+  {
     "id": "TBNEast.us",
     "name": "TBN East",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/512px-TBN_logo_2015.jpg",
@@ -8120,11 +9660,25 @@
     "website": "https://www.tbninspire.org/"
   },
   {
+    "id": "TBNPacific.us",
+    "name": "TBN Pacific",
+    "logo": "https://i.imgur.com/yWJTxKk.png",
+    "url": "https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8",
+    "website": "https://www.tbnpacific.org.au/"
+  },
+  {
     "id": "TBNUK.uk",
     "name": "TBN UK",
     "logo": "https://i.imgur.com/vFllwLd.png",
     "url": "https://tbn-jw.cdn.vustreams.com/live/tbn-uk/live.isml/.m3u8",
     "website": "https://www.tbnuk.org/"
+  },
+  {
+    "id": "TBSEast.us",
+    "name": "TBS East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png",
+    "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TBSEast.us.m3u8",
+    "website": "http://www.tbs.com/"
   },
   {
     "id": "TBSEast.us",
@@ -8144,7 +9698,21 @@
     "id": "TCMEast.us",
     "name": "TCM East",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png",
+    "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TCMEast.us.m3u8",
+    "website": "https://www.tcm.com/"
+  },
+  {
+    "id": "TCMEast.us",
+    "name": "TCM East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png",
     "url": "http://143.244.60.30/TCM/index.m3u8",
+    "website": "https://www.tcm.com/"
+  },
+  {
+    "id": "TCMWest.us",
+    "name": "TCM West",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png",
+    "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TCMWest.us.m3u8",
     "website": "https://www.tcm.com/"
   },
   {
@@ -8169,6 +9737,20 @@
     "website": null
   },
   {
+    "id": "Tele7.es",
+    "name": "Tele 7",
+    "logo": "https://i.imgur.com/JcuV9ZE.png",
+    "url": "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8",
+    "website": "https://tele7.tv/"
+  },
+  {
+    "id": "TelemundoEast.us",
+    "name": "Telemundo East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+    "url": "http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8",
+    "website": "http://www.telemundo.com/"
+  },
+  {
     "id": "TelesurEnglish.ve",
     "name": "Telesur English",
     "logo": "https://comteco.com.bo/img/upload/canales/1yD2hc.png",
@@ -8179,8 +9761,29 @@
     "id": "Teletubbies.uk",
     "name": "Teletubbies",
     "logo": "https://i.imgur.com/J9iWjWL.png",
+    "url": "https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "Teletubbies.uk",
+    "name": "Teletubbies",
+    "logo": "https://i.imgur.com/J9iWjWL.png",
     "url": "https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8",
     "website": null
+  },
+  {
+    "id": "TemeculaTV.us",
+    "name": "Temecula TV",
+    "logo": "https://i.imgur.com/El16S4C.png",
+    "url": "https://reflect-temecula.cablecast.tv/live-2/live/live.m3u8",
+    "website": "https://temeculaca.gov/tv"
+  },
+  {
+    "id": "Tempe11.us",
+    "name": "Tempe 11",
+    "logo": "https://i.imgur.com/KMeHRV3.png",
+    "url": "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8",
+    "website": "https://www.tempe.gov/community/tempe-11"
   },
   {
     "id": "TempleTV.ng",
@@ -8188,6 +9791,20 @@
     "logo": "https://i.imgur.com/qy9Mutu.png",
     "url": "https://5a1178b42cc03.streamlock.net/jesustemple/jesustemple/playlist.m3u8",
     "website": "https://jctm.org/"
+  },
+  {
+    "id": "TennisChannel.us",
+    "name": "Tennis Channel",
+    "logo": "https://i.imgur.com/tsljAnY.png",
+    "url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8",
+    "website": "https://www.tennischannel.app/"
+  },
+  {
+    "id": "TennisChannel.us",
+    "name": "Tennis Channel",
+    "logo": "https://i.imgur.com/tsljAnY.png",
+    "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+    "website": "https://www.tennischannel.app/"
   },
   {
     "id": "TheArchive.us",
@@ -8221,6 +9838,13 @@
     "id": "TheBobRossChannel.us",
     "name": "The Bob Ross Channel",
     "logo": "https://i.imgur.com/gFHKCbZ.png",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8",
+    "website": "https://pluto.tv/en/live-tv/the-bob-ross-channel"
+  },
+  {
+    "id": "TheBobRossChannel.us",
+    "name": "The Bob Ross Channel",
+    "logo": "https://i.imgur.com/gFHKCbZ.png",
     "url": "https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8",
     "website": "https://pluto.tv/en/live-tv/the-bob-ross-channel"
   },
@@ -8236,6 +9860,13 @@
     "name": "The Bob Ross Channel",
     "logo": "https://i.imgur.com/gFHKCbZ.png",
     "url": "https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8",
+    "website": "https://pluto.tv/en/live-tv/the-bob-ross-channel"
+  },
+  {
+    "id": "TheBobRossChannel.us",
+    "name": "The Bob Ross Channel",
+    "logo": "https://i.imgur.com/gFHKCbZ.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8",
     "website": "https://pluto.tv/en/live-tv/the-bob-ross-channel"
   },
   {
@@ -8274,6 +9905,20 @@
     "website": "https://pluto.tv/en/live-tv/the-carol-burnett-show"
   },
   {
+    "id": "TheCityofMarina.us",
+    "name": "The City of Marina",
+    "logo": "https://i.imgur.com/ldyanxN.png",
+    "url": "https://livestream.telvue.com/ampmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "website": "https://accessmediaproductions.org/"
+  },
+  {
+    "id": "TheCountryNetwork.us",
+    "name": "The Country Network",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
+    "url": "https://cdn.tcncountry.net/scte35_aws/index.m3u8",
+    "website": null
+  },
+  {
     "id": "TheCountryNetwork.us",
     "name": "The Country Network",
     "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
@@ -8309,6 +9954,13 @@
     "website": "https://pluto.tv/en/live-tv/the-design-network"
   },
   {
+    "id": "TheDesignNetwork.us",
+    "name": "The Design Network",
+    "logo": "https://i.imgur.com/J5YJ3r3.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8",
+    "website": "https://pluto.tv/en/live-tv/the-design-network"
+  },
+  {
     "id": "TheFilmDetective.us",
     "name": "The Film Detective",
     "logo": "https://i.imgur.com/yfOwmsP.png",
@@ -8328,6 +9980,20 @@
     "logo": "https://i.imgur.com/yfOwmsP.png",
     "url": "https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8",
     "website": null
+  },
+  {
+    "id": "TheFirstTV.us",
+    "name": "The First TV",
+    "logo": "https://i.imgur.com/rOSlp93.png",
+    "url": "https://thefirst-distroscale.amagi.tv/index.m3u8",
+    "website": "https://pluto.tv/en/live-tv/the-first"
+  },
+  {
+    "id": "TheFirstTV.us",
+    "name": "The First TV",
+    "logo": "https://i.imgur.com/rOSlp93.png",
+    "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
+    "website": "https://pluto.tv/en/live-tv/the-first"
   },
   {
     "id": "TheGuardian.uk",
@@ -8358,6 +10024,13 @@
     "website": null
   },
   {
+    "id": "TheIslamicNetwork.tt",
+    "name": "The Islamic Network",
+    "logo": "https://i.imgur.com/EtQolw6.png",
+    "url": "http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8",
+    "website": null
+  },
+  {
     "id": "TheJamieOliverChannel.us",
     "name": "The Jamie Oliver Channel",
     "logo": "https://i.imgur.com/4v93XUB.png",
@@ -8365,11 +10038,25 @@
     "website": "https://www.xumo.tv/live-guide/the-jamie-oliver-channel"
   },
   {
+    "id": "TheMontereyChannel.us",
+    "name": "The Monterey Channel",
+    "logo": "https://i.imgur.com/400m3ow.png",
+    "url": "https://livestream.telvue.com/ampmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "website": "https://accessmediaproductions.org/"
+  },
+  {
     "id": "TheNest.us",
     "name": "The Nest",
     "logo": "https://iili.io/JGqD21e.png",
     "url": "https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8",
     "website": "http://watchthenest.com/watch-live"
+  },
+  {
+    "id": "TheNowNetwork.us",
+    "name": "The Now Network",
+    "logo": "https://i.imgur.com/Wp6d0F8.png",
+    "url": "https://link.frontlayer.com/services/hls2/fl619843/index.m3u8",
+    "website": null
   },
   {
     "id": "ThePeninsulaChannel.us",
@@ -8405,6 +10092,20 @@
     "logo": "https://i.imgur.com/yH7n2dF.png",
     "url": "https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8",
     "website": "https://pluto.tv/en/live-tv/the-pet-collective"
+  },
+  {
+    "id": "ThePetCollective.us",
+    "name": "The Pet Collective",
+    "logo": "https://i.imgur.com/yH7n2dF.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8",
+    "website": "https://pluto.tv/en/live-tv/the-pet-collective"
+  },
+  {
+    "id": "TheRetroChannel.pr",
+    "name": "The Retro Channel",
+    "logo": "https://i.imgur.com/t3i1HtE.jpg",
+    "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "website": "http://www.theretrochannel.tv/"
   },
   {
     "id": "TheRifleman.us",
@@ -8456,6 +10157,13 @@
     "website": "https://thornton.ompnetwork.org/"
   },
   {
+    "id": "tickerNews.au",
+    "name": "ticker News",
+    "logo": "https://i.imgur.com/z7M0QxV.png",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8",
+    "website": "https://tickernews.co/where-to-watch/"
+  },
+  {
     "id": "Timeline.us",
     "name": "Timeline",
     "logo": "https://i.imgur.com/PZRQvFv.png",
@@ -8466,14 +10174,21 @@
     "id": "Timeline.us",
     "name": "Timeline",
     "logo": "https://i.imgur.com/PZRQvFv.png",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "Timeline.us",
+    "name": "Timeline",
+    "logo": "https://i.imgur.com/PZRQvFv.png",
     "url": "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
     "website": null
   },
   {
-    "id": "TimeNews.pk",
-    "name": "Time News",
-    "logo": "https://i.imgur.com/iw0H5mA.png",
-    "url": "https://ythls.armelin.one/channel/UCnXxxqVgw9ttLiozpVPjHuw.m3u8",
+    "id": "Timeline.us",
+    "name": "Timeline",
+    "logo": "https://i.imgur.com/PZRQvFv.png",
+    "url": "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
     "website": null
   },
   {
@@ -8498,18 +10213,18 @@
     "website": "https://www.international.tbs.com/"
   },
   {
+    "id": "TNTSeries.mx",
+    "name": "TNT Series",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
+    "url": "http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8",
+    "website": "http://www.tntgo.tv/"
+  },
+  {
     "id": "TNTWest.us",
     "name": "TNT West",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",
     "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TNTWest.us.m3u8",
     "website": "https://www.international.tbs.com/"
-  },
-  {
-    "id": "TODAYAllDay.us",
-    "name": "TODAY All Day",
-    "logo": "https://i.imgur.com/LhbQ8Mr.png",
-    "url": "https://ythls.armelin.one/channel/UChDKyKQ59fYz3JO2fl0Z6sg.m3u8",
-    "website": "https://www.today.com/allday"
   },
   {
     "id": "TODAYAllDay.us",
@@ -8526,11 +10241,25 @@
     "website": "https://pluto.tv/en/live-tv/tokushoutsu"
   },
   {
+    "id": "ToonamiAftermathEast.us",
+    "name": "Toonami Aftermath East",
+    "logo": "https://i.imgur.com/aSjhZK7.png",
+    "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+    "website": "https://www.toonamiaftermath.com/"
+  },
+  {
     "id": "ToonGoggles.us",
     "name": "ToonGoggles",
     "logo": "https://i.imgur.com/JMnxswq.png",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8",
     "website": "https://www.toongoggles.com/"
+  },
+  {
+    "id": "TopStoriesbyNewsy.us",
+    "name": "Top Stories by Newsy",
+    "logo": "https://i.imgur.com/UfN6aAi.png",
+    "url": "https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8",
+    "website": null
   },
   {
     "id": "Toronto360TV.ca",
@@ -8582,6 +10311,13 @@
     "website": "http://www.travelxp.tv/"
   },
   {
+    "id": "Trigger.za",
+    "name": "Trigger",
+    "logo": "https://i.imgur.com/TrlrcWf.png",
+    "url": "https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8",
+    "website": "https://www.africaxp.com/"
+  },
+  {
     "id": "TRTWorld.tr",
     "name": "TRT World",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",
@@ -8601,13 +10337,6 @@
     "logo": "https://i.imgur.com/nDi2br7.png",
     "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8",
     "website": null
-  },
-  {
-    "id": "TrueCrimeNow.us",
-    "name": "True Crime Now",
-    "logo": "https://i.imgur.com/Y6Hix17.png",
-    "url": "https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8",
-    "website": "https://watch.plex.tv/live-tv/channel/true-crime-now"
   },
   {
     "id": "TrueHistory.us",
@@ -8680,6 +10409,13 @@
     "website": "https://www.bullheadcity.com/government/tv4"
   },
   {
+    "id": "TV360Nigeria.ng",
+    "name": "TV360 Nigeria",
+    "logo": "https://i.imgur.com/yJ3ivGa.png",
+    "url": "https://ythls.armelin.one/channel/UCBzu4YqGiBxBD8pq8NiBuKw.m3u8",
+    "website": "https://www.tv360nigeria.com/"
+  },
+  {
     "id": "TVBRICSEnglish.in",
     "name": "TV BRICS English",
     "logo": "https://i.imgur.com/8rKNuS6.png",
@@ -8694,11 +10430,11 @@
     "website": "https://www.tvcentertainment.tv/"
   },
   {
-    "id": "TVCNews.ng",
-    "name": "TVC News",
-    "logo": "https://i.imgur.com/jaSq18B.png",
-    "url": "https://ythls.armelin.one/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8",
-    "website": "https://tvcnews.tv/"
+    "id": "TVManaEnglish.pt",
+    "name": "TV Mana English",
+    "logo": "https://i.imgur.com/I66IkCw.png",
+    "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
+    "website": "https://tvmana-english.ar/"
   },
   {
     "id": "TVOne.us",
@@ -8708,17 +10444,17 @@
     "website": "https://tvone.tv/"
   },
   {
-    "id": "TVPanou.ht",
-    "name": "TV Panou",
-    "logo": "https://i.imgur.com/zee6sWn.png",
-    "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
+    "id": "TVRIWorld.id",
+    "name": "TVRI World",
+    "logo": "https://i.imgur.com/h3RldTO.png",
+    "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8",
     "website": null
   },
   {
     "id": "TVRIWorld.id",
     "name": "TVRI World",
     "logo": "https://i.imgur.com/h3RldTO.png",
-    "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
     "website": null
   },
   {
@@ -8729,10 +10465,31 @@
     "website": "https://www.itvsn.com.au/"
   },
   {
+    "id": "TVSN.au",
+    "name": "TVSN",
+    "logo": "https://i.imgur.com/lmoAFm3.png",
+    "url": "https://ythls.armelin.one/channel/UCo4sch-fwKIeyzyPIWRXjdw.m3u8",
+    "website": "https://www.itvsn.com.au/"
+  },
+  {
+    "id": "TVWest.ug",
+    "name": "TV West",
+    "logo": "https://i.imgur.com/EiJzkIz.png",
+    "url": "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
+    "website": "https://tvwest.co.ug/"
+  },
+  {
     "id": "UALRTV.us",
     "name": "UALR TV",
     "logo": "https://i.imgur.com/cTwdOtV.png",
     "url": "https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "UCTV.us",
+    "name": "UCTV",
+    "logo": "https://i.imgur.com/ehMz9T5.png",
+    "url": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8",
     "website": null
   },
   {
@@ -8741,6 +10498,13 @@
     "logo": "https://i.imgur.com/LmkNt3v.png",
     "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8",
     "website": null
+  },
+  {
+    "id": "UnitedTV.gh",
+    "name": "United TV",
+    "logo": "https://i.imgur.com/2isM8xd.png",
+    "url": "https://ythls.armelin.one/channel/UCA2f1lPcwYpBKA4JBMBHDSQ.m3u8",
+    "website": "http://utv.peacefmonline.com/"
   },
   {
     "id": "UnsolvedMysteries.us",
@@ -8757,10 +10521,24 @@
     "website": null
   },
   {
+    "id": "UrbanTV.ug",
+    "name": "Urban TV",
+    "logo": "https://i.imgur.com/cCcr8Xs.png",
+    "url": "https://stream.hydeinnovations.com/urban-flussonic/index.m3u8",
+    "website": "https://urbantv.co.ug/"
+  },
+  {
     "id": "USATODAY.us",
     "name": "USA TODAY",
     "logo": "https://i.imgur.com/37K0AZX.png",
     "url": "https://lnc-usa-today.tubi.video/playlist.m3u8",
+    "website": "https://www.usatoday.com/"
+  },
+  {
+    "id": "USATODAY.us",
+    "name": "USA TODAY",
+    "logo": "https://i.imgur.com/37K0AZX.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8",
     "website": "https://www.usatoday.com/"
   },
   {
@@ -8769,6 +10547,27 @@
     "logo": "https://i.imgur.com/yN4e2up.png",
     "url": "https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8",
     "website": "https://utv.co.ke/"
+  },
+  {
+    "id": "UvagutTV.ca",
+    "name": "Uvagut TV",
+    "logo": "https://i.imgur.com/RR7ATr2.png",
+    "url": "https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
+    "website": "http://uvagut.tv/"
+  },
+  {
+    "id": "V2BEATTV.uk",
+    "name": "V2BEAT TV",
+    "logo": "https://i.imgur.com/PXGqyLn.png",
+    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+    "website": "https://www.vibee.tv/"
+  },
+  {
+    "id": "V2BEATTV.uk",
+    "name": "V2BEAT TV",
+    "logo": "https://i.imgur.com/PXGqyLn.png",
+    "url": "https://de1se01.v2beat.live/playlist.m3u8",
+    "website": "https://www.vibee.tv/"
   },
   {
     "id": "VAMTV.cw",
@@ -8783,6 +10582,27 @@
     "logo": "https://i.imgur.com/KMUYfnz.jpg",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8",
     "website": null
+  },
+  {
+    "id": "VCAT.us",
+    "name": "VCAT",
+    "logo": "https://i.imgur.com/OrRSj8q.png",
+    "url": "https://vallejo.cablecast.tv/live-3/live/live.m3u8",
+    "website": "https://vcat.tv/"
+  },
+  {
+    "id": "Vevo80s.us",
+    "name": "Vevo '80s",
+    "logo": "https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
+    "website": "https://pluto.tv/en/live-tv/vevo-80s"
+  },
+  {
+    "id": "VevoPop.us",
+    "name": "Vevo Pop",
+    "logo": "https://i.imgur.com/dZHktKR.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
+    "website": "https://pluto.tv/en/live-tv/vevo-pop"
   },
   {
     "id": "VICETV.us",
@@ -8820,11 +10640,25 @@
     "website": null
   },
   {
+    "id": "VoyagerDocumentaries.us",
+    "name": "Voyager Documentaries",
+    "logo": "https://i.imgur.com/bbqk8XO.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8",
+    "website": "https://pluto.tv/en/live-tv/xive-tv"
+  },
+  {
     "id": "VSiN.us",
     "name": "VSiN",
     "logo": "https://i.imgur.com/C4wIRxg.png",
     "url": "https://stream.rcncdn.com/live/vsinproxy.m3u8",
     "website": "https://www.vsin.com/livestream/"
+  },
+  {
+    "id": "VyasChannel.in",
+    "name": "Vyas Channel",
+    "logo": "https://i.ibb.co/WVyjqrX/in-vyas-channel-5512.jpg",
+    "url": "https://hls.media.nic.in/hls/live/vyas/vyas.m3u8",
+    "website": "https://cec.nic.in/cec/vyas"
   },
   {
     "id": "W14DKD1.us",
@@ -8848,11 +10682,60 @@
     "website": "https://tvdelmarva.com/"
   },
   {
+    "id": "W14DKD5.us",
+    "name": "W14DK-D5",
+    "logo": "https://i.imgur.com/D4mZ8ll.png",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8",
+    "website": "https://tvdelmarva.com/"
+  },
+  {
+    "id": "W14DKD7.us",
+    "name": "W14DK-D7",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/amlst:204972-3078008/playlist.m3u8",
+    "website": "https://tvdelmarva.com/"
+  },
+  {
+    "id": "WABCDT1.us",
+    "name": "WABC-DT1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",
+    "url": "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8",
+    "website": "https://abc7ny.com/"
+  },
+  {
     "id": "WAGADT1.us",
     "name": "WAGA-DT1",
     "logo": "https://i.imgur.com/DcZoeGw.jpg",
     "url": "https://lnc-waga.tubi.video/index.m3u8",
     "website": "http://www.fox5atlanta.com/"
+  },
+  {
+    "id": "WairarapaTV.nz",
+    "name": "Wairarapa TV",
+    "logo": "https://i.imgur.com/xm4KBwE.png",
+    "url": "https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8",
+    "website": "http://www.wairarapatv.co.nz/"
+  },
+  {
+    "id": "WairarapaTV.nz",
+    "name": "Wairarapa TV",
+    "logo": "https://i.imgur.com/xm4KBwE.png",
+    "url": "https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8",
+    "website": "http://www.wairarapatv.co.nz/"
+  },
+  {
+    "id": "WanLuoTV.ug",
+    "name": "Wan Luo TV",
+    "logo": "https://i.imgur.com/4PUUp3E.png",
+    "url": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8",
+    "website": null
+  },
+  {
+    "id": "WantedDeadorAlive.us",
+    "name": "Wanted: Dead or Alive",
+    "logo": "https://i.imgur.com/vaSXaFp.png",
+    "url": "https://lnc-wanted-dead-or-alive.tubi.video/playlist.m3u8",
+    "website": "https://pluto.tv/en/live-tv/wanted-dead-or-alive"
   },
   {
     "id": "WAPTDT1.us",
@@ -8869,6 +10752,20 @@
     "website": "https://waptvchannel.com/"
   },
   {
+    "id": "WATCDT1.us",
+    "name": "WATC-DT1",
+    "logo": "https://i.imgur.com/FhIRe7O.png",
+    "url": "https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8",
+    "website": "http://www.watc.tv/"
+  },
+  {
+    "id": "WATCDT2.us",
+    "name": "WATC-DT2",
+    "logo": "https://i.imgur.com/RAfuLul.png",
+    "url": "https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8",
+    "website": "https://watc.tv/watc-57-2-stream/"
+  },
+  {
     "id": "WaypointTV.us",
     "name": "Waypoint TV",
     "logo": "https://i.imgur.com/9vvlJN9.png",
@@ -8876,11 +10773,39 @@
     "website": "https://waypointtv.com/"
   },
   {
+    "id": "WazobiaMaxTVAbuja.ng",
+    "name": "Wazobia Max TV Abuja",
+    "logo": "https://i.imgur.com/XYMKPPT.png",
+    "url": "https://wazobia.live:8333/channel/wmaxabuja.m3u8",
+    "website": "https://www.wazobiamax.ng/abuja"
+  },
+  {
+    "id": "WazobiaMaxTVNigeria.ng",
+    "name": "Wazobia Max TV Nigeria",
+    "logo": "https://i.imgur.com/IeioxBp.png",
+    "url": "https://wazobia.live:8333/channel/wmax.m3u8",
+    "website": "https://www.wazobiamax.ng/"
+  },
+  {
+    "id": "WazobiaMaxTVPortHarcourt.ng",
+    "name": "Wazobia Max TV Port-Harcourt",
+    "logo": "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
+    "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
+    "website": "https://www.wazobiamax.ng/ph"
+  },
+  {
     "id": "WBALDT1.us",
     "name": "WBAL-DT1",
     "logo": "https://upload.wikimedia.org/wikipedia/en/5/54/WBAL_Horizontal_Logo_2013.png",
     "url": "https://lnc-wbal.tubi.video/playlist.m3u8",
     "website": "http://www.wbaltv.com/"
+  },
+  {
+    "id": "WBBJDT1.us",
+    "name": "WBBJ-DT1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+    "url": "https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8",
+    "website": "http://www.wbbjtv.com/"
   },
   {
     "id": "WBNSDT1.us",
@@ -8894,6 +10819,13 @@
     "name": "WCAT-DT3",
     "logo": "https://i.imgur.com/1odhDRE.png",
     "url": "https://frontdoor.wcat-tv.org:8787/live/live.m3u8",
+    "website": "https://www.wcat-tv.org/"
+  },
+  {
+    "id": "WCATDT15.us",
+    "name": "WCAT-DT15",
+    "logo": "https://i.imgur.com/1odhDRE.png",
+    "url": "https://edu-live-cdn-profile-gkbsd5a7cmeqcwcj.z01.azurefd.net/live/live.m3u8",
     "website": "https://www.wcat-tv.org/"
   },
   {
@@ -8916,6 +10848,20 @@
     "logo": "https://i.imgur.com/q7UPbEG.png",
     "url": "https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8",
     "website": "https://www.wcgtv.ca/"
+  },
+  {
+    "id": "WCNCDT1.us",
+    "name": "WCNC-DT1",
+    "logo": "https://i.imgur.com/ppYd4Md.png",
+    "url": "https://livevideo.tegnadigital.com/wcnc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC/elvs/live.m3u8",
+    "website": "http://www.wcnc.com/"
+  },
+  {
+    "id": "WCPODT1.us",
+    "name": "WCPO-DT1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WCPO-TV_logo_2020.png/512px-WCPO-TV_logo_2020.png",
+    "url": "https://lnc-wcpo.tubi.video/playlist.m3u8",
+    "website": "https://www.wcpo.com/"
   },
   {
     "id": "WCVBDT1.us",
@@ -8967,6 +10913,13 @@
     "website": "https://www.weatherspy.tv/"
   },
   {
+    "id": "WeHoTV.us",
+    "name": "WeHoTV",
+    "logo": "https://i.imgur.com/p3L2vSL.png",
+    "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8",
+    "website": "https://www.weho.org/city-government/wehotv"
+  },
+  {
     "id": "WESHDT1.us",
     "name": "WESH-DT1",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
@@ -8986,6 +10939,13 @@
     "logo": "https://i.imgur.com/sUonBr6.png",
     "url": "https://lnc-wews2.tubi.video/playlist.m3u8",
     "website": "https://www.news5cleveland.com/"
+  },
+  {
+    "id": "WFAADT1.us",
+    "name": "WFAA-DT1",
+    "logo": "https://i.imgur.com/3dK1ocU.png",
+    "url": "https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8",
+    "website": "http://www.wfaa.com/"
   },
   {
     "id": "WFAADT1.us",
@@ -9014,6 +10974,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png",
     "url": "https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8",
     "website": "http://www.wfmz.com/"
+  },
+  {
+    "id": "WFSUDT2.us",
+    "name": "WFSU-DT2",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png",
+    "url": "https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8",
+    "website": "https://thefloridachannel.org/"
   },
   {
     "id": "WFTSDT1.us",
@@ -9107,6 +11074,48 @@
     "website": "https://www.wionews.com/"
   },
   {
+    "id": "WION.in",
+    "name": "WION",
+    "logo": "https://i.imgur.com/Wc5Z3iS.png",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+    "website": "https://www.wionews.com/"
+  },
+  {
+    "id": "WION.in",
+    "name": "WION",
+    "logo": "https://i.imgur.com/Wc5Z3iS.png",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8",
+    "website": "https://www.wionews.com/"
+  },
+  {
+    "id": "WION.in",
+    "name": "WION",
+    "logo": "https://i.imgur.com/Wc5Z3iS.png",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8",
+    "website": "https://www.wionews.com/"
+  },
+  {
+    "id": "WION.in",
+    "name": "WION",
+    "logo": "https://i.imgur.com/Wc5Z3iS.png",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8",
+    "website": "https://www.wionews.com/"
+  },
+  {
+    "id": "WION.in",
+    "name": "WION",
+    "logo": "https://i.imgur.com/Wc5Z3iS.png",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8",
+    "website": "https://www.wionews.com/"
+  },
+  {
+    "id": "WION.in",
+    "name": "WION",
+    "logo": "https://i.imgur.com/Wc5Z3iS.png",
+    "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
+    "website": "https://www.wionews.com/"
+  },
+  {
     "id": "WipeoutXtra.us",
     "name": "Wipeout Xtra",
     "logo": "https://i.imgur.com/UDeCRW1.png",
@@ -9126,6 +11135,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
     "url": "https://lnc-wisn.tubi.video/playlist.m3u8",
     "website": "http://www.wisn.com/"
+  },
+  {
+    "id": "WITIDT1.us",
+    "name": "WITI-DT1",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/WITI_2020_Logo.svg/512px-WITI_2020_Logo.svg.png",
+    "url": "https://lnc-witi.tubi.video/index.m3u8",
+    "website": "http://www.fox6now.com/"
   },
   {
     "id": "WITN22.us",
@@ -9170,6 +11186,27 @@
     "website": "http://www.ket.org/"
   },
   {
+    "id": "WKMJDT3.us",
+    "name": "WKMJ-DT3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "WKPCDT2.us",
+    "name": "WKPC-DT2",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png",
+    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "WKPCDT3.us",
+    "name": "WKPC-DT3",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png",
+    "url": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8",
+    "website": null
+  },
+  {
     "id": "WLCT96.us",
     "name": "WLCT96",
     "logo": "https://i.imgur.com/ooby0ka.png",
@@ -9189,6 +11226,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
     "url": "https://lnc-wlky.tubi.video/playlist.m3u8",
     "website": "http://www.wlky.com/"
+  },
+  {
+    "id": "WLNGRadio.us",
+    "name": "WLNG Radio",
+    "logo": "https://i.imgur.com/11r6tgW.png",
+    "url": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8",
+    "website": null
   },
   {
     "id": "WLSDT1.us",
@@ -9286,6 +11330,13 @@
     "name": "Wonder",
     "logo": "https://i.imgur.com/LquGNbh.png",
     "url": "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+    "website": null
+  },
+  {
+    "id": "Wonder.uk",
+    "name": "Wonder",
+    "logo": "https://i.imgur.com/LquGNbh.png",
+    "url": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
     "website": null
   },
   {
@@ -9392,6 +11443,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
     "url": "https://lnc-wptz.tubi.video/playlist.m3u8",
     "website": "http://www.wptz.com/"
+  },
+  {
+    "id": "WPVIDT1.us",
+    "name": "WPVI-DT1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+    "url": "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8",
+    "website": "https://6abc.com/"
   },
   {
     "id": "WRTVDT1.us",

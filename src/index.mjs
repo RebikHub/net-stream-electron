@@ -21,7 +21,10 @@ function createWindow() {
     height: 600,
     webPreferences: {
       nodeIntegration: true,
-      contextIsolation: true, // Рекомендуется включить contextIsolation
+      contextIsolation: false,
+      enableBlinkFeatures: "AudioVideoTracks",
+      enableRemoteModule: true,
+      backgroundThrottling: false,
       contentSecurityPolicy: "default-src 'self';",
       // contentSecurityPolicy:
       //   "default-src 'self' 'unsafe-inline' 'unsafe-eval';",
@@ -34,7 +37,7 @@ function createWindow() {
 
   mainWindow.loadFile(path.join(__dirname, "index.html"));
 
-  // mainWindow.webContents.openDevTools();
+  mainWindow.webContents.openDevTools();
 
   mainWindow.on("closed", () => (mainWindow = null));
 

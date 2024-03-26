@@ -3,7 +3,7 @@ import parseTorrent from "parse-torrent";
 
 import axios from "axios";
 import * as cheerio from "cheerio";
-import { FILTER_ARRAY, TORRENT_URLS } from "../../config.js";
+import { FILTER_ARRAY } from "../../config.js";
 import { getBaseUrl } from "../../utils/getBaseUrl.js";
 
 export const getSearchMovie = async (req, res) => {
@@ -36,7 +36,7 @@ export const postSearchMagnet = async (req, res) => {
 
 export const movieSearch = async (req, res) => {
   const { movie, filter } = req.params;
-  const BASE_URL = await getBaseUrl(TORRENT_URLS);
+  const BASE_URL = await getBaseUrl();
 
   try {
     const searchResult = await axios.get(
@@ -88,7 +88,7 @@ export const movieSearch = async (req, res) => {
 
 export const magnetSearch = async (req, res) => {
   const data = req.body;
-  const BASE_URL = await getBaseUrl(TORRENT_URLS);
+  const BASE_URL = await getBaseUrl();
   try {
     const searchResult = await axios.get(`${BASE_URL}${data.data}`);
     const $ = cheerio.load(searchResult.data);

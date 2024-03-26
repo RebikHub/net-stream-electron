@@ -4228,6 +4228,13 @@
     "website": ""
   },
   {
+    "id": "https://tvsw4-hls.secdn.net/tvsw4-chorigin/play/prod-ee2570f630944d15992df8863b9283cc/playlist.m3u8",
+    "name": "https://tvsw4-hls.secdn.net/tvsw4-chorigin/play/prod-ee2570f630944d15992df8863b9283cc/playlist.m3u8",
+    "logo": "",
+    "url": "https://tvsw4-hls.secdn.net/tvsw4-chorigin/play/prod-ee2570f630944d15992df8863b9283cc/playlist.m3u8",
+    "website": ""
+  },
+  {
     "id": "https://www.televinterserver.com:19360/crtvcholuteca/crtvcholuteca.m3u8",
     "name": "https://www.televinterserver.com:19360/crtvcholuteca/crtvcholuteca.m3u8",
     "logo": "",
@@ -4914,13 +4921,6 @@
     "website": ""
   },
   {
-    "id": "http://camera.global-x.ru/MirUvlecheniy/index.m3u8",
-    "name": "http://camera.global-x.ru/MirUvlecheniy/index.m3u8",
-    "logo": "",
-    "url": "http://camera.global-x.ru/MirUvlecheniy/index.m3u8",
-    "website": ""
-  },
-  {
     "id": "https://api.alpaca.t62a.com/hls/9114/index.m3u8",
     "name": "https://api.alpaca.t62a.com/hls/9114/index.m3u8",
     "logo": "",
@@ -4956,20 +4956,6 @@
     "website": ""
   },
   {
-    "id": "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8",
-    "name": "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8",
-    "logo": "",
-    "url": "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://tvoetv.space:8080/tvoetv/index.m3u8",
-    "name": "http://tvoetv.space:8080/tvoetv/index.m3u8",
-    "logo": "",
-    "url": "http://tvoetv.space:8080/tvoetv/index.m3u8",
-    "website": ""
-  },
-  {
     "id": "http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8",
     "name": "http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8",
     "logo": "",
@@ -4981,27 +4967,6 @@
     "name": "https://api.alpaca.t62a.com/hls/9116/index.m3u8",
     "logo": "",
     "url": "https://api.alpaca.t62a.com/hls/9116/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
-    "name": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
-    "logo": "",
-    "url": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8",
-    "name": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8",
-    "logo": "",
-    "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8",
-    "website": ""
-  },
-  {
-    "id": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
-    "name": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
-    "logo": "",
-    "url": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
     "website": ""
   },
   {

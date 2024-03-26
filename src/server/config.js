@@ -6,6 +6,7 @@ export const PORT = process.env.PORT || 8000;
 console.log(__dirname);
 export const WEBTORRENT_DOWNLOAD_PATH = path.join(__dirname, "/downloads");
 export const CONTENT_TV = path.join(__dirname, "/content/tv");
+export const CONTENT_URLS = path.join(__dirname, "/content/urls");
 export const TV_CHANNELS_URL = "https://iptv-org.github.io/api/channels.json";
 export const TV_STREAMS_URL = "https://iptv-org.github.io/api/streams.json";
 export const RUTOR_URL = "https://rutor.org";
