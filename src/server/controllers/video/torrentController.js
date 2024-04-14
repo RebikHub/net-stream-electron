@@ -2,6 +2,7 @@ import WebTorrent from "webtorrent";
 import { readJsonId } from "../../utils/readJson.js";
 import { WEBTORRENT_DOWNLOAD_PATH } from "../../config.js";
 import fs from "fs";
+import { spawn } from "../../utils/startVLC.js";
 
 const client = new WebTorrent();
 
@@ -222,13 +223,20 @@ export const streamVideo = async (req, res, next) => {
       console.log("stream-end");
       res.end(); // Закрыть поток после завершения передачи данных
     });
-
-    res.on("close", () => {
-      console.log("response-closed");
-      stream.destroy(); // В случае, если клиент закрыл соединение, уничтожить поток
-    });
   }
 };
+
+export const startPlayer = async (req, res) => {
+  const { magnet, name } = req.params
+
+  try {
+    spawn(magnet, name);
+    res.status(200).end()
+  } catch (error) {
+    res.status(403).send(`Error start player: ${error}`);
+  }
+
+}
 
 export const stopStream = async (req, res, next) => {
   const infoHash = req.params.infoHash;

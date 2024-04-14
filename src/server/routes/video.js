@@ -6,6 +6,7 @@ import {
   streamVideo,
   addMagnet,
   stopStream,
+  startPlayer,
 } from "../controllers/video/torrentController.js";
 
 const router = Router();
@@ -21,5 +22,7 @@ router.get("/stream/add/:magnet", addMagnet);
 router.get("/stream/stop/:infoHash", stopStream);
 
 router.get("/stream/:infoHash/:name", streamVideo);
+
+router.get("/stream/start/:magnet/:name", startPlayer)
 
 export default router;
