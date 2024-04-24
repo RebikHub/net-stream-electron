@@ -1,10 +1,10 @@
-import fs from "fs-extra";
-import path from "path";
+import fs from 'fs-extra'
+import path from 'path'
 
 // Функция для очистки содержимого папки с проверкой на наличие файлов
-export function clearFolder(folderName) {
+export function clearFolder (folderName) {
   // Получаем текущий рабочий каталог
-  const currentDirectory = process.cwd();
+  const currentDirectory = process.cwd()
 
   // Создаем полный путь к папке
   // const folderPath = path.join(currentDirectory, folderName);
@@ -12,8 +12,8 @@ export function clearFolder(folderName) {
   // Получаем список файлов в папке
   fs.readdir(folderName, (err, files) => {
     if (err) {
-      console.error(`Ошибка при чтении содержимого папки ${folderName}:`, err);
-      return;
+      console.error(`Ошибка при чтении содержимого папки ${folderName}:`, err)
+      return
     }
 
     // Проверяем, есть ли файлы в папке
@@ -23,14 +23,14 @@ export function clearFolder(folderName) {
           console.error(
             `Ошибка при очистке содержимого папки ${folderName}:`,
             err
-          );
+          )
         } else {
-          console.log(`Содержимое папки ${folderName} успешно очищено.`);
+          console.log(`Содержимое папки ${folderName} успешно очищено.`)
         }
-      });
+      })
     } else {
       // Очищаем содержимое папки (без удаления самой папки)
-      console.log(`В папке ${folderName} нет файлов. Нечего чистить.`);
+      console.log(`В папке ${folderName} нет файлов. Нечего чистить.`)
     }
-  });
+  })
 }

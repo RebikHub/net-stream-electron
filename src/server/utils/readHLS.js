@@ -1,57 +1,57 @@
-import { readFile, writeFile } from 'fs';
+import { readFile, writeFile } from 'fs'
 
-function parseM3U(content) {
-  const lines = content.split('\n');
-  const playlist = [];
-  let currentEntry = {};
+function parseM3U (content) {
+  const lines = content.split('\n')
+  const playlist = []
+  let currentEntry = {}
 
   for (const line of lines) {
     if (line.startsWith('#EXTINF:')) {
-      const [, metadataString, title] = line.match(/^#EXTINF:(.*),(.*)$/);
-      const metadataPairs = metadataString.match(/(\w+="[^"]*")/g);
+      const [, metadataString, title] = line.match(/^#EXTINF:(.*),(.*)$/)
+      const metadataPairs = metadataString.match(/(\w+="[^"]*")/g)
 
-      const metadataObject = {};
+      const metadataObject = {}
       for (const pair of metadataPairs) {
-        const [key, value] = pair.split('=');
-        const trimmedKey = key.replace(/"/g, '');
-        const trimmedValue = value.replace(/"/g, '');
-        metadataObject[trimmedKey] = trimmedValue;
+        const [key, value] = pair.split('=')
+        const trimmedKey = key.replace(/"/g, '')
+        const trimmedValue = value.replace(/"/g, '')
+        metadataObject[trimmedKey] = trimmedValue
       }
 
-      currentEntry.duration = metadataObject;
-      currentEntry.title = title;
+      currentEntry.duration = metadataObject
+      currentEntry.title = title
     } else if (line && !line.startsWith('#')) {
-      currentEntry.url = line;
-      playlist.push(currentEntry);
-      currentEntry = {};
+      currentEntry.url = line
+      playlist.push(currentEntry)
+      currentEntry = {}
     }
   }
 
-  return playlist;
+  return playlist
 }
 
-export async function playlistJson() {
+export async function playlistJson () {
   return new Promise((resolve, reject) => {
     readFile('./src/m3u/index.language.m3u', 'utf8', (err, data) => {
       if (err) {
-        console.error('Error reading the file:', err);
+        console.error('Error reading the file:', err)
         reject()
-        return;
+        return
       }
 
-      const playlist = parseM3U(data);
-      const jsonOutput = JSON.stringify(playlist, null, 2);
+      const playlist = parseM3U(data)
+      const jsonOutput = JSON.stringify(playlist, null, 2)
 
       writeFile('./src/m3u/playlist.json', jsonOutput, 'utf8', (err) => {
         if (err) {
-          console.error('Error writing JSON to file:', err);
+          console.error('Error writing JSON to file:', err)
           reject()
-          return;
+          return
         }
         resolve()
-        console.log('Conversion complete. JSON playlist saved as playlist.json');
-      });
-    });
+        console.log('Conversion complete. JSON playlist saved as playlist.json')
+      })
+    })
   })
 }
 
