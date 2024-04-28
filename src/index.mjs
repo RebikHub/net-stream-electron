@@ -5,6 +5,7 @@ import fs from 'fs'
 import appExpress from './server/app.js'
 import { PORT } from './server/config.js'
 // import { clearFolder } from './server/utils/clearFolder.js'
+import squirrel from 'electron-squirrel-startup'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
@@ -58,6 +59,10 @@ function createWindow () {
   mainWindow.on('leave-full-screen', () => {
     mainWindow.setMenuBarVisibility(true)
   })
+}
+
+if (squirrel) {
+  app.quit()
 }
 
 app.on('ready', createWindow)
