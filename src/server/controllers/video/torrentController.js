@@ -1,8 +1,9 @@
 import WebTorrent from 'webtorrent'
 import { readJsonId } from '../../utils/readJson.js'
-import { WEBTORRENT_DOWNLOAD_PATH } from '../../config.js'
+// import { WEBTORRENT_DOWNLOAD_PATH } from '../../config.js'
 import fs from 'fs'
 import { spawn } from '../../utils/startVLC.js'
+import { WEBTORRENT_DOWNLOAD_PATH } from '../../../index.mjs'
 
 const client = new WebTorrent()
 

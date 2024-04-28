@@ -3,16 +3,18 @@ import path, { dirname } from 'path'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 import appExpress from './server/app.js'
-import { PORT, WEBTORRENT_DOWNLOAD_PATH } from './server/config.js'
-import { clearFolder } from './server/utils/clearFolder.js'
+import { PORT } from './server/config.js'
+// import { clearFolder } from './server/utils/clearFolder.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 let mainWindow
 
+export const WEBTORRENT_DOWNLOAD_PATH = fs.mkdtempSync(path.join(app.getPath('temp'), 'stream-downloads'))
+
 appExpress.listen(PORT, () => {
-  clearFolder(WEBTORRENT_DOWNLOAD_PATH)
+  // clearFolder(WEBTORRENT_DOWNLOAD_PATH)
   console.log(`Server is running on port ${PORT}`)
 })
 
@@ -39,9 +41,9 @@ function createWindow () {
   // Создаем директорию, если она не существует
   console.log(fs.existsSync(WEBTORRENT_DOWNLOAD_PATH))
 
-  if (!fs.existsSync(WEBTORRENT_DOWNLOAD_PATH)) {
-    fs.mkdirSync(WEBTORRENT_DOWNLOAD_PATH)
-  }
+  // if (!fs.existsSync(WEBTORRENT_DOWNLOAD_PATH)) {
+  //   fs.mkdirSync(WEBTORRENT_DOWNLOAD_PATH)
+  // }
 
   mainWindow.loadFile(path.join(__dirname, 'index.html'))
 
@@ -62,7 +64,17 @@ app.on('ready', createWindow)
 
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') {
-    clearFolder(WEBTORRENT_DOWNLOAD_PATH)
+    // clearFolder(WEBTORRENT_DOWNLOAD_PATH)
+    fs.readdir(WEBTORRENT_DOWNLOAD_PATH, (err, files) => {
+      if (err) throw err
+
+      files.forEach(file => {
+        fs.unlink(path.join(WEBTORRENT_DOWNLOAD_PATH, file), err => {
+          if (err) throw err
+          console.log(`${file} deleted successfully!`)
+        })
+      })
+    })
     app.quit()
   }
 })
@@ -71,4 +83,17 @@ app.on('activate', () => {
   if (mainWindow === null) {
     createWindow()
   }
+})
+
+app.on('before-quit', () => {
+  fs.readdir(WEBTORRENT_DOWNLOAD_PATH, (err, files) => {
+    if (err) throw err
+
+    files.forEach(file => {
+      fs.unlink(path.join(WEBTORRENT_DOWNLOAD_PATH, file), err => {
+        if (err) throw err
+        console.log(`${file} deleted successfully!`)
+      })
+    })
+  })
 })

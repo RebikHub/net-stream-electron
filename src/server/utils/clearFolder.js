@@ -1,10 +1,10 @@
 import fs from 'fs-extra'
-import path from 'path'
+// import path from 'path'
 
 // Функция для очистки содержимого папки с проверкой на наличие файлов
 export function clearFolder (folderName) {
   // Получаем текущий рабочий каталог
-  const currentDirectory = process.cwd()
+  // const currentDirectory = process.cwd()
 
   // Создаем полный путь к папке
   // const folderPath = path.join(currentDirectory, folderName);

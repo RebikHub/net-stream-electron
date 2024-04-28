@@ -1,7 +1,8 @@
 import cp from 'child_process'
 import vlcCommand from 'vlc-command'
 import path from 'path'
-import { WEBTORRENT_DOWNLOAD_PATH } from '../config.js'
+import { WEBTORRENT_DOWNLOAD_PATH } from '../../index.mjs'
+// import { WEBTORRENT_DOWNLOAD_PATH } from '../config.js'
 
 let proc = null
 
