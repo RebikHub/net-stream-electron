@@ -1,14 +1,9 @@
 import cp from 'child_process'
 import vlcCommand from 'vlc-command'
-import path from 'path'
-import { WEBTORRENT_DOWNLOAD_PATH } from '../../index.mjs'
-// import { WEBTORRENT_DOWNLOAD_PATH } from '../config.js'
 
 let proc = null
 
 export function spawn (url, title = '') {
-  const movieUrl = path.join(WEBTORRENT_DOWNLOAD_PATH, url)
-
   vlcCommand((err, vlcPath) => {
     if (err) {
       console.error('Error getting VLC path:', err)
@@ -18,8 +13,7 @@ export function spawn (url, title = '') {
     const args = [
       '--play-and-exit',
       '--quiet',
-      `--meta-title=${JSON.stringify(title)}`,
-      movieUrl
+      url.includes(' ') ? encodeURIComponent(url) : url
     ]
 
     spawnExternal(vlcPath, args)
@@ -34,8 +28,6 @@ export function kill () {
 }
 
 export function spawnExternal (playerPath, args) {
-  console.log('Running external media player:', `${playerPath} ${args.join(' ')}`)
-
   proc = cp.spawn(playerPath, args, { stdio: 'ignore' })
 
   proc.on('close', code => {

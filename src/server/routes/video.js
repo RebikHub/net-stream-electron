@@ -23,6 +23,6 @@ router.get('/stream/stop/:infoHash', stopStream)
 
 router.get('/stream/:infoHash/:name', streamVideo)
 
-router.get('/stream/start/:magnet/:name', startPlayer)
+router.get('/stream/start/:link/:name', startPlayer)
 
 export default router

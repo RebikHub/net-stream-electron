@@ -4,20 +4,25 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 import appExpress from './server/app.js'
 import { PORT } from './server/config.js'
-// import { clearFolder } from './server/utils/clearFolder.js'
 import squirrel from 'electron-squirrel-startup'
+import { clearFolder } from './server/utils/clearFolder.js'
+import { createFolder } from './server/utils/createFolder.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 let mainWindow
 
-export const WEBTORRENT_DOWNLOAD_PATH = fs.mkdtempSync(path.join(app.getPath('temp'), 'stream-downloads'))
+export const WEBTORRENT_DOWNLOAD_PATH = createFolder()
 
 appExpress.listen(PORT, () => {
-  // clearFolder(WEBTORRENT_DOWNLOAD_PATH)
+  clearFolder(WEBTORRENT_DOWNLOAD_PATH)
   console.log(`Server is running on port ${PORT}`)
 })
+
+if (squirrel) {
+  app.quit()
+}
 
 function createWindow () {
   mainWindow = new BrowserWindow({
@@ -39,13 +44,6 @@ function createWindow () {
     }
   })
 
-  // Создаем директорию, если она не существует
-  console.log(fs.existsSync(WEBTORRENT_DOWNLOAD_PATH))
-
-  // if (!fs.existsSync(WEBTORRENT_DOWNLOAD_PATH)) {
-  //   fs.mkdirSync(WEBTORRENT_DOWNLOAD_PATH)
-  // }
-
   mainWindow.loadFile(path.join(__dirname, 'index.html'))
 
   mainWindow.webContents.openDevTools()
@@ -61,15 +59,10 @@ function createWindow () {
   })
 }
 
-if (squirrel) {
-  app.quit()
-}
-
 app.on('ready', createWindow)
 
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') {
-    // clearFolder(WEBTORRENT_DOWNLOAD_PATH)
     fs.readdir(WEBTORRENT_DOWNLOAD_PATH, (err, files) => {
       if (err) throw err
 
@@ -79,6 +72,7 @@ app.on('window-all-closed', () => {
           console.log(`${file} deleted successfully!`)
         })
       })
+      clearFolder(WEBTORRENT_DOWNLOAD_PATH)
     })
     app.quit()
   }
@@ -100,5 +94,6 @@ app.on('before-quit', () => {
         console.log(`${file} deleted successfully!`)
       })
     })
+    clearFolder(WEBTORRENT_DOWNLOAD_PATH)
   })
 })

@@ -4,6 +4,8 @@ import { readJsonId } from '../../utils/readJson.js'
 import fs from 'fs'
 import { spawn } from '../../utils/startVLC.js'
 import { WEBTORRENT_DOWNLOAD_PATH } from '../../../index.mjs'
+import { createFolder } from '../../utils/createFolder.js'
+import { clearFolder } from '../../utils/clearFolder.js'
 
 const client = new WebTorrent()
 
@@ -133,10 +135,7 @@ export const addMagnet = async (req, res) => {
     const torrent = await client.get(magnet)
 
     if (!torrent) {
-      if (!fs.existsSync(WEBTORRENT_DOWNLOAD_PATH)) {
-        fs.mkdirSync(WEBTORRENT_DOWNLOAD_PATH)
-      }
-      fs.mkdirSync(`${WEBTORRENT_DOWNLOAD_PATH}/${magnet}`)
+      fs.mkdirSync(`${!fs.existsSync(WEBTORRENT_DOWNLOAD_PATH) ? createFolder() : WEBTORRENT_DOWNLOAD_PATH}/${magnet}`)
       client.add(
         magnet,
         { path: `${WEBTORRENT_DOWNLOAD_PATH}/${magnet}` },
@@ -231,10 +230,13 @@ export const streamVideo = async (req, res, next) => {
 }
 
 export const startPlayer = async (req, res) => {
-  const { magnet, name } = req.params
+  const { link, name } = req.params
+
+  console.log(link, name)
+  console.log(`http://localhost:8000/api/video/stream/${link}/${name}`)
 
   try {
-    spawn(magnet, name)
+    spawn(`http://localhost:8000/api/video/stream/${link}/${name}`, name)
     res.status(200).end()
   } catch (error) {
     res.status(403).send(`Error start player: ${error}`)
@@ -256,6 +258,7 @@ export const stopStream = async (req, res, next) => {
         fs.rmSync(`${WEBTORRENT_DOWNLOAD_PATH}/${infoHash}`, {
           recursive: true
         })
+        clearFolder(WEBTORRENT_DOWNLOAD_PATH)
         res.status(200).end()
       }
     })
