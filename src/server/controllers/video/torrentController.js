@@ -236,7 +236,7 @@ export const startPlayer = async (req, res) => {
   console.log(`http://localhost:8000/api/video/stream/${link}/${name}`)
 
   try {
-    spawn(`http://localhost:8000/api/video/stream/${link}/${name}`, name)
+    spawn(`http://localhost:8000/api/video/stream/${link}/${encodeURIComponent(name)}`, name)
     res.status(200).end()
   } catch (error) {
     res.status(403).send(`Error start player: ${error}`)

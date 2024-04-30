@@ -9,6 +9,8 @@ export function clearFolder (folderName) {
   // Создаем полный путь к папке
   // const folderPath = path.join(currentDirectory, folderName);
   console.log('folder-name: ', folderName)
+
+  if (!folderName) return
   // Получаем список файлов в папке
   fs.readdir(folderName, (err, files) => {
     if (err) {

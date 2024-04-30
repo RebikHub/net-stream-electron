@@ -13,7 +13,7 @@ export function spawn (url, title = '') {
     const args = [
       '--play-and-exit',
       '--quiet',
-      url.includes(' ') ? encodeURIComponent(url) : url
+      url
     ]
 
     spawnExternal(vlcPath, args)
@@ -29,6 +29,8 @@ export function kill () {
 
 export function spawnExternal (playerPath, args) {
   proc = cp.spawn(playerPath, args, { stdio: 'ignore' })
+
+  console.log('args: ', args)
 
   proc.on('close', code => {
     if (!proc) return // Killed
