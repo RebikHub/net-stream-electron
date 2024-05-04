@@ -214,26 +214,24 @@ export const streamVideo = async (req, res, next) => {
 
     stream.pipe(res)
 
-    // stream.on('')
+    req.on('close', () => {
+      stream.destroy()
+    })
 
     stream.on('error', (err) => {
       console.log('stream-error: ', err)
-      // Обработка ошибок в middleware или контроллере
       next(err)
     })
 
     stream.on('end', () => {
       console.log('stream-end')
-      res.end() // Закрыть поток после завершения передачи данных
+      res.end()
     })
   }
 }
 
 export const startPlayer = async (req, res) => {
   const { link, name } = req.params
-
-  console.log(link, name)
-  console.log(`http://localhost:8000/api/video/stream/${link}/${name}`)
 
   try {
     spawn(`http://localhost:8000/api/video/stream/${link}/${encodeURIComponent(name)}`, name)
@@ -255,12 +253,27 @@ export const stopStream = async (req, res, next) => {
         next(err)
       } else {
         console.log('Загрузка или стрим остановлены')
-        fs.rmSync(`${WEBTORRENT_DOWNLOAD_PATH}/${infoHash}`, {
-          recursive: true
-        })
         clearFolder(WEBTORRENT_DOWNLOAD_PATH)
         res.status(200).end()
       }
     })
+  }
+}
+
+export const destroyTorrentClient = () => {
+  if (client) {
+    client.torrents.forEach((item) => {
+      item.destroy((err) => {
+        if (err) {
+          console.error('Ошибка при client.torrents destroy: ' + err.message)
+        }
+      })
+    })
+    client.destroy((err) => {
+      if (err) {
+        console.error('Ошибка при client destroy: ' + err.message)
+      }
+    })
+    clearFolder(WEBTORRENT_DOWNLOAD_PATH)
   }
 }

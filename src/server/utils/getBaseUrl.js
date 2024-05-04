@@ -3,8 +3,6 @@ import https from 'https'
 import { writeFileSync, readFileSync } from 'fs'
 import { CONTENT_URLS } from '../config.js'
 
-let BASE_URL
-
 async function checkUrl (url) {
   const list = await JSON.parse(
     readFileSync(`${CONTENT_URLS}/urls.json`, 'utf8')
@@ -46,32 +44,48 @@ async function checkUrl (url) {
         }
       })
       .on('error', (err) => {
+        console.error(err)
         resolve({ status: false, url: '' })
       })
   })
 }
 
-export async function getBaseUrl () {
+export async function updateBaseUrls () {
   const list = await JSON.parse(
     readFileSync(`${CONTENT_URLS}/urls.json`, 'utf8')
   )
 
-  if (BASE_URL) {
-    return BASE_URL
+  const filteredResults = await Promise.all([...list.map(async ({ url }) => {
+    const result = await checkUrl(url)
+    return result
+  })])
+
+  const workedUrl = filteredResults.find(({ status }) => status)
+
+  if (workedUrl?.url) {
+    writeFileSync(
+      `${CONTENT_URLS}/baseUrl.json`,
+      JSON.stringify({ url: workedUrl.url }, null, 2)
+    )
   }
-  // const filteredPromises = list.map(async ({ url }) => {
-  //   const result = await checkUrl(url);
-  //   return result;
-  // });
+}
 
-  // const filteredResults = await Promise.all(filteredPromises);
+export async function getBaseUrl () {
+  const { url } = await JSON.parse(
+    readFileSync(`${CONTENT_URLS}/baseUrl.json`, 'utf8')
+  )
+  if (url !== '') {
+    return url
+  }
 
-  // const workedUrl = filteredResults.find(({ status }) => status);
+  await updateBaseUrls()
 
-  // if (workedUrl?.url) {
-  //   BASE_URL = workedUrl.url;
-  // }
-  BASE_URL = list[0].url
+  return await getBaseUrl()
+}
 
-  return BASE_URL
+export async function clearBaseUrl () {
+  writeFileSync(
+    `${CONTENT_URLS}/baseUrl.json`,
+    JSON.stringify({ url: '' }, null, 2)
+  )
 }
