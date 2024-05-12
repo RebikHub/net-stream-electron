@@ -5,7 +5,8 @@ import {
   getPlaylistRu,
   getPlaylistEn,
   getPlaylistNsfw,
-  getPlaylisNoname
+  getPlaylistNoname,
+  getPlaylistAll
   // getParserM3u8,
 } from '../controllers/tv/tvController.js'
 
@@ -21,7 +22,9 @@ router.get('/playlist/en', getPlaylistEn)
 
 router.get('/playlist/nsfw', getPlaylistNsfw)
 
-router.get('/playlist/noname', getPlaylisNoname)
+// router.get('/playlist/noname', getPlaylisNoname)
+
+router.get('/playlist/noname', getPlaylistAll)
 
 // router.get("/channel/:item", getParserM3u8);
 

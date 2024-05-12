@@ -1,7 +1,8 @@
 import axios from 'axios'
-import { CONTENT_TV, TV_CHANNELS_URL, TV_STREAMS_URL } from '../../config.js'
+import { CONTENT_TV, PLAYLIST_URL, TV_CHANNELS_URL, TV_STREAMS_URL } from '../../config.js'
 import { readJson, createPlaylists } from '../../utils/readJson.js'
 import { writeFileSync } from 'fs'
+import { parsePlaylist } from '../../utils/parsePlaylist.js'
 
 export const getChannelList = async (path, res) => {
   try {
@@ -73,7 +74,28 @@ export const getPlaylistNsfw = async (req, res) => {
   await getChannelList(`${CONTENT_TV}/checkedNsfw.json`, res)
 }
 
-export const getPlaylisNoname = async (req, res) => {
+export const getPlaylistNoname = async (req, res) => {
   // await getChannelList("./src/content/tv/noname.json", res);
   await getChannelList(`${CONTENT_TV}/checkedNoname.json`, res)
+}
+
+
+export const getPlaylistAll = async (req, res) => {
+  axios.get(PLAYLIST_URL + 'LoganetXAll.m3u').then((response) => {
+
+    if (response.data) {
+    const playlist = parsePlaylist(response.data)
+    if (playlist && playlist.length) {
+      writeFileSync(
+        `${CONTENT_TV}/all.json`,
+        JSON.stringify(playlist, null, 2)
+      )
+      res.status(200).json(playlist)
+    }
+    }
+
+  }).catch((e) => {
+    res.status(500).json({ error: 'Failed to response playlist' })
+    console.error('getPlaylistAll error', e)
+  })
 }

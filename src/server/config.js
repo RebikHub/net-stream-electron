@@ -25,3 +25,8 @@ export const TORRENT_URLS = [
   'https://9-fkqg.123tt.ru',
   'https://6-lrea.123tt.ru'
 ]
+
+export const PLAYLIST_URL = 'https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/'
+
+// all - LoganetXAll.m3u
+// strawberry - LoganetXStrawberry.m3u

@@ -46,7 +46,7 @@
     "name": "3AW",
     "logo": "https://i.imgur.com/Z4MdB0S.png",
     "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8",
-    "website": null
+    "website": "https://www.3aw.com.au/"
   },
   {
     "id": "6PR.au",
@@ -81,49 +81,49 @@
     "name": "30A Darcizzle Offshore",
     "logo": "https://i.imgur.com/Q4l2uao.png",
     "url": "https://30a-tv.com/darcizzle.m3u8",
-    "website": null
+    "website": "https://channelstore.roku.com/en-ca/details/1b2681ea44d80b53d4af1e7fa103eb2c/darcizzle-offshore"
   },
   {
     "id": "30AInvestmentPitch.us",
     "name": "30A Investment Pitch",
     "logo": "https://i.imgur.com/CKCtZo7.png",
     "url": "https://www.30a-tv.com/InvPit.m3u8",
-    "website": null
+    "website": "https://30a-tv.com/30a/investment-pitch-news/"
   },
   {
     "id": "30AInvestmentPitch.us",
     "name": "30A Investment Pitch",
     "logo": "https://i.imgur.com/CKCtZo7.png",
     "url": "https://30a-tv.com/feeds/xodglobal/30atv.m3u8",
-    "website": null
+    "website": "https://30a-tv.com/30a/investment-pitch-news/"
   },
   {
     "id": "30AMusic.us",
     "name": "30A Music",
     "logo": "https://i.imgur.com/gNWg9tl.png",
     "url": "https://30a-tv.com/music.m3u8",
-    "website": null
+    "website": "https://30a.com/music/"
   },
   {
     "id": "30AMusic.us",
     "name": "30A Music",
     "logo": "https://i.imgur.com/gNWg9tl.png",
     "url": "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
-    "website": null
+    "website": "https://30a.com/music/"
   },
   {
     "id": "30ASidewalks.us",
     "name": "30A Sidewalks",
     "logo": "https://i.imgur.com/HSdwqZN.png",
     "url": "https://30a-tv.com/sidewalks.m3u8",
-    "website": null
+    "website": "https://30a-tv.com/30a/sidewalks-on-30atv/"
   },
   {
     "id": "30ATheBeachShow.us",
     "name": "30A The Beach Show",
     "logo": "https://i.imgur.com/0j5Aget.png",
     "url": "https://30a-tv.com/beachy.m3u8",
-    "website": null
+    "website": "https://30a-tv.com/30a/the-beach-show/"
   },
   {
     "id": "981PearlFM.sx",
@@ -151,70 +151,70 @@
     "name": "ABC News Live 1",
     "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8",
-    "website": null
+    "website": "https://abcnews.go.com/Live"
   },
   {
     "id": "ABCNewsLive2.us",
     "name": "ABC News Live 2",
     "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8",
-    "website": null
+    "website": "https://abcnews.go.com/Live"
   },
   {
     "id": "ABCNewsLive3.us",
     "name": "ABC News Live 3",
     "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8",
-    "website": null
+    "website": "https://abcnews.go.com/Live"
   },
   {
     "id": "ABCNewsLive4.us",
     "name": "ABC News Live 4",
     "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8",
-    "website": null
+    "website": "https://abcnews.go.com/Live"
   },
   {
     "id": "ABCNewsLive5.us",
     "name": "ABC News Live 5",
     "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8",
-    "website": null
+    "website": "https://abcnews.go.com/Live"
   },
   {
     "id": "ABCNewsLive6.us",
     "name": "ABC News Live 6",
     "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8",
-    "website": null
+    "website": "https://abcnews.go.com/Live"
   },
   {
     "id": "ABCNewsLive7.us",
     "name": "ABC News Live 7",
     "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8",
-    "website": null
+    "website": "https://abcnews.go.com/Live"
   },
   {
     "id": "ABCNewsLive8.us",
     "name": "ABC News Live 8",
     "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8",
-    "website": null
+    "website": "https://abcnews.go.com/Live"
   },
   {
     "id": "ABCNewsLive9.us",
     "name": "ABC News Live 9",
     "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
-    "website": null
+    "website": "https://abcnews.go.com/Live"
   },
   {
     "id": "ABCNewsLive10.us",
     "name": "ABC News Live 10",
     "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8",
-    "website": null
+    "website": "https://abcnews.go.com/Live"
   },
   {
     "id": "ABCNewsLive.us",
@@ -238,25 +238,11 @@
     "website": "https://www.abc.net.au/news/newschannel/"
   },
   {
-    "id": "ABCTVNSW.au",
-    "name": "ABC TV NSW",
-    "logo": "https://i.imgur.com/Ekjb7w8.png",
-    "url": "https://c.mjh.nz/abc-nsw.m3u8",
+    "id": "ABCTVACT.au",
+    "name": "ABC TV ACT",
+    "logo": "https://i.imgur.com/Puq8t7f.png",
+    "url": "https://c.mjh.nz/abc-act.m3u8",
     "website": "https://iview.abc.net.au/channel/abc1"
-  },
-  {
-    "id": "ABCTVNT.au",
-    "name": "ABC TV NT",
-    "logo": "https://i.imgur.com/Ekjb7w8.png",
-    "url": "https://c.mjh.nz/abc-nt.m3u8",
-    "website": "https://iview.abc.net.au/channel/abc1"
-  },
-  {
-    "id": "ABCTVPlusSydney.au",
-    "name": "ABC TV Plus Sydney",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/512px-ABC_TV_Plus_logo_2021.svg.png",
-    "url": "https://c.mjh.nz/abc-tv-plus.m3u8",
-    "website": "https://www.abc.net.au/tv"
   },
   {
     "id": "ABCTVQLD.au",
@@ -273,24 +259,10 @@
     "website": "https://iview.abc.net.au/channel/abc1"
   },
   {
-    "id": "ABCTVTAS.au",
-    "name": "ABC TV TAS",
-    "logo": "https://i.imgur.com/Ekjb7w8.png",
-    "url": "https://c.mjh.nz/abc-tas.m3u8",
-    "website": "https://iview.abc.net.au/channel/abc1"
-  },
-  {
     "id": "ABCTVVIC.au",
     "name": "ABC TV VIC",
     "logo": "https://i.imgur.com/Ekjb7w8.png",
     "url": "https://c.mjh.nz/abc-vic.m3u8",
-    "website": "https://iview.abc.net.au/channel/abc1"
-  },
-  {
-    "id": "ABCTVWA.au",
-    "name": "ABC TV WA",
-    "logo": "https://i.imgur.com/Ekjb7w8.png",
-    "url": "https://c.mjh.nz/abc-wa.m3u8",
     "website": "https://iview.abc.net.au/channel/abc1"
   },
   {
@@ -320,13 +292,6 @@
     "logo": "https://i.imgur.com/Gtwk8ic.png",
     "url": "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8",
     "website": null
-  },
-  {
-    "id": "AccessHumboldt.us",
-    "name": "Access Humboldt",
-    "logo": "https://i.imgur.com/tJl43uM.png",
-    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/66dfbe35ca1a418c87e3cf18ca46bd57/index.m3u8",
-    "website": "https://www.accesshumboldt.net/watch"
   },
   {
     "id": "AccessLaPorteCountyChannel97.us",
@@ -399,6 +364,13 @@
     "website": null
   },
   {
+    "id": "AdomTV.gh",
+    "name": "Adom TV",
+    "logo": "https://i.imgur.com/y0LQm3p.png",
+    "url": "https://ythls.armelin.one/channel/UCKlgbbF9wphTKATOWiG5jPQ.m3u8",
+    "website": "http://www.adomtv.net/"
+  },
+  {
     "id": "AdultSwimEast.us",
     "name": "Adult Swim East",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png",
@@ -418,48 +390,6 @@
     "logo": "https://i.imgur.com/ZkBEAp7.png",
     "url": "https://webstreaming.viewmedia.tv/web_045/Stream/playlist.m3u8",
     "website": "https://www.abn.ng/"
-  },
-  {
-    "id": "AfricanewsEnglish.cg",
-    "name": "Africanews English",
-    "logo": "https://i.imgur.com/5UxU4zc.png",
-    "url": "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
-    "website": "https://www.africanews.com/"
-  },
-  {
-    "id": "AfricanewsEnglish.cg",
-    "name": "Africanews English",
-    "logo": "https://i.imgur.com/5UxU4zc.png",
-    "url": "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
-    "website": "https://www.africanews.com/"
-  },
-  {
-    "id": "AfricanewsEnglish.cg",
-    "name": "Africanews English",
-    "logo": "https://i.imgur.com/5UxU4zc.png",
-    "url": "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
-    "website": "https://www.africanews.com/"
-  },
-  {
-    "id": "AfricanewsEnglish.cg",
-    "name": "Africanews English",
-    "logo": "https://i.imgur.com/5UxU4zc.png",
-    "url": "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
-    "website": "https://www.africanews.com/"
-  },
-  {
-    "id": "AfricanewsEnglish.cg",
-    "name": "Africanews English",
-    "logo": "https://i.imgur.com/5UxU4zc.png",
-    "url": "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8",
-    "website": "https://www.africanews.com/"
-  },
-  {
-    "id": "AfricanewsEnglish.cg",
-    "name": "Africanews English",
-    "logo": "https://i.imgur.com/5UxU4zc.png",
-    "url": "https://ythls.armelin.one/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8",
-    "website": "https://www.africanews.com/"
   },
   {
     "id": "AfriwoodBlockbuster.za",
@@ -525,81 +455,67 @@
     "website": null
   },
   {
-    "id": "AghapyKids.us",
-    "name": "Aghapy Kids",
-    "logo": "https://i.imgur.com/8ariztD.png",
-    "url": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8",
-    "website": "https://www.aghapykids.com/"
-  },
-  {
     "id": "AITNational.ng",
     "name": "AIT National",
     "logo": "https://i.imgur.com/rN3bCcI.png",
     "url": "https://webstreaming.viewmedia.tv/web_036/Stream/playlist.m3u8",
-    "website": null
+    "website": "https://ait.live/"
   },
   {
     "id": "Akaku53.us",
     "name": "Akaku 53",
     "logo": "https://i.imgur.com/EVbmRFq.png",
     "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8",
-    "website": null
+    "website": "https://www.akaku.org/watch/"
   },
   {
     "id": "Akaku54.us",
     "name": "Akaku 54",
     "logo": "https://i.imgur.com/9vu6nvc.png",
     "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8",
-    "website": null
+    "website": "https://www.akaku.org/watch/"
   },
   {
     "id": "Akaku55.us",
     "name": "Akaku 55",
     "logo": "https://i.imgur.com/MQET539.jpg",
     "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8",
-    "website": null
+    "website": "https://www.akaku.org/watch/"
   },
   {
     "id": "AKCTV.us",
     "name": "AKC TV",
     "logo": "https://i.imgur.com/XRTfoSp.png",
     "url": "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8",
-    "website": null
+    "website": "https://akc.tv/"
   },
   {
     "id": "AKCTV.us",
     "name": "AKC TV",
     "logo": "https://i.imgur.com/XRTfoSp.png",
     "url": "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8",
-    "website": null
+    "website": "https://akc.tv/"
   },
   {
     "id": "AKCTVMeettheBreeds.us",
     "name": "AKC TV Meet the Breeds",
     "logo": "https://i.imgur.com/66avgdk.png",
     "url": "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8",
-    "website": null
+    "website": "https://akc.tv/"
   },
   {
     "id": "AKCTVPuppies.us",
     "name": "AKC TV Puppies",
     "logo": "https://i.imgur.com/2nzRS60.png",
     "url": "https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8",
-    "website": null
+    "website": "https://akc.tv/"
   },
   {
     "id": "AlanBeckerTV.us",
     "name": "Alan Becker TV",
     "logo": "https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",
     "url": "https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8",
-    "website": null
-  },
-  {
-    "id": "ALF.us",
-    "name": "ALF",
-    "logo": "https://i.imgur.com/fWRs1gX.png",
-    "url": "https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8",
-    "website": "https://watch.plex.tv/live-tv/channel/alf"
+    "website": "https://www.youtube.com/@alanbecker"
   },
   {
     "id": "AlJazeeraEnglish.qa",
@@ -630,13 +546,6 @@
     "website": "https://watch.plex.tv/live-tv/channel/all-weddings-we-tv"
   },
   {
-    "id": "AlphaDigital.ug",
-    "name": "Alpha Digital",
-    "logo": "https://i.imgur.com/ZlMARQx.jpg",
-    "url": "http://159.203.38.30:8080/hls/stream.m3u8",
-    "website": "http://imc.ug/"
-  },
-  {
     "id": "AlwaysFunnyVideos.us",
     "name": "Always Funny Videos",
     "logo": "https://i.imgur.com/vfdN5Xl.png",
@@ -654,22 +563,8 @@
     "id": "AMCEast.us",
     "name": "AMC East",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
-    "url": "https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8",
-    "website": "https://www.amc.com/"
-  },
-  {
-    "id": "AMCEast.us",
-    "name": "AMC East",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
     "url": "http://170.254.18.106/AMC/mono.m3u8",
     "website": "https://www.amc.com/"
-  },
-  {
-    "id": "AMCPlus.us",
-    "name": "AMC+",
-    "logo": "https://i.imgur.com/abtANyj.png",
-    "url": "https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8",
-    "website": "https://www.amcplus.com/"
   },
   {
     "id": "AmericanClassics.us",
@@ -677,6 +572,13 @@
     "logo": "https://i.imgur.com/IkYZQ9S.png",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8",
     "website": null
+  },
+  {
+    "id": "AmericasAuctionChannel.us",
+    "name": "America's Auction Channel",
+    "logo": "https://i.imgur.com/YKhnHE6.png",
+    "url": "https://ythls.armelin.one/channel/UCMeyWH1vyb1TT6Vimp4MqLA.m3u8",
+    "website": "https://www.aactv.com/"
   },
   {
     "id": "AmericasTestKitchen.us",
@@ -690,21 +592,14 @@
     "name": "America's Voice",
     "logo": "https://i.imgur.com/jtFBBGs.jpg",
     "url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8",
-    "website": null
-  },
-  {
-    "id": "AmericasVoice.us",
-    "name": "America's Voice",
-    "logo": "https://i.imgur.com/jtFBBGs.jpg",
-    "url": "https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8",
-    "website": null
+    "website": "https://americasvoice.org/"
   },
   {
     "id": "Ameritrade.us",
     "name": "Ameritrade",
     "logo": "https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",
     "url": "https://tdameritrade-vizio.amagi.tv/playlist.m3u8",
-    "website": null
+    "website": "https://www.tdameritrade.com/branches.html"
   },
   {
     "id": "AMGATV.us",
@@ -718,7 +613,7 @@
     "name": "AMG TV",
     "logo": "https://i.imgur.com/m5Anun9.png",
     "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
-    "website": null
+    "website": "https://amgtv.tv/"
   },
   {
     "id": "AMP1.us",
@@ -735,55 +630,6 @@
     "website": "https://accessmediaproductions.org/"
   },
   {
-    "id": "ANews.tr",
-    "name": "A News",
-    "logo": "https://i.imgur.com/6tWCzTp.png",
-    "url": "https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8",
-    "website": "https://www.anews.com.tr/"
-  },
-  {
-    "id": "AngelTVAfrica.in",
-    "name": "Angel TV Africa",
-    "logo": "https://i.imgur.com/qKLEGU7.png",
-    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8",
-    "website": "https://www.angeltv.org/Africa.php?gmt=3"
-  },
-  {
-    "id": "AngelTVArabia.in",
-    "name": "Angel TV Arabia",
-    "logo": "https://i.imgur.com/qKLEGU7.png",
-    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8",
-    "website": "https://www.angeltv.org/Arabia.php?gmt=3"
-  },
-  {
-    "id": "AngelTVAustralia.in",
-    "name": "Angel TV Australia",
-    "logo": "https://i.imgur.com/qKLEGU7.png",
-    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelaustralia_all/playlist.m3u8",
-    "website": "https://www.angeltv.org/Australia.php"
-  },
-  {
-    "id": "AngelTVEurope.in",
-    "name": "Angel TV Europe",
-    "logo": "https://i.imgur.com/qKLEGU7.png",
-    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8",
-    "website": "https://www.angeltv.org/Europe.php?gmt=3"
-  },
-  {
-    "id": "AngelTVFarEast.in",
-    "name": "Angel TV Far East",
-    "logo": "https://i.imgur.com/qKLEGU7.png",
-    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8",
-    "website": "https://www.angeltv.org/Fareast.php?gmt=3"
-  },
-  {
-    "id": "AngerManagementChannel.us",
-    "name": "Anger Management Channel",
-    "logo": "https://i.imgur.com/VXZgrNy.png",
-    "url": "https://lnc-anger-management.tubi.video/playlist.m3u8",
-    "website": "https://watch.plex.tv/live-tv/channel/anger-management"
-  },
-  {
     "id": "AntiquesRoadTrip.us",
     "name": "Antiques Road Trip",
     "logo": "https://i.imgur.com/kkm7VqV.png",
@@ -795,14 +641,7 @@
     "name": "Architectural Digest",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Architectural_Digest_logo.svg/512px-Architectural_Digest_logo.svg.png",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8",
-    "website": null
-  },
-  {
-    "id": "AreWeThereYet.us",
-    "name": "Are We There Yet?",
-    "logo": "https://i.imgur.com/3BJQiHP.png",
-    "url": "https://lnc-are-we-there-yet.tubi.video/playlist.m3u8",
-    "website": "https://watch.plex.tv/live-tv/channel/are-we-there-yet"
+    "website": "https://www.architecturaldigest.com/"
   },
   {
     "id": "ArirangTV.kr",
@@ -868,27 +707,6 @@
     "website": "https://www.arirang.com/"
   },
   {
-    "id": "AriseNews.uk",
-    "name": "Arise News",
-    "logo": "https://i.imgur.com/B5IXKIb.png",
-    "url": "https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8",
-    "website": "https://www.arise.tv/"
-  },
-  {
-    "id": "ArkTV.ug",
-    "name": "Ark TV",
-    "logo": "https://i.imgur.com/yCHNZXD.png",
-    "url": "https://webstreaming.viewmedia.tv/web_035/Stream/playlist.m3u8",
-    "website": "https://www.holycityentebbe.org/"
-  },
-  {
-    "id": "ArroyoGrandeChannel20.us",
-    "name": "Arroyo Grande Channel 20",
-    "logo": "https://i.imgur.com/ZTaEFWY.png",
-    "url": "https://agp-nimble.streamguys1.com/AGCC/AGCC/playlist.m3u8",
-    "website": "https://slo-span.org/channels/arroyo-grande-channel-20"
-  },
-  {
     "id": "AsianCrush.us",
     "name": "AsianCrush",
     "logo": "https://i.imgur.com/hW6z1RG.png",
@@ -900,7 +718,7 @@
     "name": "Atlanta Channel",
     "logo": "https://i.imgur.com/MOGQAns.png",
     "url": "http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8",
-    "website": null
+    "website": "https://wthc.atlantachannel.tv/"
   },
   {
     "id": "ATN.ng",
@@ -914,14 +732,14 @@
     "name": "Ausbiz TV",
     "logo": "https://i.imgur.com/8vGGdB0.png",
     "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
-    "website": null
+    "website": "https://company.ausbiz.com.au/"
   },
   {
     "id": "AusbizTV.au",
     "name": "Ausbiz TV",
     "logo": "https://i.imgur.com/8vGGdB0.png",
     "url": "https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8",
-    "website": null
+    "website": "https://company.ausbiz.com.au/"
   },
   {
     "id": "AWE.us",
@@ -942,14 +760,21 @@
     "name": "AWE Encore",
     "logo": "https://i.imgur.com/0utwZ63.png",
     "url": "https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8",
-    "website": null
+    "website": "https://www.awetv.com/"
   },
   {
     "id": "AWEEncore.us",
     "name": "AWE Encore",
     "logo": "https://i.imgur.com/0utwZ63.png",
     "url": "https://aweencore-vizio.amagi.tv/playlist.m3u8",
-    "website": null
+    "website": "https://www.awetv.com/"
+  },
+  {
+    "id": "AXN.sg",
+    "name": "AXN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",
+    "url": "https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8",
+    "website": "http://www.axn-asia.com/"
   },
   {
     "id": "AXSTVNOW.us",
@@ -964,20 +789,6 @@
     "logo": "https://i.imgur.com/lYa793q.png",
     "url": "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8",
     "website": "https://www.axs.tv/channel/axs-tv-now-concerts-documentaries-xumo/"
-  },
-  {
-    "id": "AYVTV.sl",
-    "name": "AYV TV",
-    "logo": "https://i.imgur.com/5fP7hT0.png",
-    "url": "https://1219373429.rsc.cdn77.org/live/stream-1/chunklist.m3u8",
-    "website": "http://www.ayvnews.com/"
-  },
-  {
-    "id": "AYVTVEntertainment.sl",
-    "name": "AYV TV Entertainment",
-    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/1978-294x165-FFFFFF.jpg",
-    "url": "https://1423954428.rsc.cdn77.org/live/ngrp:stream-1_all/chunklist.m3u8",
-    "website": "https://ayvnews.com/channel-34/"
   },
   {
     "id": "BabySharkTV.us",
@@ -1015,18 +826,18 @@
     "website": "https://pluto.tv/en/live-tv/baywatch"
   },
   {
-    "id": "BBCAmericaEast.us",
-    "name": "BBC America East",
-    "logo": "https://i.imgur.com/pTiiPz0.png",
-    "url": "https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8",
-    "website": "http://www.bbcamerica.com/"
+    "id": "BBCNews.uk",
+    "name": "BBC News",
+    "logo": "https://i.imgur.com/vSz2WEp.png",
+    "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+    "website": "https://www.bbc.co.uk/tv/bbcnews"
   },
   {
-    "id": "BBCNewsArabic.uk",
-    "name": "BBC News Arabic",
-    "logo": "https://i.imgur.com/wgIUsFu.png",
-    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8",
-    "website": "https://www.bbc.com/arabic"
+    "id": "BBCNews.uk",
+    "name": "BBC News",
+    "logo": "https://i.imgur.com/vSz2WEp.png",
+    "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8",
+    "website": "https://www.bbc.co.uk/tv/bbcnews"
   },
   {
     "id": "BBCNewsEurope.uk",
@@ -1036,11 +847,18 @@
     "website": "https://www.bbc.co.uk/schedules/p00fzl9j"
   },
   {
-    "id": "BBCNewsSouthAsia.uk",
-    "name": "BBC News South Asia",
+    "id": "BBCNewsNorthAmerica.uk",
+    "name": "BBC News North America",
     "logo": "https://i.imgur.com/REuN9RR.png",
-    "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8",
-    "website": "https://www.bbc.co.uk/schedules/p00fzl9n"
+    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+    "website": "https://www.bbc.co.uk/schedules/p00fzl9m"
+  },
+  {
+    "id": "BblackCaribbean.fr",
+    "name": "Bblack! Caribbean",
+    "logo": "https://i.imgur.com/GyZQCjq.png",
+    "url": "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8",
+    "website": "https://www.bblackcruise.com/media"
   },
   {
     "id": "BCSStarCrossTV.ng",
@@ -1054,63 +872,63 @@
     "name": "Beach TV CSULB",
     "logo": "https://i.imgur.com/EJjfSWi.png",
     "url": "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8",
-    "website": "https://reflect-beachtv.cablecast.tv/CablecastPublicSite/?channel=1"
+    "website": "https://www.beachtv.tv/"
   },
   {
     "id": "BeachTVFloridaAlabama.us",
     "name": "Beach TV Florida & Alabama",
     "logo": "https://i.imgur.com/weypM9C.png",
     "url": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8",
-    "website": null
+    "website": "https://www.beachtv.tv/"
   },
   {
     "id": "BeachTVFloridaAlabama.us",
     "name": "Beach TV Florida & Alabama",
     "logo": "https://i.imgur.com/weypM9C.png",
     "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8",
-    "website": null
+    "website": "https://www.beachtv.tv/"
   },
   {
     "id": "BeachTVKeyWestFloridaKeys.us",
     "name": "Beach TV Key West & Florida Keys",
     "logo": "https://i.imgur.com/XhDBdff.png",
     "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
-    "website": null
+    "website": "https://www.beachtv.tv/"
   },
   {
     "id": "BeachTVMyrtleBeachTheGrandStrand.us",
     "name": "Beach TV Myrtle Beach & The Grand Strand",
     "logo": "https://i.imgur.com/aLYz7Bv.png",
     "url": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8",
-    "website": null
+    "website": "https://www.beachtv.tv/"
   },
   {
     "id": "BeachTVMyrtleBeachTheGrandStrand.us",
     "name": "Beach TV Myrtle Beach & The Grand Strand",
     "logo": "https://i.imgur.com/aLYz7Bv.png",
     "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8",
-    "website": null
+    "website": "https://www.beachtv.tv/"
   },
   {
     "id": "BeachTVPanamaCity.us",
     "name": "Beach TV Panama City",
     "logo": "https://i.imgur.com/HCQDvEe.png",
     "url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
-    "website": null
+    "website": "https://www.beachtv.tv/"
   },
   {
     "id": "BeachTVPanamaCity.us",
     "name": "Beach TV Panama City",
     "logo": "https://i.imgur.com/HCQDvEe.png",
     "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8",
-    "website": null
+    "website": "https://www.beachtv.tv/"
   },
   {
     "id": "BeanoTV.uk",
     "name": "Beano TV",
     "logo": "https://i.imgur.com/IKHFZDJ.png",
     "url": "https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8",
-    "website": null
+    "website": "https://www.beanostudios.com/"
   },
   {
     "id": "BEKNews.us",
@@ -1127,18 +945,18 @@
     "website": "https://www.bek.tv/"
   },
   {
+    "id": "BelmediaTV.ca",
+    "name": "Belmedia TV",
+    "logo": "https://i.imgur.com/xEbQsdj.png",
+    "url": "https://ythls.armelin.one/channel/UCtj2xA6lW9BPE4BxnhxQQkw.m3u8",
+    "website": "http://www.belmediatv.com/"
+  },
+  {
     "id": "BENTelevision.uk",
     "name": "BEN Television",
     "logo": "https://i.imgur.com/DUAjjvT.png",
     "url": "https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8",
     "website": "https://bentelevision.com/"
-  },
-  {
-    "id": "BethanyTV.ug",
-    "name": "Bethany TV",
-    "logo": "https://i.imgur.com/sCnbxcP.jpg",
-    "url": "https://readymedia.moderntv.cloud:8092/distribute/readymedia/tv_bethany_stream_ye/5-20-hls/live.m3u8",
-    "website": "https://bethanytv.ug/"
   },
   {
     "id": "BetterHealthTV.us",
@@ -1150,7 +968,7 @@
   {
     "id": "BetterLifeNatureChannel.us",
     "name": "Better Life Nature Channel",
-    "logo": "https://i.imgur.com/gmrVKEC.jpg",
+    "logo": "https://i.imgur.com/LMHrQJu.png",
     "url": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8",
     "website": null
   },
@@ -1526,6 +1344,13 @@
     "website": "https://www.bloomberg.com/live/politics"
   },
   {
+    "id": "BMCHDTV.us",
+    "name": "BMC-HD TV",
+    "logo": "https://i.imgur.com/c9LiTz0.png",
+    "url": "https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "website": "https://www.belmontmedia.org/watch/bmchd"
+  },
+  {
     "id": "BOKTV.za",
     "name": "BOKTV",
     "logo": "https://i.imgur.com/mcNjuuO.png",
@@ -1622,20 +1447,6 @@
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb5417.png",
     "url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8",
     "website": "http://www.britishmuslim.tv/"
-  },
-  {
-    "id": "BukeddeTV1.ug",
-    "name": "Bukedde TV 1",
-    "logo": "https://i.imgur.com/HFq5QlJ.png",
-    "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
-    "website": null
-  },
-  {
-    "id": "BukeddeTV2.ug",
-    "name": "Bukedde TV 2",
-    "logo": "https://i.imgur.com/ukwPZeY.png",
-    "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
-    "website": "http://bukedde.co.ug/"
   },
   {
     "id": "Buzzr.us",
@@ -1752,23 +1563,16 @@
   {
     "id": "CanalMotor.no",
     "name": "Canal Motor",
-    "logo": "https://i.imgur.com/BHm0wem.png",
+    "logo": "https://i.imgur.com/nCAt3QN.png",
     "url": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
-    "website": null
+    "website": "https://www.canalmotor.me/"
   },
   {
     "id": "CanalMotor.no",
     "name": "Canal Motor",
-    "logo": "https://i.imgur.com/BHm0wem.png",
+    "logo": "https://i.imgur.com/nCAt3QN.png",
     "url": "https://digicom.hls.iptvdc.com/motorstv/index.m3u8",
-    "website": null
-  },
-  {
-    "id": "CapeTownTV.za",
-    "name": "Cape Town TV",
-    "logo": "https://i.imgur.com/Y8FK1Kk.png",
-    "url": "https://capetowntv.net/lvod/6107c8d77d6b693df801ae2e/playlist.m3u8",
-    "website": "http://www.capetowntv.org/"
+    "website": "https://www.canalmotor.me/"
   },
   {
     "id": "CapitalCityConnectionMontgomery.us",
@@ -1792,11 +1596,11 @@
     "website": "https://capsmedia.org/channel-15/"
   },
   {
-    "id": "CaribbeanHot7TV.lc",
-    "name": "Caribbean Hot 7 TV",
-    "logo": "https://i.ibb.co/sjTS4xD/logo116x90-2.png",
-    "url": "https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8",
-    "website": "https://www.caribbeanhottv.com/"
+    "id": "CartoonNetworkAsia.sg",
+    "name": "Cartoon Network Asia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
+    "url": "https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8",
+    "website": "http://www.cartoonnetworkasia.com/"
   },
   {
     "id": "CatholicFaithNetwork.us",
@@ -1813,13 +1617,6 @@
     "website": null
   },
   {
-    "id": "CaughtinProvidence.us",
-    "name": "Caught in Providence",
-    "logo": "https://i.imgur.com/rbhvVL3.png",
-    "url": "https://lnc-caught-in-providence.tubi.video/playlist.m3u8",
-    "website": "https://watch.plex.tv/live-tv/channel/caught-in-providence"
-  },
-  {
     "id": "CBCNewsNetwork.ca",
     "name": "CBC News Network",
     "logo": "https://i.imgur.com/SjTdhvJ.png",
@@ -1832,13 +1629,6 @@
     "logo": "https://i.imgur.com/WsD83lq.png",
     "url": "https://1740288887.rsc.cdn77.org/1740288887/index.m3u8",
     "website": null
-  },
-  {
-    "id": "CBeebies.pl",
-    "name": "CBeebies",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png",
-    "url": "https://cdn-nvm-chicago.lolokoko.tv/CBeebies.stream/playlist.m3u8",
-    "website": "http://www.bbcpolska.com/channels/cbeebies/"
   },
   {
     "id": "CBNFamily.us",
@@ -1899,21 +1689,21 @@
   {
     "id": "CBSNewsBayArea.us",
     "name": "CBS News Bay Area",
-    "logo": "https://i.imgur.com/GmA99Tt.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512",
     "url": "https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8",
     "website": "https://pluto.tv/en/live-tv/cbs-news-bay-area"
   },
   {
     "id": "CBSNewsBayArea.us",
     "name": "CBS News Bay Area",
-    "logo": "https://i.imgur.com/GmA99Tt.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512",
     "url": "https://dai.google.com/linear/hls/event/laLJwH1nS2KQAUQTF8z1Cg/master.m3u8",
     "website": "https://pluto.tv/en/live-tv/cbs-news-bay-area"
   },
   {
     "id": "CBSNewsBayArea.us",
     "name": "CBS News Bay Area",
-    "logo": "https://i.imgur.com/GmA99Tt.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512",
     "url": "https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8",
     "website": "https://pluto.tv/en/live-tv/cbs-news-bay-area"
   },
@@ -2233,11 +2023,11 @@
     "website": "https://c44.com.au/"
   },
   {
-    "id": "Channel200.nz",
-    "name": "Channel 200",
-    "logo": "https://i.imgur.com/gAebu4q.png",
-    "url": "https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
-    "website": "https://ch200.co.nz/watch-live/"
+    "id": "ChannelsTV.ng",
+    "name": "Channels TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg",
+    "url": "https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8",
+    "website": "https://www.channelstv.com/"
   },
   {
     "id": "Charge.us",
@@ -2359,24 +2149,10 @@
     "website": null
   },
   {
-    "id": "Cinevault80s.us",
-    "name": "Cinevault 80s",
-    "logo": "https://i.imgur.com/xaCyyDd.png",
-    "url": "https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8",
-    "website": null
-  },
-  {
     "id": "CinevaultWesterns.us",
     "name": "Cinevault Westerns",
     "logo": "https://i.imgur.com/K1W137J.png",
     "url": "https://lnc-cinevault-westerns.tubi.video/playlist.m3u8",
-    "website": null
-  },
-  {
-    "id": "CinevaultWesterns.us",
-    "name": "Cinevault Westerns",
-    "logo": "https://i.imgur.com/K1W137J.png",
-    "url": "https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8",
     "website": null
   },
   {
@@ -2427,6 +2203,13 @@
     "logo": "https://i.imgur.com/16d8NJd.jpg",
     "url": "https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_40c5808063f711ec89a87b62db2ecab5/index.m3u8",
     "website": "https://citizen.digital/"
+  },
+  {
+    "id": "CitizenTV.ke",
+    "name": "Citizen TV",
+    "logo": "https://i.imgur.com/Pv22Xat.png",
+    "url": "https://ythls.armelin.one/channel/UChBQgieUidXV1CmDxSdRm3g.m3u8",
+    "website": "https://citizen.digital/tv/citizen-tv-15"
   },
   {
     "id": "CityNewsToronto.ca",
@@ -2548,13 +2331,6 @@
     "website": "https://www.classicartsshowcase.org/"
   },
   {
-    "id": "ClergyTV.ke",
-    "name": "Clergy TV",
-    "logo": "https://i.imgur.com/RcxBEUo.jpg",
-    "url": "https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8",
-    "website": "https://www.clergytv.co.ke/"
-  },
-  {
     "id": "CloudflareTV.us",
     "name": "Cloudflare TV",
     "logo": "https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png",
@@ -2623,13 +2399,6 @@
     "logo": "https://i.imgur.com/xWglicB.png",
     "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
     "website": "https://www.channelnewsasia.com/international"
-  },
-  {
-    "id": "CNBCAfrica.za",
-    "name": "CNBC Africa",
-    "logo": "https://i.imgur.com/BnNYzWI.png",
-    "url": "https://ythls.armelin.one/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8",
-    "website": "https://www.cnbcafrica.com/"
   },
   {
     "id": "CNBCAfrica.za",
@@ -2812,13 +2581,6 @@
     "logo": "https://i.imgur.com/lFct7hq.png",
     "url": "http://184.185.54.232/live-10/live/live.m3u8",
     "website": "http://184.177.41.241/CablecastPublicSite/watch/1?channel=1"
-  },
-  {
-    "id": "CozaTV.ng",
-    "name": "Coza TV",
-    "logo": "https://i.imgur.com/QVBdpuF.png",
-    "url": "https://webstreaming-7.viewmedia.tv/web_097/Stream/playlist.m3u8",
-    "website": "https://coza.org.ng/"
   },
   {
     "id": "CPACEnglish.ca",
@@ -3017,6 +2779,20 @@
     "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Marketing-Services/Denver-8-TV"
   },
   {
+    "id": "DerryTV17.us",
+    "name": "DerryTV 17",
+    "logo": "https://i.imgur.com/MRR6UL3.png",
+    "url": "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "website": "https://derrycam.org/dtv17/"
+  },
+  {
+    "id": "DerryTV23.us",
+    "name": "DerryTV 23",
+    "logo": "https://i.imgur.com/MRR6UL3.png",
+    "url": "https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "website": "https://derrycam.org/dtv23/"
+  },
+  {
     "id": "DiscoverFilm.uk",
     "name": "Discover Film",
     "logo": "https://i.imgur.com/oMnpsQ5.png",
@@ -3129,20 +2905,6 @@
     "website": "http://www.gmanetwork.com/"
   },
   {
-    "id": "earthTV.de",
-    "name": "earthTV",
-    "logo": "https://i.imgur.com/xIc5vKl.png",
-    "url": "https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8",
-    "website": "https://www.earthtv.com/en"
-  },
-  {
-    "id": "EBNTV.ke",
-    "name": "EBN TV",
-    "logo": "https://i.imgur.com/NvxqoEn.png",
-    "url": "https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u8",
-    "website": "https://ebntv.co.ke/"
-  },
-  {
     "id": "EbS.be",
     "name": "EbS",
     "logo": "https://i.imgur.com/DIIRPNN.png",
@@ -3169,41 +2931,6 @@
     "logo": "https://i.imgur.com/7V012zQ.png",
     "url": "https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/96098c0b-0743-4afc-9562-db1673053f9d.isml/master.m3u8",
     "website": "https://audiovisual.ec.europa.eu/"
-  },
-  {
-    "id": "EDGEsport.uk",
-    "name": "EDGEsport",
-    "logo": "https://i.imgur.com/bgQ6kz7.png",
-    "url": "https://edgesports-row-rakuten.amagi.tv/playlist.m3u8",
-    "website": "https://www.edgesport.com/"
-  },
-  {
-    "id": "EDGEsport.uk",
-    "name": "EDGEsport",
-    "logo": "https://i.imgur.com/bgQ6kz7.png",
-    "url": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8",
-    "website": "https://www.edgesport.com/"
-  },
-  {
-    "id": "EDGEsport.uk",
-    "name": "EDGEsport",
-    "logo": "https://i.imgur.com/bgQ6kz7.png",
-    "url": "https://edgesports-sportstribal.amagi.tv/playlist.m3u8",
-    "website": "https://www.edgesport.com/"
-  },
-  {
-    "id": "EDGEsport.uk",
-    "name": "EDGEsport",
-    "logo": "https://i.imgur.com/bgQ6kz7.png",
-    "url": "https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8",
-    "website": "https://www.edgesport.com/"
-  },
-  {
-    "id": "EETTV.ca",
-    "name": "EET TV",
-    "logo": "https://i.imgur.com/rntSEDZ.png",
-    "url": "https://eu.streamjo.com/eetlive/eettv.m3u8",
-    "website": null
   },
   {
     "id": "ElectricNow.us",
@@ -3419,13 +3146,6 @@
     "id": "EWTNEspanaLatinAmerica.us",
     "name": "EWTN Espana/Latin America",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8",
-    "website": "https://www.ewtn.com/tv/"
-  },
-  {
-    "id": "EWTNEspanaLatinAmerica.us",
-    "name": "EWTN Espana/Latin America",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",
     "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
     "website": "https://www.ewtn.com/tv/"
   },
@@ -3491,13 +3211,6 @@
     "logo": "https://i.imgur.com/2Pe548t.png",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8",
     "website": "https://pluto.tv/en/live-tv/failarmy"
-  },
-  {
-    "id": "Farscape.us",
-    "name": "Farscape",
-    "logo": "https://i.imgur.com/2WH4lSc.png",
-    "url": "https://a8d3367c658948afb1901efdd9babe5b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_Farscape/playlist.m3u8",
-    "website": "https://watch.plex.tv/live-tv/channel/farscape"
   },
   {
     "id": "FashionFinds.us",
@@ -3589,13 +3302,6 @@
     "logo": "https://i.imgur.com/vlKPZHR.png",
     "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
     "website": "https://www.fightnetwork.com/"
-  },
-  {
-    "id": "FilmArtsPanregional.us",
-    "name": "Film & Arts Panregional",
-    "logo": "https://i.imgur.com/ukdmEKD.png",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8",
-    "website": "https://www.filmandarts.tv/"
   },
   {
     "id": "FilmHub.us",
@@ -3752,13 +3458,6 @@
     "website": "https://fort-tv.com/"
   },
   {
-    "id": "FoursquareTV.ng",
-    "name": "Foursquare TV",
-    "logo": "https://i.imgur.com/ORer9ag.png",
-    "url": "https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8",
-    "website": "http://foursquare.org.ng/"
-  },
-  {
     "id": "FoxBusinessNetwork.us",
     "name": "Fox Business Network",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png",
@@ -3826,13 +3525,6 @@
     "name": "France 24 English",
     "logo": "https://i.imgur.com/B76eSg2.png",
     "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8",
-    "website": "https://www.france24.com/"
-  },
-  {
-    "id": "France24English.fr",
-    "name": "France 24 English",
-    "logo": "https://i.imgur.com/B76eSg2.png",
-    "url": "https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8",
     "website": "https://www.france24.com/"
   },
   {
@@ -3983,13 +3675,6 @@
     "website": "https://www.gbnews.uk/"
   },
   {
-    "id": "GBNews.uk",
-    "name": "GB News",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",
-    "url": "https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8",
-    "website": "https://www.gbnews.uk/"
-  },
-  {
     "id": "GBNTV.us",
     "name": "GBN TV",
     "logo": "https://i.imgur.com/DsFyyHy.png",
@@ -4043,13 +3728,6 @@
     "name": "Global Fashion Channel",
     "logo": "https://i.imgur.com/s4eGYEP.jpg",
     "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
-    "website": null
-  },
-  {
-    "id": "GloryChristChannel.cm",
-    "name": "Glory Christ Channel",
-    "logo": "https://i.imgur.com/m5xH4bL.png",
-    "url": "https://stream.it-innov.com/gcc/index.m3u8",
     "website": null
   },
   {
@@ -4165,13 +3843,6 @@
     "website": "http://www.gctv.asia/"
   },
   {
-    "id": "GreensboroTV.us",
-    "name": "Greensboro TV",
-    "logo": "https://i.imgur.com/wHb9BLd.png",
-    "url": "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8",
-    "website": null
-  },
-  {
     "id": "grvty.us",
     "name": "grvty",
     "logo": "https://i.imgur.com/7qPKYVh.png",
@@ -4214,13 +3885,6 @@
     "website": "https://guyanatvnetwork.com/"
   },
   {
-    "id": "GTNTV.ke",
-    "name": "GTN TV",
-    "logo": "https://i.imgur.com/CSCZW6L.png",
-    "url": "https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8",
-    "website": "https://gtntv.co.ke/"
-  },
-  {
     "id": "GTV.us",
     "name": "GTV",
     "logo": "https://i.imgur.com/xN6WM3N.png",
@@ -4233,13 +3897,6 @@
     "logo": "https://i.imgur.com/pknaH4l.png",
     "url": "https://readymedia.moderntv.cloud:8092/distribute/readymedia/GUGUDDETV_stream_tj/5-20-hls/live.m3u8",
     "website": "https://guguddetv.com/"
-  },
-  {
-    "id": "GuidanceTVAustralia.au",
-    "name": "Guidance TV Australia",
-    "logo": "https://i.ibb.co/xHhLpvT/unnamed.jpg",
-    "url": "https://ythls.armelin.one/channel/UC81VkX0QeICZw7o2jMwGThg.m3u8",
-    "website": "https://al-taqwa.vic.edu.au/media/guidance-tv-australia/"
   },
   {
     "id": "GustoTV.us",
@@ -4312,11 +3969,11 @@
     "website": null
   },
   {
-    "id": "HealingJesusTV.gh",
-    "name": "Healing Jesus TV",
-    "logo": "https://i.imgur.com/ZZryVU9.png",
-    "url": "https://webstreaming-3.viewmedia.tv/web_041/Stream/playlist.m3u8",
-    "website": null
+    "id": "HBOAsiaHD.sg",
+    "name": "HBO Asia HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
+    "url": "https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8",
+    "website": "http://hboasia.com/HBO/"
   },
   {
     "id": "HeartlandWebFeed.us",
@@ -4324,13 +3981,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png",
     "url": "https://d76toswjmqqzm.cloudfront.net/playlist.m3u8",
     "website": "https://www.getafteritmedia.com/heartland"
-  },
-  {
-    "id": "HeavenBoundTV.ke",
-    "name": "Heaven Bound TV",
-    "logo": "https://i.imgur.com/pwnesmW.jpg",
-    "url": "https://goliveafrica.media:9998/live/62580b337c021/index.m3u8",
-    "website": null
   },
   {
     "id": "HilaalTV.za",
@@ -4345,13 +3995,6 @@
     "logo": "https://i.imgur.com/fUne7FX.png",
     "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8",
     "website": "https://www.hillsboroughcounty.org/en/about-hillsborough/hillsborough-television"
-  },
-  {
-    "id": "HisGraceTV.ke",
-    "name": "His Grace TV",
-    "logo": "https://i.imgur.com/uIlU5im.jpg",
-    "url": "https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8",
-    "website": null
   },
   {
     "id": "HiYAH.us",
@@ -4403,11 +4046,25 @@
     "website": "http://edition.cnn.com/HLN/"
   },
   {
+    "id": "HollyWire.us",
+    "name": "HollyWire",
+    "logo": "https://i.imgur.com/oVNjFoj.png",
+    "url": "https://bozztv.com/hwotta/playlist/playlist.m3u8",
+    "website": "https://hollywire.com/"
+  },
+  {
     "id": "HomebaseTV.za",
     "name": "Homebase TV",
     "logo": "https://i.imgur.com/MaLNfJG.png",
     "url": "https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8",
     "website": "http://www.homebasetv.org/"
+  },
+  {
+    "id": "Hope4LifeTV.us",
+    "name": "Hope4Life TV",
+    "logo": "https://i.imgur.com/p24tAjs.jpg",
+    "url": "http://144.217.14.88/hls/hope4life.m3u8",
+    "website": null
   },
   {
     "id": "HopeChannelAfrica.us",
@@ -4611,13 +4268,6 @@
     "logo": "https://i.imgur.com/2NM5HI0.png",
     "url": "https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8",
     "website": "https://legacy.cityofirvine.org/cityhall/citymanager/pio/ictv/default.asp"
-  },
-  {
-    "id": "IdealWorldTV.uk",
-    "name": "Ideal World TV",
-    "logo": "https://i.imgur.com/su6GH7i.png",
-    "url": "https://ythls.armelin.one/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8",
-    "website": "https://www.idealworld.tv/"
   },
   {
     "id": "iFilmEnglish.ir",
@@ -4942,13 +4592,6 @@
     "website": "https://www.jewellerymaker.com/"
   },
   {
-    "id": "JewelryTV.us",
-    "name": "Jewelry TV",
-    "logo": "https://i.imgur.com/mBcwks7.png",
-    "url": "https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8",
-    "website": "https://www.jtv.com/"
-  },
-  {
     "id": "JohnnyCarsonTV.us",
     "name": "Johnny Carson TV",
     "logo": "https://i.imgur.com/KBTqpJ7.png",
@@ -5005,11 +4648,11 @@
     "website": null
   },
   {
-    "id": "JoyNews.gh",
-    "name": "Joy News",
-    "logo": "https://i.imgur.com/kGuMNmR.png",
-    "url": "https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8",
-    "website": "https://www.myjoyonline.com/"
+    "id": "JoyPrime.gh",
+    "name": "Joy Prime",
+    "logo": "https://i.imgur.com/svxV4gJ.png",
+    "url": "https://ythls.armelin.one/channel/UC9hyY_wWSJnkUKPfrfOP4dQ.m3u8",
+    "website": "http://multitvworld.com/joy-prime-2/"
   },
   {
     "id": "JuiceTV.nz",
@@ -5045,13 +4688,6 @@
     "logo": "https://i.imgur.com/1luzP3T.png",
     "url": "https://lnc-kartoon.tubi.video/kc_co.m3u8",
     "website": "https://pluto.tv/en/live-tv/kartoon-channel"
-  },
-  {
-    "id": "KBCChannel1.ke",
-    "name": "KBC Channel 1",
-    "logo": "https://i.imgur.com/Km0GINR.png",
-    "url": "https://ythls.armelin.one/channel/UCypNjM5hP1qcUqQZe57jNfg.m3u8",
-    "website": "https://www.kbc.co.ke/"
   },
   {
     "id": "KBPXLD5.us",
@@ -5271,13 +4907,6 @@
     "website": "https://abc7news.com/"
   },
   {
-    "id": "KGTFDT1.us",
-    "name": "KGTF-DT1",
-    "logo": "https://i.imgur.com/gsMvCd5.png",
-    "url": "https://ythls.armelin.one/channel/UCaVp5oNNuIZVU7qqhSX0LGQ.m3u8",
-    "website": "http://pbsguam.org/"
-  },
-  {
     "id": "KGTVDT1.us",
     "name": "KGTV-DT1",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
@@ -5334,13 +4963,6 @@
     "website": null
   },
   {
-    "id": "KidoodleTV.ca",
-    "name": "Kidoodle.TV",
-    "logo": "https://i.imgur.com/MaFtbM5.png",
-    "url": "https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8",
-    "website": null
-  },
-  {
     "id": "KidsClick.us",
     "name": "KidsClick",
     "logo": "https://i.imgur.com/yg7MHn9.png",
@@ -5359,6 +4981,13 @@
     "name": "KING-DT1",
     "logo": "https://i.imgur.com/fTRLwhP.png",
     "url": "https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8",
+    "website": "http://www.king5.com/"
+  },
+  {
+    "id": "KINGDT1.us",
+    "name": "KING-DT1",
+    "logo": "https://i.imgur.com/fTRLwhP.png",
+    "url": "https://lnc-king.tubi.video/live.m3u8",
     "website": "http://www.king5.com/"
   },
   {
@@ -5908,6 +5537,13 @@
     "website": "https://www.longbeach.gov/lbtv"
   },
   {
+    "id": "LiberationTV.ng",
+    "name": "Liberation TV",
+    "logo": "https://i.imgur.com/MjbLGOu.png",
+    "url": "https://webstreaming.viewmedia.tv/web_011/Stream/playlist.m3u8",
+    "website": "https://gracenation.ng/liberationtv"
+  },
+  {
     "id": "LifeCenterNetwork.ng",
     "name": "Life Center Network",
     "logo": "https://www.lyngsat.com/logo/tv/ll/life-center-network-ng.png",
@@ -6076,13 +5712,6 @@
     "website": "https://tv.lovenature.com/"
   },
   {
-    "id": "LoveworldSAT.za",
-    "name": "LoveworldSAT",
-    "logo": "https://i.imgur.com/Fg65XCS.png",
-    "url": "https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8",
-    "website": "http://www.loveworldsat.org/"
-  },
-  {
     "id": "LoveWorldUK.uk",
     "name": "LoveWorld UK",
     "logo": "https://i.imgur.com/JgHbDmF.png",
@@ -6181,34 +5810,6 @@
     "website": null
   },
   {
-    "id": "MAVTV.us",
-    "name": "MAVTV",
-    "logo": "https://i.imgur.com/4fqvwEk.png",
-    "url": "https://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8",
-    "website": "https://www.mavtv.com/platforms/"
-  },
-  {
-    "id": "MBC2.mw",
-    "name": "MBC 2",
-    "logo": "https://i.imgur.com/qPnolMM.png",
-    "url": "https://rpn3.bozztv.com/ssh101/ssh101/2onthego/playlist.m3u8",
-    "website": "https://mbc.mw/"
-  },
-  {
-    "id": "MBC.mw",
-    "name": "MBC",
-    "logo": "https://i.imgur.com/7afBZh2.png",
-    "url": "https://rpn3.bozztv.com/ssh101/ssh101/mbcmalawi/playlist.m3u8",
-    "website": "http://www.mbc.mw/"
-  },
-  {
-    "id": "MBTV.us",
-    "name": "MBTV",
-    "logo": "https://i.imgur.com/LyqFr9E.png",
-    "url": "https://edge-f.swagit.com/live/miamibeachfl/smil:hd-16x9-1-a/playlist.m3u8",
-    "website": "https://www.miamibeachfl.gov/government/mbtv/"
-  },
-  {
     "id": "MCPSSTV.us",
     "name": "MCPSS TV",
     "logo": "https://i.imgur.com/qo5sk1g.png",
@@ -6221,20 +5822,6 @@
     "logo": "https://i.imgur.com/VXbHin6.png",
     "url": "https://603591da64140.streamlock.net/live/mp4:MCTVtest_aac/playlist.m3u8",
     "website": "https://mctv.tv/"
-  },
-  {
-    "id": "MemoriasTVClassic.co",
-    "name": "Memorias TV Classic",
-    "logo": "https://i.imgur.com/tLTQLnv.png",
-    "url": "https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8",
-    "website": "https://memorias.tv/memorias-classic/"
-  },
-  {
-    "id": "MercyandTruthMinistriesTelevision.jm",
-    "name": "Mercy and Truth Ministries Television",
-    "logo": "https://i.imgur.com/SdYnHBJ.png",
-    "url": "https://freepbx.btbn.tv:5443/mtmtv/streams/live.m3u8",
-    "website": "https://www.mercyandtruth.tv/"
   },
   {
     "id": "MetroGlobeNetwork.id",
@@ -6328,27 +5915,6 @@
     "website": "https://www.miracletv.co/"
   },
   {
-    "id": "MissionTV.us",
-    "name": "Mission TV",
-    "logo": "https://i.imgur.com/Hb38BNo.png",
-    "url": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8",
-    "website": null
-  },
-  {
-    "id": "MissionTV.us",
-    "name": "Mission TV",
-    "logo": "https://i.imgur.com/Hb38BNo.png",
-    "url": "http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8",
-    "website": null
-  },
-  {
-    "id": "MLB.us",
-    "name": "MLB",
-    "logo": "https://i.imgur.com/ym3su2J.png",
-    "url": "https://lnc-mlb2.tubi.video/index.m3u8",
-    "website": "https://pluto.tv/en/live-tv/mlb"
-  },
-  {
     "id": "MonroeCountyTV.us",
     "name": "Monroe County TV",
     "logo": "https://i.imgur.com/YJfzdSu.png",
@@ -6375,6 +5941,13 @@
     "logo": "https://i.imgur.com/Lxfd2ip.png",
     "url": "https://webstreaming.viewmedia.tv/web_026/Stream/playlist.m3u8",
     "website": null
+  },
+  {
+    "id": "MorroBayChannel20.us",
+    "name": "Morro Bay Channel 20",
+    "logo": "https://i.imgur.com/UZeC6xH.png",
+    "url": "https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8",
+    "website": "https://slo-span.org/channels/morro-bay-channel-20"
   },
   {
     "id": "Motorvision.de",
@@ -6489,25 +6062,11 @@
     "website": "https://mutv.manutd.com"
   },
   {
-    "id": "MwangazaTV.ke",
-    "name": "Mwangaza TV",
-    "logo": "https://i.imgur.com/GjXfuSh.png",
-    "url": "https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8",
-    "website": null
-  },
-  {
     "id": "MyEncinitasTV.us",
     "name": "MyEncinitasTV",
     "logo": "https://i.imgur.com/OgQ2r7Y.png",
     "url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/encinitas/G0322_002/playlist.m3u8",
     "website": "https://encinitasca.gov/Government/Agendas-Webcasts"
-  },
-  {
-    "id": "MyRighteousTV.cm",
-    "name": "My Righteous TV",
-    "logo": "https://i.imgur.com/wKSLNHB.png",
-    "url": "https://rpn3.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8",
-    "website": null
   },
   {
     "id": "MysteryScienceTheater3000.us",
@@ -6564,6 +6123,13 @@
     "logo": "https://i.imgur.com/RZF3wwW.png",
     "url": "https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_004/playlist.m3u8",
     "website": "https://napatv.granicus.com/MediaPlayer.php?publish_id=3"
+  },
+  {
+    "id": "NASATV.us",
+    "name": "NASA TV",
+    "logo": "https://i.imgur.com/ECPgLf6.png",
+    "url": "http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8",
+    "website": "http://www.nasa.gov/multimedia/nasatv/"
   },
   {
     "id": "NASATV.us",
@@ -6692,13 +6258,6 @@
     "website": "http://newfrontierstv.info/"
   },
   {
-    "id": "NewLifeTV.ke",
-    "name": "New Life TV",
-    "logo": "https://i.imgur.com/hTcSNK5.png",
-    "url": "https://ythls.armelin.one/channel/UCk3buHLJP6KAcbtsw8fj4hg.m3u8",
-    "website": "http://www.newlifeprayercenterandchurch.org/"
-  },
-  {
     "id": "News12NewYork.us",
     "name": "News12 New York",
     "logo": "https://i.imgur.com/Ez7qAZP.png",
@@ -6769,6 +6328,13 @@
     "website": null
   },
   {
+    "id": "NewsOne.pk",
+    "name": "News One",
+    "logo": "https://i.imgur.com/ivrRYMk.png",
+    "url": "https://ythls.armelin.one/channel/UCjHWKUbljF4hp3s5PbgK9uA.m3u8",
+    "website": "https://www.newsone.tv/"
+  },
+  {
     "id": "Newsy.us",
     "name": "Newsy",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png",
@@ -6818,13 +6384,6 @@
     "website": "https://www3.nhk.or.jp/nhkworld/"
   },
   {
-    "id": "NHKWorldJapan.jp",
-    "name": "NHK World-Japan",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
-    "url": "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8",
-    "website": "https://www3.nhk.or.jp/nhkworld/"
-  },
-  {
     "id": "NHKWorldPremium.jp",
     "name": "NHK World Premium",
     "logo": "https://i.imgur.com/4ESi2La.png",
@@ -6844,13 +6403,6 @@
     "logo": "https://i.imgur.com/jZgcm4k.png",
     "url": "https://lnc-nhra.tubi.video/nh.m3u8",
     "website": "https://www.nhra.tv/"
-  },
-  {
-    "id": "Nickelodeon.pl",
-    "name": "Nickelodeon",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "url": "https://cdn-nvm-chicago.lolokoko.tv/Nickelodeon.stream/playlist.m3u8",
-    "website": "http://www.nick.com.pl/"
   },
   {
     "id": "NickelodeonEast.us",
@@ -6874,13 +6426,6 @@
     "website": "https://pluto.tv/en/live-tv/nick-pluto-tv"
   },
   {
-    "id": "Nicktoons.pl",
-    "name": "Nicktoons",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
-    "url": "https://cdn-nvm-chicago.lolokoko.tv/Nicktoons.stream/playlist.m3u8",
-    "website": "http://nicktoons.nick.com.pl/"
-  },
-  {
     "id": "NicktoonsEast.us",
     "name": "Nicktoons East",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png",
@@ -6893,13 +6438,6 @@
     "logo": "https://i.imgur.com/Ri0sB6I.jpg",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8",
     "website": null
-  },
-  {
-    "id": "NjataTV.ke",
-    "name": "Njata TV",
-    "logo": "https://i.imgur.com/246CBAW.png",
-    "url": "https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8",
-    "website": "https://njatatv.co.ke/"
   },
   {
     "id": "NMBTV.us",
@@ -6991,20 +6529,6 @@
     "logo": "https://i.imgur.com/mN8j8CR.png",
     "url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8",
     "website": "https://www.nta.ng/"
-  },
-  {
-    "id": "NTANews24.ng",
-    "name": "NTA News 24",
-    "logo": "https://i.imgur.com/9ak6bNd.png",
-    "url": "https://ythls.armelin.one/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8",
-    "website": "https://www.nta.ng/"
-  },
-  {
-    "id": "NTVUganda.ug",
-    "name": "NTV Uganda",
-    "logo": "https://i.imgur.com/ej5A6RZ.png",
-    "url": "https://ythls.armelin.one/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8",
-    "website": "https://www.ntv.co.ug/"
   },
   {
     "id": "NWInfo2.tg",
@@ -7234,13 +6758,6 @@
     "id": "OutsideTV.us",
     "name": "Outside TV",
     "logo": "https://i.imgur.com/7WF7ca4.png",
-    "url": "https://lnc-outsidetv.tubi.video/playlist.m3u8",
-    "website": "http://www.outsidetv.com/"
-  },
-  {
-    "id": "OutsideTV.us",
-    "name": "Outside TV",
-    "logo": "https://i.imgur.com/7WF7ca4.png",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8",
     "website": "http://www.outsidetv.com/"
   },
@@ -7322,13 +6839,6 @@
     "website": "https://pascocountyfl.net/754/Watch-Live-Pasco-TV"
   },
   {
-    "id": "PBCJamaicaTV.jm",
-    "name": "PBC Jamaica TV",
-    "logo": "https://i.ibb.co/WnDWvck/PBC-Jamaica-TV-tvtolive-com.jpg",
-    "url": "https://ythls.armelin.one/channel/UC8X0kkF7HNdWUxTMjAagJxw.m3u8",
-    "website": "https://pbcjamaica.org/"
-  },
-  {
     "id": "PBCTVChannel20.us",
     "name": "PBC TV Channel 20",
     "logo": "https://i.imgur.com/2bGBbOZ.png",
@@ -7369,6 +6879,20 @@
     "logo": "https://i.imgur.com/WahZg3L.png",
     "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8",
     "website": "https://pinole.granicus.com/MediaPlayer.php?camera_id=2"
+  },
+  {
+    "id": "PeerTVSouthTyrol.it",
+    "name": "Peer TV South Tyrol",
+    "logo": "https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png",
+    "url": "https://iptv.peer.biz/live/peertv-en.m3u8",
+    "website": "https://www.peer.tv/en"
+  },
+  {
+    "id": "PentTV.gh",
+    "name": "Pent TV",
+    "logo": "https://i.imgur.com/Jw6d3dR.png",
+    "url": "https://iptv-trans.ecntv.net/live/penttv.m3u8",
+    "website": "https://thecophq.org/pent-tv/"
   },
   {
     "id": "PeopleAreAwesome.us",
@@ -7567,11 +7091,11 @@
     "website": "https://ptlnetwork.com/"
   },
   {
-    "id": "PublicNews.pk",
-    "name": "Public News",
-    "logo": "https://i.imgur.com/q3ij8wO.png",
-    "url": "https://ythls.armelin.one/channel/UCElJZvY_RVra6qjD8WSQYog.m3u8",
-    "website": "https://publicnews.com/"
+    "id": "PTV4.ph",
+    "name": "PTV 4",
+    "logo": "https://i.imgur.com/T3jDOEq.png",
+    "url": "https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8",
+    "website": null
   },
   {
     "id": "Pulse.za",
@@ -7595,6 +7119,13 @@
     "website": "https://pursuituptv.com/"
   },
   {
+    "id": "QausainTV.ng",
+    "name": "Qausain TV",
+    "logo": "https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png",
+    "url": "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8",
+    "website": "https://www.qausaintv.com/"
+  },
+  {
     "id": "QelloConcertsbyStingray.ca",
     "name": "Qello Concerts by Stingray",
     "logo": "https://i.imgur.com/IRyFTWq.png",
@@ -7614,6 +7145,13 @@
     "logo": "https://i.imgur.com/IRyFTWq.png",
     "url": "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8",
     "website": "https://qello.com/en/"
+  },
+  {
+    "id": "QTVGambia.gm",
+    "name": "QTV Gambia",
+    "logo": "https://i.imgur.com/ZsTuADb.png",
+    "url": "https://player.qtv.gm/hls/live.stream.m3u8",
+    "website": "http://qtv.gm/"
   },
   {
     "id": "QVC2.us",
@@ -7875,13 +7413,6 @@
     "website": null
   },
   {
-    "id": "ResurrectionTV.gh",
-    "name": "Resurrection TV",
-    "logo": "https://i.imgur.com/IncyJW8.png",
-    "url": "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8",
-    "website": "http://www.resurrectiontv.org/"
-  },
-  {
     "id": "RetroCrush.us",
     "name": "RetroCrush",
     "logo": "https://i.imgur.com/M40b4YI.png",
@@ -8032,13 +7563,6 @@
     "id": "RT.ru",
     "name": "RT",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
-    "url": "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
-    "website": "https://www.rt.com/"
-  },
-  {
-    "id": "RT.ru",
-    "name": "RT",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
     "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
     "website": "https://www.rt.com/"
   },
@@ -8069,6 +7593,13 @@
     "logo": "https://i.imgur.com/rzB6Z6u.png",
     "url": "https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8",
     "website": "https://www.rtl.hr/"
+  },
+  {
+    "id": "Rush.nz",
+    "name": "Rush",
+    "logo": "https://i.imgur.com/q7kj4jo.png",
+    "url": "https://ythls.armelin.one/channel/UCCfrC8pO_GxBO_29C6r1a3g.m3u8",
+    "website": "https://www.threenow.co.nz/search?genre=rush"
   },
   {
     "id": "RwandaTV.rw",
@@ -8141,13 +7672,6 @@
     "website": null
   },
   {
-    "id": "SCBCTV.cm",
-    "name": "SCBC TV",
-    "logo": "https://i.imgur.com/49hhll2.png",
-    "url": "https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8",
-    "website": "https://scbcmedia.com/"
-  },
-  {
     "id": "SCCurrents.us",
     "name": "SC Currents",
     "logo": "https://i.imgur.com/8FZsNyK.png",
@@ -8181,13 +7705,6 @@
     "logo": "https://i.imgur.com/9dz8MsD.png",
     "url": "https://muzzik-live.morescreens.com/mts-7/playlist.m3u8",
     "website": "https://muzzik.co.uk/"
-  },
-  {
-    "id": "SeraphimTV.za",
-    "name": "Seraphim TV",
-    "logo": "https://i.imgur.com/MfeKk07.png",
-    "url": "https://tv.prayertime.co.za:3638/stream/play.m3u8",
-    "website": "https://seraphimtv.org/"
   },
   {
     "id": "SETTV2.us",
@@ -8309,13 +7826,6 @@
     "website": null
   },
   {
-    "id": "SilverbirdNews24.ng",
-    "name": "Silverbird News 24",
-    "logo": "https://i.imgur.com/9jcV9oG.png",
-    "url": "https://ythls.armelin.one/channel/UCNuPuew8lLVB3mMAm9_Qt9w.m3u8",
-    "website": null
-  },
-  {
     "id": "SKITV.ch",
     "name": "SKI TV",
     "logo": "https://i.imgur.com/S6qgwLG.png",
@@ -8400,18 +7910,11 @@
     "website": "https://www.cityofsantamaria.org/city-government/departments/city-manager/santa-maria-community-television"
   },
   {
-    "id": "SOATV.ke",
-    "name": "SOA TV",
-    "logo": "https://i.imgur.com/4uDXP3A.jpg",
-    "url": "https://goliveafrica.media:9998/live/6268e317152cc/index.m3u8",
-    "website": null
-  },
-  {
-    "id": "SonyMovies.us",
-    "name": "Sony Movies",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8",
-    "website": "https://www.sonymovies.com/"
+    "id": "SonyBBCEarth.in",
+    "name": "Sony BBC Earth",
+    "logo": "https://i.imgur.com/XVUGLxa.png",
+    "url": "https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8",
+    "website": "http://www.bbcasia.com/channels/earth/"
   },
   {
     "id": "SonyMovies.us",
@@ -8419,6 +7922,55 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png",
     "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8",
     "website": "https://www.sonymovies.com/"
+  },
+  {
+    "id": "SonyPix.in",
+    "name": "Sony Pix",
+    "logo": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
+    "url": "https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8",
+    "website": "http://www.sonypix.com/"
+  },
+  {
+    "id": "SonySportsTen1.in",
+    "name": "Sony Sports Ten 1",
+    "logo": "https://i.imgur.com/hWo7Ba4.png",
+    "url": "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8",
+    "website": "https://www.sonysportsnetwork.com/"
+  },
+  {
+    "id": "SonySportsTen1.in",
+    "name": "Sony Sports Ten 1",
+    "logo": "https://i.imgur.com/hWo7Ba4.png",
+    "url": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+    "website": "https://www.sonysportsnetwork.com/"
+  },
+  {
+    "id": "SonySportsTen2.in",
+    "name": "Sony Sports Ten 2",
+    "logo": "https://i.imgur.com/W96KVqu.png",
+    "url": "https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8",
+    "website": "https://www.sonysportsnetwork.com/"
+  },
+  {
+    "id": "SonySportsTen2.in",
+    "name": "Sony Sports Ten 2",
+    "logo": "https://i.imgur.com/W96KVqu.png",
+    "url": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8",
+    "website": "https://www.sonysportsnetwork.com/"
+  },
+  {
+    "id": "SonySportsTen5.in",
+    "name": "Sony Sports Ten 5",
+    "logo": "https://i.imgur.com/40BbQUd.png",
+    "url": "https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
+    "website": "https://www.sonysportsnetwork.com/"
+  },
+  {
+    "id": "SonySportsTen5.in",
+    "name": "Sony Sports Ten 5",
+    "logo": "https://i.imgur.com/40BbQUd.png",
+    "url": "https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8",
+    "website": "https://www.sonysportsnetwork.com/"
   },
   {
     "id": "SoReal.us",
@@ -8531,13 +8083,6 @@
     "logo": "https://i.imgur.com/ulGKX30.png",
     "url": "https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8",
     "website": "https://www.sportsgrid.com/live/"
-  },
-  {
-    "id": "SportyStuffTV.uk",
-    "name": "SportyStuff TV",
-    "logo": "https://i.imgur.com/6s1YGSV.png",
-    "url": "https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8",
-    "website": "https://www.sportystuff.tv/"
   },
   {
     "id": "SPTV.us",
@@ -9513,13 +9058,6 @@
     "website": "https://www.taiwanplus.com"
   },
   {
-    "id": "TaiwanPlusTV.tw",
-    "name": "Taiwan Plus TV",
-    "logo": "https://i.imgur.com/SfcZyqm.png",
-    "url": "https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8",
-    "website": "https://www.taiwanplus.com"
-  },
-  {
     "id": "TalkTV.uk",
     "name": "TalkTV",
     "logo": "https://i.imgur.com/KxHWpQB.png",
@@ -9730,6 +9268,13 @@
     "website": null
   },
   {
+    "id": "TDNTV.dm",
+    "name": "TDN TV",
+    "logo": "https://i.ibb.co/x5gqtmJ/TDN-TV-tvtolive-com.jpg",
+    "url": "https://liveurestreamingcomlive.cdn.ypt.me/62ec67ea435c6.m3u8",
+    "website": "http://tdntv.net/"
+  },
+  {
     "id": "TechnoWarehouse.us",
     "name": "Techno Warehouse",
     "logo": "https://i.imgur.com/GyxXMDv.png",
@@ -9742,13 +9287,6 @@
     "logo": "https://i.imgur.com/JcuV9ZE.png",
     "url": "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8",
     "website": "https://tele7.tv/"
-  },
-  {
-    "id": "TelemundoEast.us",
-    "name": "Telemundo East",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8",
-    "website": "http://www.telemundo.com/"
   },
   {
     "id": "TelesurEnglish.ve",
@@ -9937,13 +9475,6 @@
     "name": "The Design Network",
     "logo": "https://i.imgur.com/J5YJ3r3.png",
     "url": "https://thedesignnetwork-tdn-6-ca.samsung.wurl.tv/playlist.m3u8",
-    "website": "https://pluto.tv/en/live-tv/the-design-network"
-  },
-  {
-    "id": "TheDesignNetwork.us",
-    "name": "The Design Network",
-    "logo": "https://i.imgur.com/J5YJ3r3.png",
-    "url": "https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8",
     "website": "https://pluto.tv/en/live-tv/the-design-network"
   },
   {
@@ -10213,13 +9744,6 @@
     "website": "https://www.international.tbs.com/"
   },
   {
-    "id": "TNTSeries.mx",
-    "name": "TNT Series",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8",
-    "website": "http://www.tntgo.tv/"
-  },
-  {
     "id": "TNTWest.us",
     "name": "TNT West",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",
@@ -10232,6 +9756,13 @@
     "logo": "https://i.imgur.com/LhbQ8Mr.png",
     "url": "https://lnc-today.tubi.video/master.m3u8",
     "website": "https://www.today.com/allday"
+  },
+  {
+    "id": "TodayRadio.lu",
+    "name": "Today Radio",
+    "logo": "https://i.imgur.com/O1c6wpt.png",
+    "url": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
+    "website": "https://today.rtl.lu/radio"
   },
   {
     "id": "TokuSHOUTsu.us",
@@ -10409,25 +9940,18 @@
     "website": "https://www.bullheadcity.com/government/tv4"
   },
   {
-    "id": "TV360Nigeria.ng",
-    "name": "TV360 Nigeria",
-    "logo": "https://i.imgur.com/yJ3ivGa.png",
-    "url": "https://ythls.armelin.one/channel/UCBzu4YqGiBxBD8pq8NiBuKw.m3u8",
-    "website": "https://www.tv360nigeria.com/"
-  },
-  {
-    "id": "TVBRICSEnglish.in",
-    "name": "TV BRICS English",
-    "logo": "https://i.imgur.com/8rKNuS6.png",
-    "url": "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8",
-    "website": null
-  },
-  {
     "id": "TVC.ng",
     "name": "TVC",
     "logo": "https://i.imgur.com/ReV8R5S.png",
     "url": "https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8",
     "website": "https://www.tvcentertainment.tv/"
+  },
+  {
+    "id": "TVCNews.ng",
+    "name": "TVC News",
+    "logo": "https://i.imgur.com/jaSq18B.png",
+    "url": "https://ythls.armelin.one/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8",
+    "website": "https://tvcnews.tv/"
   },
   {
     "id": "TVManaEnglish.pt",
@@ -10446,14 +9970,14 @@
   {
     "id": "TVRIWorld.id",
     "name": "TVRI World",
-    "logo": "https://i.imgur.com/h3RldTO.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png",
     "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8",
     "website": null
   },
   {
     "id": "TVRIWorld.id",
     "name": "TVRI World",
-    "logo": "https://i.imgur.com/h3RldTO.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png",
     "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
     "website": null
   },
@@ -10470,13 +9994,6 @@
     "logo": "https://i.imgur.com/lmoAFm3.png",
     "url": "https://ythls.armelin.one/channel/UCo4sch-fwKIeyzyPIWRXjdw.m3u8",
     "website": "https://www.itvsn.com.au/"
-  },
-  {
-    "id": "TVWest.ug",
-    "name": "TV West",
-    "logo": "https://i.imgur.com/EiJzkIz.png",
-    "url": "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
-    "website": "https://tvwest.co.ug/"
   },
   {
     "id": "UALRTV.us",
@@ -10500,13 +10017,6 @@
     "website": null
   },
   {
-    "id": "UnitedTV.gh",
-    "name": "United TV",
-    "logo": "https://i.imgur.com/2isM8xd.png",
-    "url": "https://ythls.armelin.one/channel/UCA2f1lPcwYpBKA4JBMBHDSQ.m3u8",
-    "website": "http://utv.peacefmonline.com/"
-  },
-  {
     "id": "UnsolvedMysteries.us",
     "name": "Unsolved Mysteries",
     "logo": "https://i.imgur.com/De3khrX.png",
@@ -10521,13 +10031,6 @@
     "website": null
   },
   {
-    "id": "UrbanTV.ug",
-    "name": "Urban TV",
-    "logo": "https://i.imgur.com/cCcr8Xs.png",
-    "url": "https://stream.hydeinnovations.com/urban-flussonic/index.m3u8",
-    "website": "https://urbantv.co.ug/"
-  },
-  {
     "id": "USATODAY.us",
     "name": "USA TODAY",
     "logo": "https://i.imgur.com/37K0AZX.png",
@@ -10540,13 +10043,6 @@
     "logo": "https://i.imgur.com/37K0AZX.png",
     "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8",
     "website": "https://www.usatoday.com/"
-  },
-  {
-    "id": "UTV.ke",
-    "name": "UTV",
-    "logo": "https://i.imgur.com/yN4e2up.png",
-    "url": "https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8",
-    "website": "https://utv.co.ke/"
   },
   {
     "id": "UvagutTV.ca",
@@ -10647,13 +10143,6 @@
     "website": "https://pluto.tv/en/live-tv/xive-tv"
   },
   {
-    "id": "VSiN.us",
-    "name": "VSiN",
-    "logo": "https://i.imgur.com/C4wIRxg.png",
-    "url": "https://stream.rcncdn.com/live/vsinproxy.m3u8",
-    "website": "https://www.vsin.com/livestream/"
-  },
-  {
     "id": "VyasChannel.in",
     "name": "Vyas Channel",
     "logo": "https://i.ibb.co/WVyjqrX/in-vyas-channel-5512.jpg",
@@ -10724,20 +10213,6 @@
     "website": "http://www.wairarapatv.co.nz/"
   },
   {
-    "id": "WanLuoTV.ug",
-    "name": "Wan Luo TV",
-    "logo": "https://i.imgur.com/4PUUp3E.png",
-    "url": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8",
-    "website": null
-  },
-  {
-    "id": "WantedDeadorAlive.us",
-    "name": "Wanted: Dead or Alive",
-    "logo": "https://i.imgur.com/vaSXaFp.png",
-    "url": "https://lnc-wanted-dead-or-alive.tubi.video/playlist.m3u8",
-    "website": "https://pluto.tv/en/live-tv/wanted-dead-or-alive"
-  },
-  {
     "id": "WAPTDT1.us",
     "name": "WAPT-DT1",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
@@ -10773,27 +10248,6 @@
     "website": "https://waypointtv.com/"
   },
   {
-    "id": "WazobiaMaxTVAbuja.ng",
-    "name": "Wazobia Max TV Abuja",
-    "logo": "https://i.imgur.com/XYMKPPT.png",
-    "url": "https://wazobia.live:8333/channel/wmaxabuja.m3u8",
-    "website": "https://www.wazobiamax.ng/abuja"
-  },
-  {
-    "id": "WazobiaMaxTVNigeria.ng",
-    "name": "Wazobia Max TV Nigeria",
-    "logo": "https://i.imgur.com/IeioxBp.png",
-    "url": "https://wazobia.live:8333/channel/wmax.m3u8",
-    "website": "https://www.wazobiamax.ng/"
-  },
-  {
-    "id": "WazobiaMaxTVPortHarcourt.ng",
-    "name": "Wazobia Max TV Port-Harcourt",
-    "logo": "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
-    "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
-    "website": "https://www.wazobiamax.ng/ph"
-  },
-  {
     "id": "WBALDT1.us",
     "name": "WBAL-DT1",
     "logo": "https://upload.wikimedia.org/wikipedia/en/5/54/WBAL_Horizontal_Logo_2013.png",
@@ -10815,25 +10269,11 @@
     "website": "https://www.10tv.com/"
   },
   {
-    "id": "WCATDT3.us",
-    "name": "WCAT-DT3",
-    "logo": "https://i.imgur.com/1odhDRE.png",
-    "url": "https://frontdoor.wcat-tv.org:8787/live/live.m3u8",
-    "website": "https://www.wcat-tv.org/"
-  },
-  {
-    "id": "WCATDT15.us",
-    "name": "WCAT-DT15",
-    "logo": "https://i.imgur.com/1odhDRE.png",
-    "url": "https://edu-live-cdn-profile-gkbsd5a7cmeqcwcj.z01.azurefd.net/live/live.m3u8",
-    "website": "https://www.wcat-tv.org/"
-  },
-  {
-    "id": "WCATDT22.us",
-    "name": "WCAT-DT22",
-    "logo": "https://i.imgur.com/1odhDRE.png",
-    "url": "https://frontdoor.wcat-tv.org:8686/live/live.m3u8",
-    "website": "https://www.wcat-tv.org/"
+    "id": "WBQCLD1.us",
+    "name": "WBQC-LD1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png",
+    "url": "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8",
+    "website": null
   },
   {
     "id": "WCBIDT1.us",
@@ -10848,6 +10288,13 @@
     "logo": "https://i.imgur.com/q7UPbEG.png",
     "url": "https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8",
     "website": "https://www.wcgtv.ca/"
+  },
+  {
+    "id": "WCIUDT5.us",
+    "name": "WCIU-DT5",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8",
+    "website": null
   },
   {
     "id": "WCNCDT1.us",
@@ -10883,13 +10330,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
     "url": "https://lnc-wdsu.tubi.video/playlist.m3u8",
     "website": "http://www.wdsu.com/"
-  },
-  {
-    "id": "WeatherNation.us",
-    "name": "WeatherNation",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png",
-    "url": "https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8",
-    "website": "http://www.weathernationtv.com/"
   },
   {
     "id": "WeatherSpy.ca",
@@ -10974,13 +10414,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png",
     "url": "https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8",
     "website": "http://www.wfmz.com/"
-  },
-  {
-    "id": "WFSUDT2.us",
-    "name": "WFSU-DT2",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png",
-    "url": "https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8",
-    "website": "https://thefloridachannel.org/"
   },
   {
     "id": "WFTSDT1.us",
@@ -11142,13 +10575,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/WITI_2020_Logo.svg/512px-WITI_2020_Logo.svg.png",
     "url": "https://lnc-witi.tubi.video/index.m3u8",
     "website": "http://www.fox6now.com/"
-  },
-  {
-    "id": "WITN22.us",
-    "name": "WITN22",
-    "logo": "https://i.imgur.com/Esu8PyB.png",
-    "url": "https://edge-f.swagit.com/live/wilmingtonde/smil:std-4x3-1-a/playlist.m3u8",
-    "website": "https://www.witn22.org/"
   },
   {
     "id": "WJBKDT1.us",
@@ -11459,13 +10885,6 @@
     "website": "https://www.wrtv.com/"
   },
   {
-    "id": "WSBSDT1.us",
-    "name": "WSBS-DT1",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png",
-    "url": "https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8",
-    "website": "http://www.mega.tv/"
-  },
-  {
     "id": "WSYMDT1.us",
     "name": "WSYM-DT1",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
@@ -11618,13 +11037,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
     "url": "https://dai.google.com/linear/hls/event/A7CgcBYNTuKfvFvW8rmiJA/master.m3u8",
     "website": "http://www.wwaytv3.com/"
-  },
-  {
-    "id": "WWONTVChannel48.us",
-    "name": "WWON-TV Channel 48",
-    "logo": "https://i.imgur.com/l4qHAq6.png",
-    "url": "https://hls-cdn.tvstartup16.net/tvstartup16-channel/live/mp4:jimbobklynedge/playlist.m3u8",
-    "website": "https://www.wonnewyork.net/wwon48"
   },
   {
     "id": "WXIADT1.us",
@@ -11827,13 +11239,6 @@
     "name": "Young Hollywood",
     "logo": "https://i.imgur.com/X27MGHd.png",
     "url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
-    "website": null
-  },
-  {
-    "id": "YOUNIBMediaTV.ke",
-    "name": "YOUNIB Media TV",
-    "logo": "https://i.imgur.com/LtiPOYG.jpg",
-    "url": "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8",
     "website": null
   },
   {

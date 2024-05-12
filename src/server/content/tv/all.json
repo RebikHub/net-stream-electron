@@ -1,0 +1,2347 @@
+[
+  {
+    "id": "нтвhd",
+    "name": "НТВ HD",
+    "logo": "",
+    "url": "http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8",
+    "website": ""
+  },
+  {
+    "id": "нтв-мир",
+    "name": "НТВ-Мир",
+    "logo": "",
+    "url": "https://st1.uzdigital.tv/NTV_MIR/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "нтв-беларусь",
+    "name": "НТВ-Беларусь",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "отр+2",
+    "name": "ОТР +2",
+    "logo": "",
+    "url": "http://94.230.240.17:8080/otp/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "рентвhd",
+    "name": "РенТВ HD",
+    "logo": "",
+    "url": "http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "рентвint",
+    "name": "РенТВ Int",
+    "logo": "",
+    "url": "http://sc.id-tv.kz/RenTV_36_37.m3u8",
+    "website": ""
+  },
+  {
+    "id": "тв3беларусь",
+    "name": "ТВ3 Беларусь",
+    "logo": "",
+    "url": "http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "звездаhd",
+    "name": "Звезда HD",
+    "logo": "",
+    "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мирhd",
+    "name": "Мир HD",
+    "logo": "",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "тнвпланета",
+    "name": "ТНВ Планета",
+    "logo": "",
+    "url": "http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "бст",
+    "name": "БСТ",
+    "logo": "",
+    "url": "http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8",
+    "website": ""
+  },
+  {
+    "id": ".black",
+    "name": ".black",
+    "logo": "",
+    "url": "http://91.205.199.3/black/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": ".redhd",
+    "name": ".red HD",
+    "logo": "",
+    "url": "http://188.113.190.15/149/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": ".sci-fi",
+    "name": ".sci-fi",
+    "logo": "",
+    "url": "http://91.205.199.3/scifi/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "312",
+    "name": "312",
+    "logo": "",
+    "url": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "312кино",
+    "name": "312 Кино",
+    "logo": "",
+    "url": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "видеокассета",
+    "name": "Видеокассета",
+    "logo": "",
+    "url": "https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "домкинопремиум",
+    "name": "Дом кино Премиум",
+    "logo": "",
+    "url": "http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "домкинопремиумhd",
+    "name": "Дом кино Премиум HD",
+    "logo": "",
+    "url": "http://188.113.190.15/91/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "дорама",
+    "name": "Дорама",
+    "logo": "",
+    "url": "http://188.113.190.15/233/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "дорамаhd",
+    "name": "Дорама HD",
+    "logo": "",
+    "url": "http://sc.id-tv.kz/dorama_hd_34_35.m3u8",
+    "website": ""
+  },
+  {
+    "id": "еврокино",
+    "name": "Еврокино",
+    "logo": "",
+    "url": "http://188.113.190.15/49/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "иллюзион+",
+    "name": "Иллюзион+",
+    "logo": "",
+    "url": "http://188.113.190.15/45/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "индийскоекино",
+    "name": "Индийское кино",
+    "logo": "",
+    "url": "http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "индия",
+    "name": "Индия",
+    "logo": "",
+    "url": "http://83.234.207.29:8003/play/a014/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кино1international",
+    "name": "Кино 1 International",
+    "logo": "",
+    "url": "http://kino-1.catcast.tv/content/38617/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кинотв",
+    "name": "Кино ТВ",
+    "logo": "",
+    "url": "http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кинотв+4",
+    "name": "Кино ТВ +4",
+    "logo": "",
+    "url": "http://live-3.otcnet.ru/kinotvplus4/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кинотвhd",
+    "name": "Кино ТВ HD",
+    "logo": "",
+    "url": "http://83.234.207.29:8013/play/a00m/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кинотвhd+7",
+    "name": "Кино ТВ HD +7",
+    "logo": "",
+    "url": "http://live-3.otcnet.ru/kinotvplus7/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кинокомедия",
+    "name": "Кинокомедия",
+    "logo": "",
+    "url": "http://91.205.199.3:80/komedia/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кинокомедияhd",
+    "name": "Кинокомедия HD",
+    "logo": "",
+    "url": "http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8",
+    "website": ""
+  },
+  {
+    "id": "киномикс",
+    "name": "Киномикс",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "киномиксhd",
+    "name": "Киномикс HD",
+    "logo": "",
+    "url": "http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кинопремьера",
+    "name": "Кинопремьера",
+    "logo": "",
+    "url": "http://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кинопремьераhd",
+    "name": "Кинопремьера HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "киносат",
+    "name": "Киносат",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "киносвидание",
+    "name": "Киносвидание",
+    "logo": "",
+    "url": "http://91.205.199.3/kinosvidanie/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "киносвиданиеhd",
+    "name": "Киносвидание HD",
+    "logo": "",
+    "url": "http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8",
+    "website": ""
+  },
+  {
+    "id": "киносемья",
+    "name": "Киносемья",
+    "logo": "",
+    "url": "http://83.234.207.29:8003/play/a01a/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "киносемьяhd",
+    "name": "Киносемья HD",
+    "logo": "",
+    "url": "http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8",
+    "website": ""
+  },
+  {
+    "id": "киносерия",
+    "name": "Киносерия",
+    "logo": "",
+    "url": "http://188.113.190.15/312/video.m3u8",
+    "website": ""
+  },
+  {
+    "id": "киносерияhd",
+    "name": "Киносерия HD",
+    "logo": "",
+    "url": "http://188.113.190.15/336/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кинохит",
+    "name": "Кинохит",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кинохитhd",
+    "name": "Кинохит HD",
+    "logo": "",
+    "url": "http://91.205.199.3:80/kinoxithd/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "комедийноеhd",
+    "name": "Комедийное HD",
+    "logo": "",
+    "url": "https://streamer1.connectto.com/519/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "комедия",
+    "name": "Комедия",
+    "logo": "",
+    "url": "http://91.142.158.107:8092/play/30/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мирсериала",
+    "name": "Мир сериала",
+    "logo": "",
+    "url": "http://83.234.207.29:8010/play/a020/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мужскоекино",
+    "name": "Мужское кино",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мужскоекиноhd",
+    "name": "Мужское кино HD",
+    "logo": "",
+    "url": "http://hlstest.eltex-media.ru:8085/menfilm/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "нашеновоекино",
+    "name": "Наше новое кино",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "нст",
+    "name": "НСТ",
+    "logo": "",
+    "url": "http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "нтв-хитhd",
+    "name": "НТВ-Хит HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "нтв-сериалhd",
+    "name": "НТВ-Сериал HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "родноекино",
+    "name": "Родное кино",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "русскийбестселлер",
+    "name": "Русский бестселлер",
+    "logo": "",
+    "url": "http://91.142.158.107:8092/play/26/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "русскийдетектив",
+    "name": "Русский детектив",
+    "logo": "",
+    "url": "http://91.142.158.107:8092/play/27/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "русскийиллюзион",
+    "name": "Русский иллюзион",
+    "logo": "",
+    "url": "http://195.191.130.11:9000/play/a00u/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "русскийроман",
+    "name": "Русский роман",
+    "logo": "",
+    "url": "http://91.142.158.107:8092/play/25/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "русскийроманhd",
+    "name": "Русский роман HD",
+    "logo": "",
+    "url": "http://188.113.190.15/221/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "сапфирhd",
+    "name": "Сапфир HD",
+    "logo": "",
+    "url": "http://188.113.190.15/182/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "страхhd",
+    "name": "Страх HD",
+    "logo": "",
+    "url": "http://195.9.195.3:8080/hls/202127.m3u8",
+    "website": ""
+  },
+  {
+    "id": "фениксплюскино",
+    "name": "Феникс Плюс Кино",
+    "logo": "",
+    "url": "http://188.113.190.15/24/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "a1hd",
+    "name": "A1 HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000710.m3u8",
+    "website": ""
+  },
+  {
+    "id": "a2hd",
+    "name": "A2 HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000351.m3u8",
+    "website": ""
+  },
+  {
+    "id": "backustvhd",
+    "name": "BackusTV HD",
+    "logo": "",
+    "url": "http://stream.backustv.ru/live/btv/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "backustvdarkhd",
+    "name": "BackusTV Dark HD",
+    "logo": "",
+    "url": "http://stream.backustv.ru/live/btv2/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "bollywoodhd",
+    "name": "Bollywood HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "cinemahd",
+    "name": "Cinema HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "cinemaclassic",
+    "name": "Cinema Classic",
+    "logo": "",
+    "url": "https://api.alpaca.t62a.com/hls/9114/stream0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "comedycentral",
+    "name": "Comedy Central",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000452.m3u8",
+    "website": ""
+  },
+  {
+    "id": "filmboxarthouse",
+    "name": "FilmBox Arthouse",
+    "logo": "",
+    "url": "http://188.113.190.15/207/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "filmuadrama",
+    "name": "FilmUADrama",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000003028.m3u8",
+    "website": ""
+  },
+  {
+    "id": "foxhd",
+    "name": "Fox HD",
+    "logo": "",
+    "url": "http://sc.id-tv.kz/FOX_HD_34_35.m3u8",
+    "website": ""
+  },
+  {
+    "id": "foxlifehd",
+    "name": "Fox Life HD",
+    "logo": "",
+    "url": "http://91.205.199.3/FoxLife/tracks-v1a2/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "hollywoodhd",
+    "name": "Hollywood HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "kino24",
+    "name": "Kino24",
+    "logo": "",
+    "url": "http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "planbhd",
+    "name": "Plan B HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000007625.m3u8",
+    "website": ""
+  },
+  {
+    "id": "romancechannel",
+    "name": "Romance Channel",
+    "logo": "",
+    "url": "http://146.158.0.56:80/Motosport/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "startair",
+    "name": "Start Air",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000007815.m3u8",
+    "website": ""
+  },
+  {
+    "id": "startworld",
+    "name": "Start World",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000007818.m3u8",
+    "website": ""
+  },
+  {
+    "id": "timelessdizichannel",
+    "name": "Timeless Dizi Channel",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "tvxxi",
+    "name": "TV XXI",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "vhsка",
+    "name": "VHSка",
+    "logo": "",
+    "url": "http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "vijutv1000",
+    "name": "Viju TV1000",
+    "logo": "",
+    "url": "http://91.205.199.3/tv1000/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "vijutv1000hd",
+    "name": "Viju TV1000 HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000003747.m3u8",
+    "website": ""
+  },
+  {
+    "id": "vijutv1000action",
+    "name": "Viju TV1000 Action",
+    "logo": "",
+    "url": "http://91.205.199.3/tv1000action/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "vijutv1000actionhd",
+    "name": "Viju TV1000 Action HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000003910.m3u8",
+    "website": ""
+  },
+  {
+    "id": "vijutv1000русскоекиноhd",
+    "name": "Viju TV1000 Русское кино HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000003748.m3u8",
+    "website": ""
+  },
+  {
+    "id": "viju+premierehd",
+    "name": "Viju+ Premiere HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000868.m3u8",
+    "website": ""
+  },
+  {
+    "id": "viju+serialhd",
+    "name": "Viju+ Serial HD",
+    "logo": "",
+    "url": "http://91.205.199.3:80/vipserialhd/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "вгостяхусказки",
+    "name": "В гостях у сказки",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "детскоекиноinternational",
+    "name": "Детское кино International",
+    "logo": "",
+    "url": "https://v2.catcast.tv/content/38720/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "капитанфантастикаhd",
+    "name": "Капитан Фантастика HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "карусель",
+    "name": "Карусель",
+    "logo": "",
+    "url": "http://91.142.158.107:8092/play/8/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "карусельinternational",
+    "name": "Карусель International",
+    "logo": "",
+    "url": "http://178.124.179.122:8088/karusel/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кнопкатв",
+    "name": "Кнопка ТВ",
+    "logo": "",
+    "url": "http://api.alpaca.t62a.com/hls/9116/stream0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "лëваhd",
+    "name": "Лëва HD",
+    "logo": "",
+    "url": "http://strm.yandex.ru/kal/leva/leva0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мульт",
+    "name": "Мульт",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мультhd",
+    "name": "Мульт HD",
+    "logo": "",
+    "url": "http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мультиландияhd",
+    "name": "Мультиландия HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мультимузыка",
+    "name": "Мультимузыка",
+    "logo": "",
+    "url": "http://91.142.158.107:8092/play/24/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "пингвинлоло",
+    "name": "Пингвин Лоло",
+    "logo": "",
+    "url": "https://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "радостьмоя",
+    "name": "Радость моя",
+    "logo": "",
+    "url": "https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8",
+    "website": ""
+  },
+  {
+    "id": "рыжий",
+    "name": "Рыжий",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "смайликтв",
+    "name": "Смайлик ТВ",
+    "logo": "",
+    "url": "https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "солнце",
+    "name": "Солнце",
+    "logo": "",
+    "url": "http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "супергерои",
+    "name": "СуперГерои",
+    "logo": "",
+    "url": "http://83.234.207.29:8003/play/a01f/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "уникум",
+    "name": "Уникум",
+    "logo": "",
+    "url": "http://188.113.190.15/41/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "чижик",
+    "name": "Чижик",
+    "logo": "",
+    "url": "http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "ani",
+    "name": "Ani",
+    "logo": "",
+    "url": "http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8",
+    "website": ""
+  },
+  {
+    "id": "babytime",
+    "name": "Baby Time",
+    "logo": "",
+    "url": "http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "cartoonito",
+    "name": "Cartoonito",
+    "logo": "",
+    "url": "http://stream01.vnet.am/Channel_120/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "cartoonnetwork",
+    "name": "Cartoon Network",
+    "logo": "",
+    "url": "http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "ducktvhd",
+    "name": "Duck TV HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "gulligirl",
+    "name": "Gulli Girl",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "kidstv",
+    "name": "Kids TV",
+    "logo": "",
+    "url": "http://31.211.77.158:8000/play/a165/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "nicktoons",
+    "name": "Nicktoons",
+    "logo": "",
+    "url": "http://stream01.vnet.am/Boomerang/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "tiji",
+    "name": "TiJi",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "2x2hd",
+    "name": "2x2 HD",
+    "logo": "",
+    "url": "https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8",
+    "website": ""
+  },
+  {
+    "id": "360hd",
+    "name": "360 HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/360tv/360tv0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "калейдоскоптв",
+    "name": "Калейдоскоп ТВ",
+    "logo": "",
+    "url": "http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "квнтв",
+    "name": "КВН ТВ",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "конгресств",
+    "name": "Конгресс ТВ",
+    "logo": "",
+    "url": "http://live-3.otcnet.ru/congresstv/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "нтвправо",
+    "name": "НТВ Право",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "продвижение",
+    "name": "Продвижение",
+    "logo": "",
+    "url": "http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "перец",
+    "name": "Перец",
+    "logo": "",
+    "url": "http://178.124.179.122:8088/Peretz/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "пятница!",
+    "name": "Пятница!",
+    "logo": "",
+    "url": "http://streamer2.fokks.ru:10016/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "резонанств",
+    "name": "Резонанс ТВ",
+    "logo": "",
+    "url": "http://serv25.vintera.tv:8081/1pnk/canal1/chunks.m3u8",
+    "website": ""
+  },
+  {
+    "id": "сарафан",
+    "name": "Сарафан",
+    "logo": "",
+    "url": "http://178.124.179.122:8088/Sarafan/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "светлоетв",
+    "name": "Светлое ТВ",
+    "logo": "",
+    "url": "http://176.107.219.20:9000/play/a009/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "стсinternational",
+    "name": "СТС International",
+    "logo": "",
+    "url": "https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8",
+    "website": ""
+  },
+  {
+    "id": "тнт",
+    "name": "ТНТ",
+    "logo": "",
+    "url": "http://streamer2.fokks.ru:10019/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "тнтhd",
+    "name": "ТНТ HD",
+    "logo": "",
+    "url": "https://7o8gab7zdd.a.trbcdn.net/hls-livec1/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "тнтinternational(европа)",
+    "name": "ТНТ International (Европа)",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "тнт4",
+    "name": "ТНТ4",
+    "logo": "",
+    "url": "https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8",
+    "website": ""
+  },
+  {
+    "id": "точкаотрыва",
+    "name": "Точка Отрыва",
+    "logo": "",
+    "url": "http://109.239.208.82:80/tochka/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "точкатв",
+    "name": "Точка ТВ",
+    "logo": "",
+    "url": "https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "тугантел",
+    "name": "Туган Тел",
+    "logo": "",
+    "url": "http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "цтв",
+    "name": "ЦТВ",
+    "logo": "",
+    "url": "http://188.113.190.15/228/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "эхоtv",
+    "name": "Эхо TV",
+    "logo": "",
+    "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "discovery",
+    "name": "Discovery",
+    "logo": "",
+    "url": "http://sc.id-tv.kz/Disc_chHD_34_35.m3u8",
+    "website": ""
+  },
+  {
+    "id": "discoveryhd",
+    "name": "Discovery HD",
+    "logo": "",
+    "url": "http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "gagsnetwork",
+    "name": "Gagsnetwork",
+    "logo": "",
+    "url": "http://91.205.199.3/gagsnetwork/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "tlc",
+    "name": "TLC",
+    "logo": "",
+    "url": "http://sc.id-tv.kz/TLCHD_34_35.m3u8",
+    "website": ""
+  },
+  {
+    "id": "tvmchannel",
+    "name": "TVM Channel",
+    "logo": "",
+    "url": "http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "365днейтв",
+    "name": "365 дней ТВ",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "арсеналhd",
+    "name": "Арсенал HD",
+    "logo": "",
+    "url": "http://109.239.208.82/arsenal/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "большаяазияhd",
+    "name": "Большая Азия HD",
+    "logo": "",
+    "url": "https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "вмиреживотных",
+    "name": "В мире животных",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "время",
+    "name": "Время",
+    "logo": "",
+    "url": "http://188.113.190.15/118/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "глазамитуристаhd",
+    "name": "Глазами туриста HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000001414.m3u8",
+    "website": ""
+  },
+  {
+    "id": "доктор",
+    "name": "Доктор",
+    "logo": "",
+    "url": "http://188.113.190.15/29/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "домашниеживотные",
+    "name": "Домашние животные",
+    "logo": "",
+    "url": "http://109.239.208.82/animals/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "живаяпланета",
+    "name": "Живая планета",
+    "logo": "",
+    "url": "http://109.239.208.82:80/liveplanet/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "живаяприрода",
+    "name": "Живая природа",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000001187.m3u8",
+    "website": ""
+  },
+  {
+    "id": "живаяприродаhd",
+    "name": "Живая природа HD",
+    "logo": "",
+    "url": "http://109.239.208.82:80/livenaturehd/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "звездаплюс",
+    "name": "Звезда Плюс",
+    "logo": "",
+    "url": "http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8",
+    "website": ""
+  },
+  {
+    "id": "история",
+    "name": "История",
+    "logo": "",
+    "url": "http://109.239.208.82:80/history/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "ктоестькто",
+    "name": "Кто есть кто",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мособртв",
+    "name": "МосОбр ТВ",
+    "logo": "",
+    "url": "http://retc.educom.ru/mosobrtv/tv1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мояпланета",
+    "name": "Моя планета",
+    "logo": "",
+    "url": "http://83.234.207.29:8007/play/a02h/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мояпланетаhd",
+    "name": "Моя планета HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мы",
+    "name": "Мы",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/my/my0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "нано",
+    "name": "Нано",
+    "logo": "",
+    "url": "http://s1.tv-nano.com/Nano_rec/video.m3u8",
+    "website": ""
+  },
+  {
+    "id": "неизвестнаяроссия",
+    "name": "Неизвестная Россия",
+    "logo": "",
+    "url": "https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "наука2.0",
+    "name": "Наука 2.0",
+    "logo": "",
+    "url": "http://188.113.190.15/96/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "наука2.0hd",
+    "name": "Наука 2.0 HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "нашасибирь",
+    "name": "Наша сибирь",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/sibir/sibir0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "океан",
+    "name": "Океан",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "открытыймир",
+    "name": "Открытый мир",
+    "logo": "",
+    "url": "http://146.158.0.56:80/OtkritiyMir/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "первыйкосмический",
+    "name": "Первый космический",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "победа",
+    "name": "Победа",
+    "logo": "",
+    "url": "http://188.113.190.15/85/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "поехали!",
+    "name": "Поехали!",
+    "logo": "",
+    "url": "http://195.26.83.96:7022/play/a00z/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "приключенияhd",
+    "name": "Приключения HD",
+    "logo": "",
+    "url": "http://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "просвещение",
+    "name": "Просвещение",
+    "logo": "",
+    "url": "https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "психология21",
+    "name": "Психология 21",
+    "logo": "",
+    "url": "http://188.113.190.15/73/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "ратник",
+    "name": "Ратник",
+    "logo": "",
+    "url": "http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "ретро",
+    "name": "Ретро",
+    "logo": "",
+    "url": "http://109.239.208.82:80/retro/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "рждhd",
+    "name": "РЖД HD",
+    "logo": "",
+    "url": "http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "техно24",
+    "name": "Техно 24",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "театр",
+    "name": "Театр",
+    "logo": "",
+    "url": "http://188.113.190.15/180/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "тонус",
+    "name": "Тонус",
+    "logo": "",
+    "url": "http://109.239.208.82/tonus/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "успех",
+    "name": "Успех",
+    "logo": "",
+    "url": "http://83.234.207.29:8011/play/a00f/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "animalplanet",
+    "name": "Animal Planet",
+    "logo": "",
+    "url": "http://edge02.odtv.az/o5/animalplanet/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "animalplanethd",
+    "name": "Animal Planet HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000216.m3u8",
+    "website": ""
+  },
+  {
+    "id": "bigplanethd",
+    "name": "Big Planet HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000008052.m3u8",
+    "website": ""
+  },
+  {
+    "id": "docubox",
+    "name": "Docubox",
+    "logo": "",
+    "url": "http://188.113.190.15/146/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "englishclass",
+    "name": "English Class",
+    "logo": "",
+    "url": "http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "englishclubtv",
+    "name": "English Club TV",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000202.m3u8",
+    "website": ""
+  },
+  {
+    "id": "epichd",
+    "name": "Epic HD",
+    "logo": "",
+    "url": "http://strm.yandex.ru/kal/epic/epic0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "galaxytv",
+    "name": "Galaxy TV",
+    "logo": "",
+    "url": "http://195.26.83.96:7007/play/a00j/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "galaxyhd",
+    "name": "Galaxy HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "hdl",
+    "name": "HDL",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "investigationdiscoveryhd",
+    "name": "Investigation Discovery HD",
+    "logo": "",
+    "url": "http://83.234.207.29:8008/play/a01a/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "myzentv",
+    "name": "MyZen TV",
+    "logo": "",
+    "url": "http://31.211.77.158:8000/play/a186/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "natgeowild",
+    "name": "Nat Geo Wild",
+    "logo": "",
+    "url": "http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "nationalgeographichd",
+    "name": "National Geographic HD",
+    "logo": "",
+    "url": "https://st1.uzdigital.tv/National_Geographic/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "rtdoc",
+    "name": "RT Doc",
+    "logo": "",
+    "url": "https://hls.rt.com/hls/rtdru.m3u8",
+    "website": ""
+  },
+  {
+    "id": "rtghd",
+    "name": "RTG HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/rtg/rtg0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "silkwayhd",
+    "name": "Silkway HD",
+    "logo": "",
+    "url": "http://188.113.190.15/163/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "terra",
+    "name": "Terra",
+    "logo": "",
+    "url": "http://188.113.190.15/78/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "topsecret",
+    "name": "Top Secret",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "tvbrics",
+    "name": "TV Brics",
+    "logo": "",
+    "url": "http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8",
+    "website": ""
+  },
+  {
+    "id": "univertv",
+    "name": "Univer TV",
+    "logo": "",
+    "url": "http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "vijunaturehd",
+    "name": "Viju Nature HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000006482.m3u8",
+    "website": ""
+  },
+  {
+    "id": "vijuhistoryhd",
+    "name": "Viju History HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000005528.m3u8",
+    "website": ""
+  },
+  {
+    "id": "vijuexplorehd",
+    "name": "Viju Explore HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000004157.m3u8",
+    "website": ""
+  },
+  {
+    "id": "zooпарк",
+    "name": "Zooпарк",
+    "logo": "",
+    "url": "http://109.239.208.82:80/zoo/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "360новости",
+    "name": "360 Новости",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/360news/360news0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "78",
+    "name": "78",
+    "logo": "",
+    "url": "https://7o8gab7zdd.a.trbcdn.net/hls-livef1/channel78/tracks-v5a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "известия",
+    "name": "Известия",
+    "logo": "",
+    "url": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "криктв",
+    "name": "Крик ТВ",
+    "logo": "",
+    "url": "http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мир24",
+    "name": "Мир 24",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/mir24/mir240.m3u8",
+    "website": ""
+  },
+  {
+    "id": "отвекатеринбургhd",
+    "name": "ОТВ Екатеринбург HD",
+    "logo": "",
+    "url": "https://vd.obltv.ru/watch/air_hd.m3u8",
+    "website": ""
+  },
+  {
+    "id": "рбк",
+    "name": "РБК",
+    "logo": "",
+    "url": "http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "соловьёв.livehd",
+    "name": "Соловьёв.Live HD",
+    "logo": "",
+    "url": "https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8",
+    "website": ""
+  },
+  {
+    "id": "bbcworldnews",
+    "name": "BBC World News",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000014.m3u8",
+    "website": ""
+  },
+  {
+    "id": "cnn",
+    "name": "CNN",
+    "logo": "",
+    "url": "http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "euronews",
+    "name": "Euronews",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000025.m3u8",
+    "website": ""
+  },
+  {
+    "id": "france24",
+    "name": "France 24",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000290.m3u8",
+    "website": ""
+  },
+  {
+    "id": "nhkworldjapan",
+    "name": "NHK World Japan",
+    "logo": "",
+    "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8",
+    "website": ""
+  },
+  {
+    "id": "rainews24",
+    "name": "Rai News 24",
+    "logo": "",
+    "url": "https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "rtenglishhd",
+    "name": "RT English HD",
+    "logo": "",
+    "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8",
+    "website": ""
+  },
+  {
+    "id": "skynews",
+    "name": "Sky News",
+    "logo": "",
+    "url": "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8",
+    "website": ""
+  },
+  {
+    "id": "вместе-рф",
+    "name": "Вместе-РФ",
+    "logo": "",
+    "url": "http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "думатв",
+    "name": "Дума ТВ",
+    "logo": "",
+    "url": "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "краснаялиния",
+    "name": "Красная линия",
+    "logo": "",
+    "url": "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "лдпртв",
+    "name": "ЛДПР ТВ",
+    "logo": "",
+    "url": "http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "авто24",
+    "name": "Авто 24",
+    "logo": "",
+    "url": "http://91.205.199.3:80/avto24/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "автоплюсhd",
+    "name": "Авто Плюс HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "бобëр",
+    "name": "Бобëр",
+    "logo": "",
+    "url": "http://188.113.190.15/131/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "диалогиорыбалке",
+    "name": "Диалоги о рыбалке",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "дикаяохотаhd",
+    "name": "Дикая охота HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000004609.m3u8",
+    "website": ""
+  },
+  {
+    "id": "дикаярыбалкаhd",
+    "name": "Дикая рыбалка HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000004610.m3u8",
+    "website": ""
+  },
+  {
+    "id": "драйв",
+    "name": "Драйв",
+    "logo": "",
+    "url": "http://188.113.190.15/68/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "едапремиуммеждународныйhd",
+    "name": "Еда Премиум Международный HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "живи",
+    "name": "Живи",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "загороднаяжизньhd",
+    "name": "Загородная жизнь HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "загородный",
+    "name": "Загородный",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000235.m3u8",
+    "website": ""
+  },
+  {
+    "id": "ктокуда",
+    "name": "КтоКуда",
+    "logo": "",
+    "url": "http://camera.global-x.ru/MirUvlecheniy/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "кухнятв",
+    "name": "Кухня ТВ",
+    "logo": "",
+    "url": "http://188.113.190.15/314/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "лапкиlive",
+    "name": "Лапки Live",
+    "logo": "",
+    "url": "http://91.247.68.229:8000/play/Lapki/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мама",
+    "name": "Мама",
+    "logo": "",
+    "url": "http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8",
+    "website": ""
+  },
+  {
+    "id": "моястихияhd",
+    "name": "Моя стихия HD",
+    "logo": "",
+    "url": "http://31.211.77.158:8000/play/a191/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мужской",
+    "name": "Мужской",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "нашатема",
+    "name": "Наша тема",
+    "logo": "",
+    "url": "http://188.113.190.15/218/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "нтвстиль",
+    "name": "НТВ Стиль",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "оружие",
+    "name": "Оружие",
+    "logo": "",
+    "url": "http://178.124.179.122:8088/Oruzhie/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "охотникирыболовhd",
+    "name": "Охотник и рыболов HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "первыйвегетарианский",
+    "name": "Первый вегетарианский",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000002927.m3u8",
+    "website": ""
+  },
+  {
+    "id": "телекафе",
+    "name": "Телекафе",
+    "logo": "",
+    "url": "http://195.26.83.96:7022/play/a010/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "усадьба",
+    "name": "Усадьба",
+    "logo": "",
+    "url": "http://188.113.190.15/71/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "ehd",
+    "name": "E HD",
+    "logo": "",
+    "url": "http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "fashion&lifestyle",
+    "name": "Fashion & Lifestyle",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "fashiontvhd",
+    "name": "Fashion TV HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/fashion_tv/fashion_tv0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "fashionbox",
+    "name": "FashionBox",
+    "logo": "",
+    "url": "http://camera.global-x.ru/FashionBox/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "foodnetwork",
+    "name": "Food Network",
+    "logo": "",
+    "url": "http://ott-cdn.ucom.am/s18/04.m3u8",
+    "website": ""
+  },
+  {
+    "id": "foodtime",
+    "name": "Food Time",
+    "logo": "",
+    "url": "http://31.211.77.158:8000/play/a193/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "worldfashionchannel",
+    "name": "World Fashion Channel",
+    "logo": "",
+    "url": "http://live-3.otcnet.ru/wfcrus/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "womenmagazinehd",
+    "name": "Women Magazine HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000008065.m3u8",
+    "website": ""
+  },
+  {
+    "id": "союз",
+    "name": "Союз",
+    "logo": "",
+    "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "музсоюз",
+    "name": "МузСоюз",
+    "logo": "",
+    "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "триангела",
+    "name": "Три ангела",
+    "logo": "",
+    "url": "https://hls.tv.3angels.ru/stream.m3u8",
+    "website": ""
+  },
+  {
+    "id": "астраханьспорт",
+    "name": "Астрахань Спорт",
+    "logo": "",
+    "url": "http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "беларусь5интернет",
+    "name": "Беларусь 5 Интернет",
+    "logo": "",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "бокств",
+    "name": "Бокс ТВ",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "матч!hd",
+    "name": "Матч! HD",
+    "logo": "",
+    "url": "http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "матч!планета",
+    "name": "Матч! Планета",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "матч!премьерhd",
+    "name": "Матч! Премьер HD",
+    "logo": "",
+    "url": "http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "мирбаскетбола",
+    "name": "Мир баскетбола",
+    "logo": "",
+    "url": "http://83.234.207.29:8004/play/a010/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "спортивный",
+    "name": "Спортивный",
+    "logo": "",
+    "url": "https://bl.webcaster.pro/media/playlist/free_c7a42136a22dcc4c7c1c4318957e5b79/33_90563280/480q/1b6d7c2dd2f44c77f26d7ffa2897399f/4867405759.m3u8",
+    "website": ""
+  },
+  {
+    "id": "стартhd",
+    "name": "Старт HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/start/start0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "старттриумфhd",
+    "name": "Старт Триумф HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "старттуран",
+    "name": "Старт Туран",
+    "logo": "",
+    "url": "https://streams.qazcdn.net/live2/bQS3PALvoU/live/bQS3PALvoU_1080/chunks.m3u8",
+    "website": ""
+  },
+  {
+    "id": "удар",
+    "name": "Удар",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/udar/udar0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "футбол",
+    "name": "Футбол",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "футбольныйhd",
+    "name": "Футбольный HD",
+    "logo": "",
+    "url": "https://bl.webcaster.pro/media/playlist/free_4826041ac19d24905b2b303254662b17/33_94615152/720q/95829aead81db732e4cf1a7bb22ab598/4867406070.m3u8",
+    "website": ""
+  },
+  {
+    "id": "хоккейный",
+    "name": "Хоккейный",
+    "logo": "",
+    "url": "https://bl.webcaster.pro/media/playlist/free_8e7441d1ce4776f0e1b921e9abc8f799/33_92079550/480q/1b7b4c6773c34a4abd51718269a8a089/4867406233.m3u8",
+    "website": ""
+  },
+  {
+    "id": "хоккейныйhd",
+    "name": "Хоккейный HD",
+    "logo": "",
+    "url": "http://31.211.77.158:8000/play/a135/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "fast&funboxhd",
+    "name": "Fast&FunBox HD",
+    "logo": "",
+    "url": "http://ott-cdn.ucom.am/s79/04.m3u8",
+    "website": ""
+  },
+  {
+    "id": "fightbox",
+    "name": "FightBox",
+    "logo": "",
+    "url": "https://stream01.vnet.am/Fightbox/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "golfchannelenglish",
+    "name": "Golf Channel English",
+    "logo": "",
+    "url": "http://78.130.250.2:8023/play/a02q/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "khl",
+    "name": "KHL",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "khlprimehd",
+    "name": "KHL Prime HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "mma-tv",
+    "name": "MMA-TV",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "qleague",
+    "name": "Q League",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000006969.m3u8",
+    "website": ""
+  },
+  {
+    "id": "russianextreme",
+    "name": "Russian Extreme",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "setantasports1",
+    "name": "Setanta Sports 1",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000006998.m3u8",
+    "website": ""
+  },
+  {
+    "id": "setantasports1hd",
+    "name": "Setanta Sports 1 HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000004498.m3u8",
+    "website": ""
+  },
+  {
+    "id": "setantasports2",
+    "name": "Setanta Sports 2",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000004499.m3u8",
+    "website": ""
+  },
+  {
+    "id": "setantasports2hd",
+    "name": "Setanta Sports 2 HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000006899.m3u8",
+    "website": ""
+  },
+  {
+    "id": "setantasportsqazaqstan",
+    "name": "Setanta Sports Qazaqstan",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000002649.m3u8",
+    "website": ""
+  },
+  {
+    "id": "viju+sporthd",
+    "name": "Viju+ Sport HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000135.m3u8",
+    "website": ""
+  },
+  {
+    "id": "1hd",
+    "name": "1HD",
+    "logo": "",
+    "url": "http://91.247.68.229:8000/play/eee/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "жарптица",
+    "name": "Жар птица",
+    "logo": "",
+    "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "жара",
+    "name": "Жара",
+    "logo": "",
+    "url": "http://188.113.190.15/328/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "курай",
+    "name": "Курай",
+    "logo": "",
+    "url": "http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "музыкапервого",
+    "name": "Музыка Первого",
+    "logo": "",
+    "url": "http://109.239.208.82:80/muz1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "о2тв",
+    "name": "О2ТВ",
+    "logo": "",
+    "url": "http://188.113.190.15/189/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "телеканалрадиостранафм",
+    "name": "Телеканал Радио Страна ФМ",
+    "logo": "",
+    "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "тнтmusichd",
+    "name": "ТНТ Music HD",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "шансон-тв",
+    "name": "Шансон-ТВ",
+    "logo": "",
+    "url": "http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "backustvmusic",
+    "name": "BackusTV Music",
+    "logo": "",
+    "url": "https://stream.backustv.ru/live/btv3/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "bridgetv",
+    "name": "Bridge TV",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "bridgetvclassic",
+    "name": "Bridge TV Classic",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "bridgetvdeluxe",
+    "name": "Bridge TV Deluxe",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "bridgetvhits",
+    "name": "Bridge TV Hits",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "bridgetvrock",
+    "name": "Bridge TV Rock",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "bridgetvрусскийхит",
+    "name": "Bridge TV Русский Хит",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "bridgetvшлягер",
+    "name": "Bridge TV Шлягер",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "clubbingtv",
+    "name": "Clubbing TV",
+    "logo": "",
+    "url": "https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "deluxedance",
+    "name": "Deluxe Dance",
+    "logo": "",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+    "website": ""
+  },
+  {
+    "id": "deluxeflashback",
+    "name": "Deluxe Flashback",
+    "logo": "",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8",
+    "website": ""
+  },
+  {
+    "id": "deluxemusic",
+    "name": "Deluxe Music",
+    "logo": "",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
+    "website": ""
+  },
+  {
+    "id": "deluxerock",
+    "name": "Deluxe Rock",
+    "logo": "",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8",
+    "website": ""
+  },
+  {
+    "id": "europaplustv",
+    "name": "Europa Plus TV",
+    "logo": "",
+    "url": "http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "kisskiss",
+    "name": "Kiss Kiss",
+    "logo": "",
+    "url": "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "kronehit",
+    "name": "Kronehit",
+    "logo": "",
+    "url": "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8",
+    "website": ""
+  },
+  {
+    "id": "maidan",
+    "name": "Maidan",
+    "logo": "",
+    "url": "http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8",
+    "website": ""
+  },
+  {
+    "id": "mezzo",
+    "name": "Mezzo",
+    "logo": "",
+    "url": "http://178.212.71.253:8002/play/a00n/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "mtvlivehd",
+    "name": "MTV Live HD",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000447.m3u8",
+    "website": ""
+  },
+  {
+    "id": "mtvpoland",
+    "name": "MTV Poland",
+    "logo": "",
+    "url": "https://cdn-nvm-chicago.lolokoko.tv/MtvPolska.stream/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "mtv00's",
+    "name": "MTV 00's",
+    "logo": "",
+    "url": "https://bkm.beetv.kz/btv/live/hls/000000264.m3u8",
+    "website": ""
+  },
+  {
+    "id": "musicboxgold",
+    "name": "MusicBox Gold",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "polsatmusichd",
+    "name": "Polsat Music HD",
+    "logo": "",
+    "url": "https://cdn-nvm-chicago.lolokoko.tv/polsatmusic.stream/chunks.m3u8",
+    "website": ""
+  },
+  {
+    "id": "radiom2o",
+    "name": "Radio M2O",
+    "logo": "",
+    "url": "https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "retroplus",
+    "name": "Retro Plus",
+    "logo": "",
+    "url": "https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "ru.tv",
+    "name": "RU.TV",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "russianmusicbox",
+    "name": "Russian MusicBox",
+    "logo": "",
+    "url": "https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8",
+    "website": ""
+  },
+  {
+    "id": "stingraycmusic",
+    "name": "Stingray CMusic",
+    "logo": "",
+    "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
+    "website": ""
+  },
+  {
+    "id": "tmtv",
+    "name": "TMTV",
+    "logo": "",
+    "url": "http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8",
+    "website": ""
+  },
+  {
+    "id": "traceurbanhd",
+    "name": "Trace Urban HD",
+    "logo": "",
+    "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8",
+    "website": ""
+  },
+  {
+    "id": "vivatvrussia",
+    "name": "Viva TV Russia",
+    "logo": "",
+    "url": "https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8",
+    "website": ""
+  },
+  {
+    "id": "zerounotvmusic",
+    "name": "Zerouno TV Music",
+    "logo": "",
+    "url": "https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8",
+    "website": ""
+  }
+]

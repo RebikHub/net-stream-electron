@@ -364,13 +364,6 @@
     "website": "https://www.karusel-tv.ru/"
   },
   {
-    "id": "CartoonNetwork.ru",
-    "name": "Cartoon Network",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
-    "url": "http://bkm.beetv.kz/btv/live/hls/000000015.m3u8",
-    "website": "http://www.cartoonnetwork.ru/"
-  },
-  {
     "id": "Channel5.ru",
     "name": "Channel 5",
     "logo": "https://i.imgur.com/KPXMa3U.png",
@@ -805,13 +798,6 @@
     "website": "https://kinotoday.ru/"
   },
   {
-    "id": "Konniymir.ru",
-    "name": "Konniy mir",
-    "logo": "https://i.imgur.com/X6otbK0.png",
-    "url": "http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8",
-    "website": "http://news.sportbox.ru/Vidy_sporta/horse_world"
-  },
-  {
     "id": "KrikTV.ru",
     "name": "Krik-TV",
     "logo": "https://i.imgur.com/rtuChZR.png",
@@ -1069,13 +1055,6 @@
     "logo": "https://i.imgur.com/ccwijY0.png",
     "url": "https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8",
     "website": "https://multilandia.tv/"
-  },
-  {
-    "id": "Multimania.ru",
-    "name": "Multimania",
-    "logo": "https://i.imgur.com/abh8ZBA.png",
-    "url": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
-    "website": "http://www.multimania.lv"
   },
   {
     "id": "Multimania.ru",
@@ -1428,13 +1407,6 @@
     "website": "https://operators.1tvch.ru/channels/pervyi-kosmicheskii"
   },
   {
-    "id": "PervyyTulskiy.ru",
-    "name": "Pervyy Tulskiy",
-    "logo": "https://i.imgur.com/QdKKHXb.png",
-    "url": "http://5.164.24.83/tula/1tv_low/index.m3u8",
-    "website": "https://1tulatv.ru/"
-  },
-  {
     "id": "Pobeda.ru",
     "name": "Pobeda",
     "logo": "https://i.imgur.com/4KiYSln.png",
@@ -1468,13 +1440,6 @@
     "logo": "https://i.imgur.com/33XGMch.png",
     "url": "https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8",
     "website": "https://www.prima-tv.ru/"
-  },
-  {
-    "id": "Pro100TV.ru",
-    "name": "Pro100TV",
-    "logo": "https://i.imgur.com/YfQEflM.png",
-    "url": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
-    "website": "https://www.pro100tv.lv/"
   },
   {
     "id": "Prodvizhenie.ru",
@@ -1648,13 +1613,6 @@
     "id": "RT.ru",
     "name": "RT",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
-    "url": "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
-    "website": "https://www.rt.com/"
-  },
-  {
-    "id": "RT.ru",
-    "name": "RT",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
     "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
     "website": "https://www.rt.com/"
   },
@@ -1712,13 +1670,6 @@
     "name": "RT en Espanol",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
     "url": "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8",
-    "website": "https://actualidad.rt.com/"
-  },
-  {
-    "id": "RTenEspanol.ru",
-    "name": "RT en Espanol",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
-    "url": "http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8",
     "website": "https://actualidad.rt.com/"
   },
   {
@@ -2296,6 +2247,13 @@
     "website": "https://tolknews.ru/"
   },
   {
+    "id": "TolkHD.ru",
+    "name": "Tolk HD",
+    "logo": "https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-tolk.jpg?itok=EjM37GGs",
+    "url": "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
+    "website": "https://tolknews.ru/"
+  },
+  {
     "id": "TopSecret.ru",
     "name": "Top Secret",
     "logo": "https://i.imgur.com/HM4xy4G.png",
@@ -2436,13 +2394,6 @@
     "website": "https://universmotri.ru/"
   },
   {
-    "id": "UniverTV.ru",
-    "name": "Univer TV",
-    "logo": "https://i.imgur.com/r3u0mxr.png",
-    "url": "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8",
-    "website": "https://universmotri.ru/"
-  },
-  {
     "id": "UnknownRussia.ru",
     "name": "Unknown Russia",
     "logo": "https://i.imgur.com/W7ste2f.png",
@@ -2523,13 +2474,6 @@
     "id": "VIVARussia.ru",
     "name": "VIVA Russia",
     "logo": "https://i.imgur.com/OFhQQCD.png",
-    "url": "https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8",
-    "website": "https://viva-russia.ru/"
-  },
-  {
-    "id": "VIVARussia.ru",
-    "name": "VIVA Russia",
-    "logo": "https://i.imgur.com/OFhQQCD.png",
     "url": "https://cloudfront.prdv3.dlivecdn.com/viva-russia/1703952590/src/live.m3u8",
     "website": "https://viva-russia.ru/"
   },
@@ -2569,6 +2513,13 @@
     "website": "https://volgograd24.tv/"
   },
   {
+    "id": "Vremya.ru",
+    "name": "Vremya",
+    "logo": "https://i.imgur.com/jZlj3ga.png",
+    "url": "http://streaming.tv-teleport.ru/Vremya/index.m3u8",
+    "website": "https://www.vremya.tv/"
+  },
+  {
     "id": "YuTV.ru",
     "name": "YuTV",
     "logo": "https://i.imgur.com/b8CXEr7.png",
@@ -2602,13 +2553,6 @@
     "logo": "https://kartina-tv.site/wp-content/uploads/2020/12/logo_new.png",
     "url": "https://streaming.televizor-24-tochka.ru/live/25.m3u8",
     "website": "https://zatvmedia.netlify.app/zatv.html"
-  },
-  {
-    "id": "ZharPtitsa.ru",
-    "name": "Zhar Ptitsa",
-    "logo": "https://i.imgur.com/19R470V.png",
-    "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
-    "website": "http://www.zhar-ptica.tv/"
   },
   {
     "id": "ZhivayaPlaneta.ru",
