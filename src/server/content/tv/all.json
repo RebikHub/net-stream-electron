@@ -196,13 +196,6 @@
     "website": ""
   },
   {
-    "id": "кинотвhd",
-    "name": "Кино ТВ HD",
-    "logo": "",
-    "url": "http://83.234.207.29:8013/play/a00m/index.m3u8",
-    "website": ""
-  },
-  {
     "id": "кинотвhd+7",
     "name": "Кино ТВ HD +7",
     "logo": "",
@@ -991,13 +984,6 @@
     "name": "Discovery",
     "logo": "",
     "url": "http://sc.id-tv.kz/Disc_chHD_34_35.m3u8",
-    "website": ""
-  },
-  {
-    "id": "discoveryhd",
-    "name": "Discovery HD",
-    "logo": "",
-    "url": "http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8",
     "website": ""
   },
   {
@@ -1890,6 +1876,13 @@
     "website": ""
   },
   {
+    "id": "матч!страна",
+    "name": "Матч! Страна",
+    "logo": "",
+    "url": "http://flussonic.beeonline.az:80/nashsport/mono.m3u8",
+    "website": ""
+  },
+  {
     "id": "мирбаскетбола",
     "name": "Мир баскетбола",
     "logo": "",
@@ -2002,45 +1995,10 @@
     "website": ""
   },
   {
-    "id": "qleague",
-    "name": "Q League",
-    "logo": "",
-    "url": "https://bkm.beetv.kz/btv/live/hls/000006969.m3u8",
-    "website": ""
-  },
-  {
     "id": "russianextreme",
     "name": "Russian Extreme",
     "logo": "",
     "url": "https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8",
-    "website": ""
-  },
-  {
-    "id": "setantasports1",
-    "name": "Setanta Sports 1",
-    "logo": "",
-    "url": "https://bkm.beetv.kz/btv/live/hls/000006998.m3u8",
-    "website": ""
-  },
-  {
-    "id": "setantasports1hd",
-    "name": "Setanta Sports 1 HD",
-    "logo": "",
-    "url": "https://bkm.beetv.kz/btv/live/hls/000004498.m3u8",
-    "website": ""
-  },
-  {
-    "id": "setantasports2",
-    "name": "Setanta Sports 2",
-    "logo": "",
-    "url": "https://bkm.beetv.kz/btv/live/hls/000004499.m3u8",
-    "website": ""
-  },
-  {
-    "id": "setantasports2hd",
-    "name": "Setanta Sports 2 HD",
-    "logo": "",
-    "url": "https://bkm.beetv.kz/btv/live/hls/000006899.m3u8",
     "website": ""
   },
   {
@@ -2051,10 +2009,10 @@
     "website": ""
   },
   {
-    "id": "viju+sporthd",
-    "name": "Viju+ Sport HD",
+    "id": "viju+sport",
+    "name": "Viju+ Sport",
     "logo": "",
-    "url": "https://bkm.beetv.kz/btv/live/hls/000000135.m3u8",
+    "url": "http://edge02.odtv.az/o7/viasatsport/playlist.m3u8",
     "website": ""
   },
   {
