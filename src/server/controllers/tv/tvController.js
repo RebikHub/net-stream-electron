@@ -79,23 +79,27 @@ export const getPlaylistNoname = async (req, res) => {
   await getChannelList(`${CONTENT_TV}/checkedNoname.json`, res)
 }
 
-
 export const getPlaylistAll = async (req, res) => {
-  axios.get(PLAYLIST_URL + 'LoganetXAll.m3u').then((response) => {
+  try {
+    const playlist = await readJson(`${CONTENT_TV}/all.json`)
 
-    if (response.data) {
-    const playlist = parsePlaylist(response.data)
-    if (playlist && playlist.length) {
-      writeFileSync(
-        `${CONTENT_TV}/all.json`,
-        JSON.stringify(playlist, null, 2)
-      )
+    if (!playlist || playlist.length === 0) {
+      axios.get(PLAYLIST_URL + 'LoganetXAll.m3u').then((response) => {
+        if (response.data) {
+          const playlist = parsePlaylist(response.data)
+          if (playlist && playlist.length) {
+            writeFileSync(
+            `${CONTENT_TV}/all.json`,
+            JSON.stringify(playlist, null, 2)
+            )
+            res.status(200).json(playlist)
+          }
+        }
+      })
+    } else {
       res.status(200).json(playlist)
     }
-    }
-
-  }).catch((e) => {
+  } catch (error) {
     res.status(500).json({ error: 'Failed to response playlist' })
-    console.error('getPlaylistAll error', e)
-  })
+  }
 }
