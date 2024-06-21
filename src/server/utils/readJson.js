@@ -1,6 +1,8 @@
-import { writeFileSync, readFileSync } from 'fs'
+import fsExtra from 'fs-extra'
 import { checkUrls } from './checklinks.js'
-import { CONTENT_TV } from '../config.js'
+import { CONTENT_TV_PATH } from '../../index.mjs'
+
+const { writeFileSync, readFileSync } = fsExtra
 
 export const readJsonId = async (id) => {
   const filePath = './src/torrents/torrents.json'
@@ -21,8 +23,8 @@ export const readJson = async (path) => {
 }
 
 export const createPlaylists = async () => {
-  const channels = await readJson(`${CONTENT_TV}/channels.json`)
-  const streams = await readJson(`${CONTENT_TV}/streams.json`)
+  const channels = await readJson(`${CONTENT_TV_PATH}/channels.json`)
+  const streams = await readJson(`${CONTENT_TV_PATH}/streams.json`)
   const playlist = []
   streams.forEach((stream) => {
     const channel = channels.find((el) => el.id === stream.channel)
@@ -49,7 +51,7 @@ export const createPlaylists = async () => {
     }
   })
   writeFileSync(
-    `${CONTENT_TV}/playlist.json`,
+    `${CONTENT_TV_PATH}/playlist.json`,
     JSON.stringify(playlist, null, 2)
   )
 
@@ -63,7 +65,7 @@ export const createPlaylists = async () => {
     website: el.website
   }))
 
-  writeFileSync(`${CONTENT_TV}/ru.json`, JSON.stringify(urlsRu, null, 2))
+  writeFileSync(`${CONTENT_TV_PATH}/ru.json`, JSON.stringify(urlsRu, null, 2))
 
   const en = playlist.filter(
     (el) => el.languages[0].toLowerCase() === 'eng' && !el.is_nsfw
@@ -77,7 +79,7 @@ export const createPlaylists = async () => {
     website: el.website
   }))
 
-  writeFileSync(`${CONTENT_TV}/en.json`, JSON.stringify(urlsEn, null, 2))
+  writeFileSync(`${CONTENT_TV_PATH}/en.json`, JSON.stringify(urlsEn, null, 2))
 
   const nsfw = playlist.filter((el) => el.is_nsfw)
 
@@ -89,7 +91,7 @@ export const createPlaylists = async () => {
     website: el.website
   }))
 
-  writeFileSync(`${CONTENT_TV}/nsfw.json`, JSON.stringify(urlsNsfw, null, 2))
+  writeFileSync(`${CONTENT_TV_PATH}/nsfw.json`, JSON.stringify(urlsNsfw, null, 2))
 
   const noname = playlist.filter((el) => el.country === 'noname')
 
@@ -102,7 +104,7 @@ export const createPlaylists = async () => {
   }))
 
   writeFileSync(
-    `${CONTENT_TV}/noname.json`,
+    `${CONTENT_TV_PATH}/noname.json`,
     JSON.stringify(urlsNoname, null, 2)
   )
 
@@ -111,28 +113,21 @@ export const createPlaylists = async () => {
   const checkedRu = await checkUrls(urlsRu)
   console.log('write checkedRu')
   writeFileSync(
-    `${CONTENT_TV}/checkedRu.json`,
+    `${CONTENT_TV_PATH}/checkedRu.json`,
     JSON.stringify(checkedRu, null, 2)
   )
 
   const checkedEn = await checkUrls(urlsEn)
   console.log('write checkedEn')
   writeFileSync(
-    `${CONTENT_TV}/checkedEn.json`,
+    `${CONTENT_TV_PATH}/checkedEn.json`,
     JSON.stringify(checkedEn, null, 2)
-  )
-
-  const checkedNsfw = await checkUrls(urlsNsfw)
-  console.log('write checkedNsfw')
-  writeFileSync(
-    `${CONTENT_TV}/checkedNsfw.json`,
-    JSON.stringify(checkedNsfw, null, 2)
   )
 
   const checkedNoname = await checkUrls(urlsNoname)
   console.log('write checkedNoname')
   writeFileSync(
-    `${CONTENT_TV}/checkedNoname.json`,
+    `${CONTENT_TV_PATH}/checkedNoname.json`,
     JSON.stringify(checkedNoname, null, 2)
   )
 }

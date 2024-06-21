@@ -1,4 +1,4 @@
-import { readFile, writeFile } from 'fs'
+import { readFile, writeFile } from 'fs-extra'
 
 function parseM3U (content) {
   const lines = content.split('\n')
@@ -35,7 +35,7 @@ export async function playlistJson () {
     readFile('./src/m3u/index.language.m3u', 'utf8', (err, data) => {
       if (err) {
         console.error('Error reading the file:', err)
-        reject()
+        // reject('Error reading path: ./src/m3u/index.language.m3u')
         return
       }
 
@@ -45,7 +45,7 @@ export async function playlistJson () {
       writeFile('./src/m3u/playlist.json', jsonOutput, 'utf8', (err) => {
         if (err) {
           console.error('Error writing JSON to file:', err)
-          reject()
+          // reject()
           return
         }
         resolve()

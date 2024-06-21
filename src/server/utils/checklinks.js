@@ -1,12 +1,12 @@
 import http from 'http'
 import https from 'https'
 import axios from 'axios'
-import { Parser } from 'm3u8-parser'
-import { writeFile } from 'fs'
-import { readJson } from './readJson.js'
+// import { Parser } from 'm3u8-parser'
+// import { writeFile } from 'fs-extra'
+// import { readJson } from './readJson.js'
 
 export async function checkUrl (url) {
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve, _reject) => {
     if (
       url.includes('rtsp:') ||
       url.includes('mmsh:') ||
@@ -32,7 +32,7 @@ export async function checkUrl (url) {
           }
         }, 1000 * 3)
       })
-      .on('error', (err) => {
+      .on('error', (_err) => {
         resolve(false)
         console.log('error-link')
       })
@@ -81,25 +81,25 @@ async function checkM3U8Stream (url) {
   }
 }
 
-async function getParserM3u8 (req, res) {
-  const item = req.params.item
-  console.log(item)
-  axios
-    .get(item)
-    .then((response) => {
-      console.log('url-response: ', response)
-      // Парсим содержимое файла M3U8
-      const parser = new Parser()
-      parser.push(response.data)
-      parser.end()
-      const parsedData = parser.manifest
+// async function getParserM3u8 (req, res) {
+//   const item = req.params.item
+//   console.log(item)
+//   axios
+//     .get(item)
+//     .then((response) => {
+//       console.log('url-response: ', response)
+//       // Парсим содержимое файла M3U8
+//       const parser = new Parser()
+//       parser.push(response.data)
+//       parser.end()
+//       const parsedData = parser.manifest
 
-      res.status(200).json({ data: parser })
-    })
-    .catch((error) => {
-      console.error('Произошла ошибка при загрузке файла M3U8:', error)
-      res
-        .status(405)
-        .json({ error: `Произошла ошибка при загрузке файла M3U8: ${error}` })
-    })
-}
+//       res.status(200).json({ data: parser })
+//     })
+//     .catch((error) => {
+//       console.error('Произошла ошибка при загрузке файла M3U8:', error)
+//       res
+//         .status(405)
+//         .json({ error: `Произошла ошибка при загрузке файла M3U8: ${error}` })
+//     })
+// }

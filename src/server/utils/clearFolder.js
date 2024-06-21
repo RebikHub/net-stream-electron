@@ -1,10 +1,9 @@
 import fs from 'fs-extra'
-import { WEBTORRENT_DOWNLOAD_PATH } from '../../index.mjs'
 
 export function clearFolder (folderName) {
   if (!folderName) return
 
-  fs.rmSync(WEBTORRENT_DOWNLOAD_PATH, {
+  fs.rmSync(folderName, {
     recursive: true
   })
 

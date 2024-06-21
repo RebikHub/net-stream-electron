@@ -1,6 +1,5 @@
 export const parsePlaylist = (data) => {
   const lines = data.split('\n')
-  console.log('parse: ', lines)
   // Создаем массив для хранения результатов
   const result = []
 

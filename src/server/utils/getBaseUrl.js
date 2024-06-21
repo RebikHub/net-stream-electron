@@ -1,11 +1,13 @@
 import http from 'http'
 import https from 'https'
-import { writeFileSync, readFileSync } from 'fs'
-import { CONTENT_URLS } from '../config.js'
+import fsExtra from 'fs-extra'
+import { CONTENT_URLS_PATH } from '../../index.mjs'
+
+const { writeFileSync, readFileSync } = fsExtra
 
 async function checkUrl (url) {
   const list = await JSON.parse(
-    readFileSync(`${CONTENT_URLS}/urls.json`, 'utf8')
+    readFileSync(`${CONTENT_URLS_PATH}/urls.json`, 'utf8')
   )
   return new Promise((resolve, reject) => {
     if (
@@ -31,7 +33,7 @@ async function checkUrl (url) {
           if (!list.find(({ url }) => url === res.headers.location)) {
             list.push({ url: res.headers.location })
             writeFileSync(
-              `${CONTENT_URLS}/urls.json`,
+              `${CONTENT_URLS_PATH}/urls.json`,
               JSON.stringify(list, null, 2)
             )
           }
@@ -52,7 +54,7 @@ async function checkUrl (url) {
 
 export async function updateBaseUrls () {
   const list = await JSON.parse(
-    readFileSync(`${CONTENT_URLS}/urls.json`, 'utf8')
+    readFileSync(`${CONTENT_URLS_PATH}/urls.json`, 'utf8')
   )
 
   const filteredResults = await Promise.all([...list.map(async ({ url }) => {
@@ -64,7 +66,7 @@ export async function updateBaseUrls () {
 
   if (workedUrl?.url) {
     writeFileSync(
-      `${CONTENT_URLS}/baseUrl.json`,
+      `${CONTENT_URLS_PATH}/baseUrl.json`,
       JSON.stringify({ url: workedUrl.url }, null, 2)
     )
   }
@@ -72,7 +74,7 @@ export async function updateBaseUrls () {
 
 export async function getBaseUrl () {
   const { url } = await JSON.parse(
-    readFileSync(`${CONTENT_URLS}/baseUrl.json`, 'utf8')
+    readFileSync(`${CONTENT_URLS_PATH}/baseUrl.json`, 'utf8')
   )
   if (url !== '') {
     return url
@@ -85,7 +87,7 @@ export async function getBaseUrl () {
 
 export async function clearBaseUrl () {
   writeFileSync(
-    `${CONTENT_URLS}/baseUrl.json`,
+    `${CONTENT_URLS_PATH}/baseUrl.json`,
     JSON.stringify({ url: '' }, null, 2)
   )
 }

@@ -5,16 +5,18 @@ import appExpress from './server/app.js'
 import { PORT } from './server/config.js'
 import squirrel from 'electron-squirrel-startup'
 import { clearFolder } from './server/utils/clearFolder.js'
-import { createFolder } from './server/utils/createFolder.js'
 import { destroyTorrentClient } from './server/controllers/video/torrentController.js'
 import { clearBaseUrl } from './server/utils/getBaseUrl.js'
+import { createContentTvFolder, createContentUrlsFolder, createDownlaodFolder } from './server/utils/createFolder.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 let mainWindow
 
-export const WEBTORRENT_DOWNLOAD_PATH = createFolder()
+export const WEBTORRENT_DOWNLOAD_PATH = createDownlaodFolder()
+export const CONTENT_TV_PATH = createContentTvFolder()
+export const CONTENT_URLS_PATH = createContentUrlsFolder()
 
 appExpress.listen(PORT, () => {
   clearFolder(WEBTORRENT_DOWNLOAD_PATH)
