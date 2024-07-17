@@ -6,7 +6,7 @@ import { PORT } from './server/config.js'
 import squirrel from 'electron-squirrel-startup'
 import { clearFolder } from './server/utils/clearFolder.js'
 import { destroyTorrentClient } from './server/controllers/video/torrentController.js'
-import { clearBaseUrl } from './server/utils/getBaseUrl.js'
+// import { clearBaseUrl } from './server/utils/getBaseUrl.js'
 import { createContentTvFolder, createContentUrlsFolder, createDownlaodFolder } from './server/utils/createFolder.js'
 
 const __filename = fileURLToPath(import.meta.url)
@@ -80,7 +80,6 @@ app.on('window-all-closed', () => {
     } catch (err) {
       console.error('Ошибка при удалении файлов: ', err)
     } finally {
-      clearBaseUrl()
       app.quit()
     }
   }
@@ -92,7 +91,5 @@ app.on('before-quit', () => {
     destroyTorrentClient()
   } catch (err) {
     console.error('Ошибка при удалении файлов: ', err)
-  } finally {
-    clearBaseUrl()
   }
 })

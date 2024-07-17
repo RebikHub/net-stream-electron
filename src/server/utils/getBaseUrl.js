@@ -77,8 +77,14 @@ export async function getBaseUrl () {
     readFileSync(`${CONTENT_URLS_PATH}/baseUrl.json`, 'utf8')
   )
   if (url !== '') {
+    const result = await checkUrl(url)
+    if (result.status && result.url) {
+      return url
+    }
     return url
   }
+
+  await clearBaseUrl()
 
   await updateBaseUrls()
 

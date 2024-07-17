@@ -1,7 +1,7 @@
 import WebTorrent from 'webtorrent'
 import { readJsonId } from '../../utils/readJson.js'
 // import { WEBTORRENT_DOWNLOAD_PATH } from '../../config.js'
-import fs from 'fs-extra'
+// import fs from 'fs-extra'
 import { spawn } from '../../utils/startVLC.js'
 import { WEBTORRENT_DOWNLOAD_PATH } from '../../../index.mjs'
 import { createDownlaodFolder } from '../../utils/createFolder.js'
@@ -135,10 +135,11 @@ export const addMagnet = async (req, res) => {
     const torrent = await client.get(magnet)
 
     if (!torrent) {
-      fs.mkdirSync(`${!fs.existsSync(WEBTORRENT_DOWNLOAD_PATH) ? createDownlaodFolder() : WEBTORRENT_DOWNLOAD_PATH}/${magnet}`)
+      // await fs.mkdirSync(`${!fs.existsSync(WEBTORRENT_DOWNLOAD_PATH) ? createDownlaodFolder() : WEBTORRENT_DOWNLOAD_PATH}/${magnet}`)
+
       client.add(
         magnet,
-        { path: `${WEBTORRENT_DOWNLOAD_PATH}/${magnet}` },
+        { path: `${createDownlaodFolder()}/${magnet}` },
         (torrent) => {
           const files = torrent.files.map((data) => ({
             name: data.name,
