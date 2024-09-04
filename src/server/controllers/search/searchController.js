@@ -95,10 +95,9 @@ export const magnetSearch = async (req, res) => {
 
     const downloadLink = $('#download a').toArray()
     const magnetLink = $(downloadLink[0]).attr('href')
-    console.log(magnetLink)
     const magnet = await parseTorrent(magnetLink)
 
-    res.status(200).json({ link: magnet.infoHash })
+    res.status(200).json({ link: magnetLink, hash: magnet.infoHash })
   } catch (error) {
     console.error('Ошибка при запросе данных:', error)
     res.status(400).send('Ошибка запроса')

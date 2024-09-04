@@ -24,6 +24,7 @@
     "@electron-forge/plugin-fuses": "^7.4.0",
     "@electron-forge/publisher-github": "^7.4.0",
     "@electron/fuses": "^1.8.0",
+    "electron": "^32.0.1",
     "standard": "^17.1.0"
   },
   "keywords": [],
@@ -36,7 +37,6 @@
     "axios": "^1.6.0",
     "cheerio": "^1.0.0-rc.12",
     "cors": "^2.8.5",
-    "electron": "^31.2.1",
     "electron-squirrel-startup": "^1.0.0",
     "express": "^4.19.2",
     "fs-extra": "^11.2.0",
@@ -44,7 +44,7 @@
     "parse-torrent": "^11.0.14",
     "torrent-search-api": "^2.1.4",
     "vlc-command": "^1.2.0",
-    "webtorrent": "^2.1.27"
+    "webtorrent": "^2.5.0"
   },
   "permissions": [
     "audio",

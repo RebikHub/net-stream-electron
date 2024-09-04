@@ -17,7 +17,7 @@ router.get('/torrent/:id', streamTorrent)
 
 router.get('/stream/stats/:infoHash', streamStats)
 
-router.get('/stream/add/:magnet', addMagnet)
+router.post('/stream/add', addMagnet)
 
 router.get('/stream/stop/:infoHash', stopStream)
 

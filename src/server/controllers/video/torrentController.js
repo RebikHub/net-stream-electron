@@ -1,13 +1,27 @@
 import WebTorrent from 'webtorrent'
 import { readJsonId } from '../../utils/readJson.js'
-// import { WEBTORRENT_DOWNLOAD_PATH } from '../../config.js'
 // import fs from 'fs-extra'
 import { spawn } from '../../utils/startVLC.js'
 import { WEBTORRENT_DOWNLOAD_PATH } from '../../../index.mjs'
 import { createDownlaodFolder } from '../../utils/createFolder.js'
 import { clearFolder } from '../../utils/clearFolder.js'
+import ParseTorrent from 'parse-torrent'
 
-const client = new WebTorrent()
+const client = new WebTorrent({
+  maxConns: 100, // Увеличьте максимальное количество соединений
+  tracker: true, // Включите трекеры
+  dht: true, // Включите DHT
+  pex: true,
+  webRTC: true,
+  webSeeds: true
+  // trackers: [
+  //   'http://bt2.t-ru.org/ann?magnet',
+  //   'udp://opentor.net:6969',
+  //   'retracker.local/announce',
+  //   'udp://tracker.openbittorrent.com:80/announce',
+  //   'udp://tracker.publicbt.com:80/announce'
+  // ]
+})
 
 // Функция для добавления торрента и начала загрузки
 export const startTorrentDownload = async (magnetLink) => {
@@ -69,7 +83,10 @@ export const streamStats = async (req, res) => {
   const infoHash = req.params.infoHash
   try {
     const torrent = client.get(infoHash)
-    console.log('stats-torrent: ', torrent)
+
+    console.log('stats torrent: ', !!torrent)
+    console.log('stats clinet download: ', client.downloadSpeed)
+
     const headers = {
       'Content-Type': 'text/event-stream',
       Connection: 'keep-alive',
@@ -80,9 +97,9 @@ export const streamStats = async (req, res) => {
     const intervalId = setInterval(() => {
       res.write(
         `data: ${JSON.stringify({
-          speed: client.downloadSpeed,
-          progress: client.progress,
-          ratio: client.ratio,
+          speed: client?.downloadSpeed || '',
+          progress: client?.progress || '',
+          ratio: client?.ratio || '',
           torrentName: torrent?.name || '',
           torrentProgress: torrent?.progress || '',
           torrentDownLoadSpeed: torrent?.downloadSpeed || '',
@@ -94,6 +111,7 @@ export const streamStats = async (req, res) => {
 
     // Закрыть соединение при отключении клиента
     req.on('close', () => {
+      console.log('stat-close')
       clearInterval(intervalId)
     })
   } catch (error) {
@@ -129,32 +147,42 @@ export const streamTorrent = async (req, res) => {
 }
 
 export const addMagnet = async (req, res) => {
-  const magnet = req.params.magnet
+  const magnetLink = req.body.magnet
+  const { infoHash } = await ParseTorrent(magnetLink)
 
   try {
-    const torrent = await client.get(magnet)
+    const torrent = client.get(infoHash)
+    if (torrent?.name) {
+      if (torrent && torrent.files && torrent.files.length > 0) {
+        const files = torrent.files.map((data) => ({
+          name: data.name,
+          length: data.length
+        }))
 
-    if (!torrent) {
-      // await fs.mkdirSync(`${!fs.existsSync(WEBTORRENT_DOWNLOAD_PATH) ? createDownlaodFolder() : WEBTORRENT_DOWNLOAD_PATH}/${magnet}`)
-
+        res.status(200).send({ files, infoHash })
+      } else {
+        res.status(404).send({ error: 'No files found in the torrent', infoHash })
+      }
+    } else {
       client.add(
-        magnet,
-        { path: `${createDownlaodFolder()}/${magnet}` },
+        magnetLink,
+        { path: `${createDownlaodFolder()}/${infoHash}` },
         (torrent) => {
-          const files = torrent.files.map((data) => ({
-            name: data.name,
-            length: data.length
-          }))
+          console.log('Torrent added:', torrent.infoHash)
+          console.log('Trackers:', torrent.announce)
 
-          res.status(200).send({ files })
+          if (torrent && torrent.files && torrent.files.length > 0) {
+            const files = torrent.files.map((data) => ({
+              name: data.name,
+              length: data.length
+            }))
+
+            res.status(200).send({ files, infoHash })
+          } else {
+            res.status(404).send({ error: 'No files found in the torrent', infoHash })
+          }
         }
       )
-    } else {
-      const files = torrent.files.map((data) => ({
-        name: data.name,
-        length: data.length
-      }))
-      res.status(200).send({ files })
     }
   } catch (error) {
     res.status(400).send(`Error add magnet: ${error}`)

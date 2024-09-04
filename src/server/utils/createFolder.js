@@ -6,7 +6,11 @@ import { TORRENT_URLS } from '../config.js'
 export const createDownlaodFolder = () => {
   const downloadsPath = path.join(app.getPath('temp'), 'stream-downloads')
 
-  return fs.existsSync(downloadsPath) ? downloadsPath : fs.mkdirSync(downloadsPath)
+  if (!fs.existsSync(downloadsPath)) {
+    fs.mkdirSync(downloadsPath, { recursive: true })
+  }
+
+  return downloadsPath
 }
 
 export const createContentTvFolder = () => {
@@ -24,23 +28,22 @@ export const createContentTvFolder = () => {
 export const createContentUrlsFolder = () => {
   const directoryPath = path.join(app.getPath('temp'), 'stream-content', 'urls')
 
-  if (fs.existsSync(directoryPath)) {
-    return directoryPath
+  if (!fs.existsSync(directoryPath)) {
+    try {
+      fs.mkdirSync(directoryPath, { recursive: true })
+      fs.writeFileSync(
+        `${directoryPath}/baseUrl.json`,
+        JSON.stringify({ url: '' }, null, 2)
+      )
+      fs.writeFileSync(
+        `${directoryPath}/urls.json`,
+        JSON.stringify(TORRENT_URLS, null, 2)
+      )
+    } catch (err) {
+      console.error('Ошибка при создании папки:', err)
+      return null
+    }
   }
 
-  try {
-    fs.mkdirSync(directoryPath, { recursive: true })
-    fs.writeFileSync(
-      `${directoryPath}/baseUrl.json`,
-      JSON.stringify({ url: '' }, null, 2)
-    )
-    fs.writeFileSync(
-      `${directoryPath}/urls.json`,
-      JSON.stringify(TORRENT_URLS, null, 2)
-    )
-    return directoryPath
-  } catch (err) {
-    console.error('Ошибка при создании папки:', err)
-    return null
-  }
+  return directoryPath
 }
